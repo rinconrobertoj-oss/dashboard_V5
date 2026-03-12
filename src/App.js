@@ -415,7 +415,7 @@ export default function Dashboard() {
 
   // ✅ Cargar JSON
   useEffect(() => {
-    fetch("/data.json?ts=" + Date.now())
+    fetch(process.env.PUBLIC_URL + "/data.json?ts=" + Date.now())
       .then((r) => {
         if (!r.ok) throw new Error(`HTTP ${r.status} al cargar /data.json`);
         return r.json();
