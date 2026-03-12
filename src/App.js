@@ -293,7 +293,9 @@ const toSessionRows = (raw) => {
     .filter((r) => r.evidencias.length > 0);
 };
 
-const EvidenciasPendientesCard = ({ rows, selectedCouncil }) => (
+const EvidenciasPendientesCard = ({ rows, selectedCouncil }) => {
+  const totalEvidencias = rows.reduce((sum, row) => sum + row.evidencias.length, 0);
+  return (
   <div className="bg-white rounded-2xl shadow-sm border border-slate-100 p-8">
     <div className="flex items-center gap-3 mb-6">
       <div className="bg-rose-600 p-2 rounded-lg">
@@ -310,9 +312,14 @@ const EvidenciasPendientesCard = ({ rows, selectedCouncil }) => (
         </p>
       </div>
       {rows.length > 0 && (
-        <span className="ml-auto inline-flex items-center justify-center bg-rose-50 text-rose-700 font-black text-xs px-3 py-1 rounded-full border border-rose-200">
-          {rows.length} sesión{rows.length !== 1 ? "es" : ""} con pendientes
-        </span>
+        <div className="ml-auto flex items-center gap-2 flex-wrap justify-end">
+          <span className="inline-flex items-center justify-center bg-rose-50 text-rose-700 font-black text-xs px-3 py-1 rounded-full border border-rose-200">
+            {rows.length} sesión{rows.length !== 1 ? "es" : ""} con pendientes
+          </span>
+          <span className="inline-flex items-center justify-center bg-amber-50 text-amber-700 font-black text-xs px-3 py-1 rounded-full border border-amber-200">
+            {totalEvidencias} evidencia{totalEvidencias !== 1 ? "s" : ""} pendiente{totalEvidencias !== 1 ? "s" : ""}
+          </span>
+        </div>
       )}
     </div>
 
@@ -380,7 +387,8 @@ const EvidenciasPendientesCard = ({ rows, selectedCouncil }) => (
       )}
     </div>
   </div>
-);
+  );
+};
 
 // ---------------- HELPERS SOPORTE ----------------
 // ✅ Sustituye mergeConsultasWithPhone: normaliza a líneas (soporta string/array/object) y permite multilínea
