@@ -423,7 +423,6 @@ export default function Dashboard() {
       .then((json) => setData({ ...DEFAULT_DATA, ...json }))
       .catch((e) => setDataError(e))
       .finally(() => setIsLoadingData(false));
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   // ✅ Derivados seguros (sin redeclarar cosas luego, y SIN otro return)
