@@ -849,7 +849,7 @@ export default function Dashboard() {
               </h1>
               <div className="flex items-center mt-1">
                 <p className="text-slate-500 text-sm">
-                  Validaciones y Producción • Corte {REPORT_DATE_LABEL}
+                  Fecha informe {REPORT_DATE_LABEL}
                 </p>
                 <span className="mx-3 text-slate-300">|</span>
                 <div className="flex items-center bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">
