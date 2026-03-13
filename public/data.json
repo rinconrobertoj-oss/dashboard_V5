@@ -1,23 +1,20 @@
 {
-  "REPORT_DATE_LABEL": "6 de Marzo",
-  "REPORT_DATE_FOOTER": "06/03/2026",
+  "REPORT_DATE_LABEL": "",
+  "REPORT_DATE_FOOTER": "",
   "INITIAL_DATA": [
     {
       "consejo": "INGENIEROS DE TELECOMUNICACIÓN",
-      "validados": 726,
+      "validados": 725,
       "objetivo": 500,
       "cupo": 1250.0,
-      "crecimiento": 0.0,
-      "inactivos": 153,
+      "crecimiento": -0.14,
+      "inactivos": 152,
       "cursos": 8,
       "mat_consejo": 0,
       "mat_lo": 0,
       "mat_prod": 10,
-      "contratos": "11/11",
-      "daci": "9/9",
-      "facturas": "13/13",
-      "web_conv": 12,
-      "web_real": 6,
+      "web_conv": 6,
+      "web_real": 12,
       "pres_conv": 0,
       "pres_real": 3,
       "bloqueos": " ",
@@ -27,7 +24,15 @@
       "evidencias_faltantes": [
         {
           "sesion": "EW-COIT-12-A2-ES-01_03032026_1800",
-          "evidencias": ["Hoja Teams"]
+          "evidencias": [
+            "Hoja Teams"
+          ]
+        },
+        {
+          "sesion": "EW-COIT-12-A2-ES-02_05032026_1800",
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
         }
       ]
     },
@@ -36,38 +41,32 @@
       "validados": 232,
       "objetivo": 140,
       "cupo": 350.0,
-      "crecimiento": 0.43,
-      "inactivos": 71,
+      "crecimiento": 0.0,
+      "inactivos": 70,
       "cursos": 8,
       "mat_consejo": 2,
-      "mat_lo": 1,
-      "mat_prod": 5,
-      "contratos": "20/20",
-      "daci": "20/20",
-      "facturas": "6/20",
+      "mat_lo": 0,
+      "mat_prod": 6,
       "web_conv": 0,
       "web_real": 0,
       "pres_conv": 0,
       "pres_real": 0,
       "bloqueos": " ",
-      "pendientes_webinar": "-Se inician webinars la primera quincena de mayo",
+      "pendientes_webinar": " ",
       "pendientes_presencial": " ",
       "consultas": " "
     },
     {
       "consejo": "TÉCNICOS DE TELECOMUNICACIÓN",
-      "validados": 398,
+      "validados": 425,
       "objetivo": 500,
       "cupo": 1250.0,
-      "crecimiento": 7.57,
-      "inactivos": 138,
+      "crecimiento": 6.8,
+      "inactivos": 136,
       "cursos": 10,
       "mat_consejo": 2,
-      "mat_lo": 1,
-      "mat_prod": 7,
-      "contratos": "8/9",
-      "daci": "9/9",
-      "facturas": "6/9",
+      "mat_lo": 0,
+      "mat_prod": 8,
       "web_conv": 8,
       "web_real": 0,
       "pres_conv": 0,
@@ -75,22 +74,19 @@
       "bloqueos": " ",
       "pendientes_webinar": " ",
       "pendientes_presencial": " ",
-      "consultas": "Ha habido un total de 10 consultas e incidencias desde el día 3 de marzo. 3 están escaladas. \nDetalle: Los usuarios están experimentando numerosos problemas relacionados con la asistencia y el acceso a las sesiones de aula virtual del curso “Comunicación e identidad digital profesional basado en herramientas de IA”, incluyendo sesiones que desaparecen de la plataforma, imposibilidad de acceder a webinars programados, y asistencias completas que no quedan registradas o aparecen con fechas erróneas. Ha sido programado un webinar incorrectamente porque pertenece al COIT y les ha llegado un mensaje el día anterior confirmando la sesión."
+      "consultas": "Ha habido un total de 5 consultas e incidencias desde el día 6 de marzo. 2 están escaladas.\nDetalle: Se han identificado diversas dudas generales e incidencias en la plataforma virtual. Entre ellas destacan la consulta sobre el estado de inscripción al módulo 1, la falta de incremento en el tiempo registrado de dedicación al curso, dificultades para iniciar contenidos específicos y ausencia de actualización del progreso en las lecciones y unidades, lo cual obstaculiza el avance regular en la formación."
     },
     {
       "consejo": "MINAS",
-      "validados": 286,
+      "validados": 283,
       "objetivo": 160,
       "cupo": 400.0,
-      "crecimiento": 0.0,
+      "crecimiento": -1.0,
       "inactivos": 5,
       "cursos": 10,
       "mat_consejo": 0,
       "mat_lo": 0,
       "mat_prod": 10,
-      "contratos": "13/13",
-      "daci": "12/12",
-      "facturas": "12/12",
       "web_conv": 0,
       "web_real": 19,
       "pres_conv": 0,
@@ -102,18 +98,15 @@
     },
     {
       "consejo": "GEOMÁTICA Y TOPOGRÁFICA",
-      "validados": 234,
+      "validados": 232,
       "objetivo": 300,
       "cupo": 750.0,
-      "crecimiento": 0.43,
-      "inactivos": 63,
+      "crecimiento": -0.85,
+      "inactivos": 61,
       "cursos": 8,
       "mat_consejo": 6,
-      "mat_lo": 1,
-      "mat_prod": 1,
-      "contratos": "0/5",
-      "daci": "0/5",
-      "facturas": "0/5",
+      "mat_lo": 0,
+      "mat_prod": 2,
       "web_conv": 0,
       "web_real": 0,
       "pres_conv": 0,
@@ -125,424 +118,833 @@
     },
     {
       "consejo": "EDUCACIÓN FÍSICA",
-      "validados": 1924,
+      "validados": 1953,
       "objetivo": 1200,
       "cupo": 3000.0,
-      "crecimiento": 2.7199999999999998,
-      "inactivos": 424,
+      "crecimiento": 1.5,
+      "inactivos": 427,
       "cursos": 9,
       "mat_consejo": 1,
       "mat_lo": 0,
       "mat_prod": 9,
-      "contratos": "22/22",
-      "daci": "21/22",
-      "facturas": "22/22",
-      "web_conv": 28,
-      "web_real": 10,
-      "pres_conv": 72,
-      "pres_real": 0,
-      "bloqueos": "-El formador está pendiente de subir las evidencias",
+      "web_conv": 25,
+      "web_real": 13,
+      "pres_conv": 70,
+      "pres_real": 2,
+      "bloqueos": "-Están pendientes los DNIs y los datos de las salas",
       "pendientes_webinar": " ",
-      "pendientes_presencial": "- Pendientes los documentos de los formadores de las sesiones presenciales",
-      "consultas": " ",
+      "pendientes_presencial": " ",
+      "consultas": "Ha habido un total de 38 consultas e incidencias desde el día 6 de marzo. 2 están escaladas.\nDetalle: Las incidencias se concentran principalmente en temas de acceso, asistencia y cálculo de horas en formatos como formación presencial, aulas virtuales y webinars. Entre los problemas identificados se encuentran cuestiones de accesibilidad (como audio, credenciales o códigos), dificultades con la inscripción y el ingreso a sesiones, falta de contabilización del tiempo, asistencia no registrada tanto en sesiones presenciales como síncronas, duplicación o bloqueo de módulos, errores relacionados con cuentas o correos electrónicos, ausencia de la parte transversal, obstáculos para cancelar webinars y solicitudes de baja. Todos estos inconvenientes afectan la correcta finalización y validación de la formación.",
       "evidencias_faltantes": [
         {
+          "sesion": "EP-COLEF-01-A5-ES-01-001_07032026_0900_",
+          "evidencias": [
+            "CVs",
+            "Ficha Centro",
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-COLEF-01-A5-ES-01-001_07032026_1500_",
+          "evidencias": [
+            "CVs",
+            "Ficha Centro",
+            "Foto sala"
+          ]
+        },
+        {
           "sesion": "EW-COLEF-02-A5-ES-001_02022026_1900",
-          "evidencias": ["CV", "Pantallazo Aula Virtual"]
+          "evidencias": [
+            "CV",
+            "Pantallazo Aula Virtual"
+          ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-001_03022026_1900",
-          "evidencias": ["CV"]
+          "evidencias": [
+            "CV"
+          ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-001_04022026_1900",
-          "evidencias": ["CV"]
+          "evidencias": [
+            "CV"
+          ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-001_05022026_1900",
-          "evidencias": ["CV"]
+          "evidencias": [
+            "CV"
+          ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-002_06022026_1600",
-          "evidencias": ["CV", "Pantallazo Aula Virtual"]
+          "evidencias": [
+            "CV",
+            "Pantallazo Aula Virtual"
+          ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-002_06022026_1845",
-          "evidencias": ["CV"]
+          "evidencias": [
+            "CV"
+          ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-002_13022026_1600",
-          "evidencias": ["CV"]
+          "evidencias": [
+            "CV"
+          ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-002_13022026_1845",
-          "evidencias": ["CV"]
+          "evidencias": [
+            "CV"
+          ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-003_07022026_0900",
-          "evidencias": ["CV", "Pantallazo Aula Virtual"]
+          "evidencias": [
+            "CV",
+            "Pantallazo Aula Virtual"
+          ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-003_07022026_1145",
-          "evidencias": ["CV", "Pantallazo Aula Virtual"]
+          "evidencias": [
+            "CV",
+            "Pantallazo Aula Virtual"
+          ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-003_14022026_0900",
-          "evidencias": ["CV"]
+          "evidencias": [
+            "CV"
+          ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-003_14022026_1145",
-          "evidencias": ["CV"]
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-01_09032026_1900",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-02_10032026_1900",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-03_11032026_1900",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-04_12032026_1900",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-01_30032026_1000",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-02_25032026_1230",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-03_24032026_0900",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-04_26032026_1000",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-01_17042026_1600",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-02_17042026_1845",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-03_24042026_1600",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-04_24042026_1845",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-01_25042026_0900",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-02_25042026_1145",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-03_02052026_0900",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-04_02052026_1145",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-01_18052026_1000",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-02_19052026_1000",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-03_20052026_1000",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-04_21052026_1000",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-01_22052026_1600",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-02_22052026_1845",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-03_29052026_1600",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-04_29052026_1845",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-01_25052026_1900",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-02_26052026_1900",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-03_27052026_1900",
+          "evidencias": [
+            "CV"
+          ]
+        },
+        {
+          "sesion": "EW-COLEF-02-A5-ES-04_28052026_1900",
+          "evidencias": [
+            "CV"
+          ]
         }
       ]
     },
     {
       "consejo": "TERAPEUTAS OCUPACIONALES",
-      "validados": 1374,
+      "validados": 1380,
       "objetivo": 1300,
       "cupo": 3250.0,
-      "crecimiento": -0.5,
-      "inactivos": 85,
+      "crecimiento": 0.5,
+      "inactivos": 87,
       "cursos": 11,
       "mat_consejo": 0,
       "mat_lo": 0,
       "mat_prod": 11,
-      "contratos": "9/9",
-      "daci": "8/9",
-      "facturas": "9/9",
-      "web_conv": 45,
-      "web_real": 43,
-      "pres_conv": 0,
+      "web_conv": 43,
+      "web_real": 46,
+      "pres_conv": 18,
       "pres_real": 35,
-      "bloqueos": "- La sesión del fin de semana contempla el mismo formador presencial en Barcelona y en Pamplona",
+      "bloqueos": " ",
       "pendientes_webinar": " ",
       "pendientes_presencial": " ",
-      "consultas": "Ha habido un total de 72 consultas de incidencias desde el día 3 de marzo.  7 de las incidencias han sido escaladas. \nDetalle: Los usuarios reportan distintas incidencias relacionadas con la navegación y funcionalidad de la plataforma, como la necesidad de cambiar de edición en actividades formativas y problemas con el apartado de foros y comunidades. También se mencionan dificultades para acceder a webinars específicos, gestionar la cuenta, apuntarse a nuevas sesiones y resolver incidencias de cursos, además de un caso relacionado con accesibilidad por disfunción visual.",
+      "consultas": "Ha habido un total de 67 consultas de incidencias desde el día 6 de marzo.  11 casos han sido escalados.\nDetalle: Se reportan problemas en la teleformación y el seguimiento de asistencia: los casos prácticos se marcan como pendientes, aunque hayan sido enviados a tiempo, sin opción de modificación; una alumna solicita cómputo manual por errores en la parte online tras suplantación y escalado. Hay fallos en webinars del módulo “Uso de Foros y Comunidades Virtuales (Terapia Ocupacional)”, donde la actividad acreditada no refleja las horas completas, y desconexiones afectan el registro en “Mi actividad”. En presenciales, la inscripción no aparece pese a confirmación, las fechas y horarios no se visualizan y hay inconsistencias entre capturas recientes. Se reclama un cambio de fechas de webinar sin previo aviso.",
       "evidencias_faltantes": [
         {
           "sesion": "EP-CGTO-01-A5-ES-001_24012026_0900_Zaragoza",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-001_25012026_0900_Zaragoza",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-002_24012026_0900_Zaragoza",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-002_24012026_1530_Zaragoza",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-003_24012026_1530_Zaragoza",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-003_25012026_0900_Zaragoza",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-004_24012026_0900_Valencia",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-004_24012026_1530_Valencia",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-004_14022026_0900_Valencia",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-004_14022026_1530_Valencia",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-005_31012026_0900_Murcia",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-005_31012026_1530_Murcia",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-005_07022026_0900_Murcia",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-005_07022026_1530_Murcia",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-006_31012026_0900_Murcia",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-006_31012026_1530_Murcia",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-006_07022026_0900_Murcia",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-006_07022026_1530_Murcia",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-007_01022026_0900_Alicante",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-007_01022026_1530_Alicante",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-007_07022026_0900_Alicante",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-007_07022026_1530_Alicante",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-008_14022026_0830_Granada",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-008_14022026_1500_Granada",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-008_15022026_0830_Granada",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-009_14022026_0830_Granada",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-009_14022026_1500_Granada",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-009_15022026_0830_Granada",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-009_15022026_1500_Granada",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-010_14022026_0900_Valencia",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-010_14022026_1530_Valencia",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-010_21022026_0900_Valencia",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-010_21022026_1530_Valencia",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-011_20022026_1530_Toledo",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-011_21022026_0900_Toledo",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-011_21022026_1530_Toledo",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-011_22022026_0900_Toledo",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-012_20022026_1530_Toledo",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-012_21022026_0900_Toledo",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-012_21022026_1530_Toledo",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-012_22022026_0900_Toledo",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ES-002_03122025_1600",
-          "evidencias": ["Pantallazo Aula Virtual"]
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ES-010_04022026_1600",
-          "evidencias": ["Pantallazo Aula Virtual"]
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ES-014_03032026_1900",
-          "evidencias": ["Hoja Teams"]
+          "evidencias": [
+            "Hoja Teams"
+          ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ES-014_04032026_1600",
-          "evidencias": ["Hoja Teams"]
+          "evidencias": [
+            "Hoja Teams"
+          ]
+        },
+        {
+          "sesion": "EW-CGTO-02-A2-ES-014_05032026_1900",
+          "evidencias": [
+            "Hoja Teams"
+          ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ES-019_19122025_0900",
-          "evidencias": ["Pantallazo Aula Virtual"]
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ES-020_23122025_0900",
-          "evidencias": ["Pantallazo Aula Virtual"]
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
         }
       ]
     },
     {
       "consejo": "TRABAJO SOCIAL",
-      "validados": 4593,
+      "validados": 4612,
       "objetivo": 2515,
       "cupo": 6287.5,
-      "crecimiento": 0.8999999999999999,
-      "inactivos": 973,
+      "crecimiento": 0.4,
+      "inactivos": 972,
       "cursos": 8,
       "mat_consejo": 0,
       "mat_lo": 0,
       "mat_prod": 8,
-      "contratos": "41/41",
-      "daci": "35/38",
-      "facturas": "41/41",
       "web_conv": 16,
       "web_real": 6,
-      "pres_conv": 22,
-      "pres_real": 32,
-      "bloqueos": "-Están pendientes las fichas de los centros.",
+      "pres_conv": 18,
+      "pres_real": 36,
+      "bloqueos": "-Pendientes las fichas de los centros firmadas",
       "pendientes_webinar": " ",
-      "pendientes_presencial": " ",
-      "consultas": "Ha habido un total de 70 consultas e incidencias desde el día 03 de marzo. \nDetalle: Los usuarios están solicitando principalmente información y soporte relacionado con la obtención y descarga del certificado o diploma final de la formación.",
+      "pendientes_presencial": "- Se implementarán las sesiones bimodales a partir del 20 de marzo",
+      "consultas": "Ha habido un total de 54 consultas e incidencias desde el día 06 de marzo. \nDetalle: Se gestionan consultas generales sobre la plataforma, como cambios de correo, credenciales, temas de inscripción y asistencia a webinars, problemas de tiempo, acceso a encuestas, obtención de certificados, funcionamiento y validación por el colegio profesional, códigos de acceso y solicitudes de baja, que dificultan acreditar la formación.",
       "evidencias_faltantes": [
         {
           "sesion": "EP-CGTS-01-A1-ES-001_23012026_0900_Barcelona",
-          "evidencias": ["Ficha Centro", "Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-001_23012026_1530_Barcelona",
-          "evidencias": ["Ficha Centro"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-001_24012026_0900_Barcelona",
-          "evidencias": ["Ficha Centro"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-001_24012026_1530_Barcelona",
-          "evidencias": ["Ficha Centro", "Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-002_23012026_1600_Las Palmas",
-          "evidencias": ["Ficha Centro"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-002_24012026_0900_Las Palmas",
-          "evidencias": ["Ficha Centro"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-002_24012026_1500_Las Palmas",
-          "evidencias": ["Ficha Centro"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-002_25012026_0900_Las Palmas",
-          "evidencias": ["Ficha Centro"]
+          "evidencias": [
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-009_23012026_1600_Madrid",
-          "evidencias": ["Ficha Centro", "Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-009_24012026_0900_Madrid",
-          "evidencias": ["Ficha Centro", "Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-009_24012026_1600_Madrid",
-          "evidencias": ["Ficha Centro", "Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-009_25012026_0900_Madrid",
-          "evidencias": ["Ficha Centro"]
+          "evidencias": [
+            "Ficha Centro",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-003_13022026_1600_Alicante",
-          "evidencias": ["Ficha Centro", "Hoja de firmas"]
+          "evidencias": [
+            "Ficha Centro",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-003_14022026_0900_Alicante",
-          "evidencias": ["Ficha Centro", "Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-003_14022026_1500_Alicante",
-          "evidencias": ["Ficha Centro", "Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-003_15022026_0900_Alicante",
-          "evidencias": ["Ficha Centro"]
+          "evidencias": [
+            "Ficha Centro"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-011_06022026_0900_Badajoz",
-          "evidencias": ["Ficha Centro"]
+          "evidencias": [
+            "Ficha Centro",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-011_06022026_1500_Badajoz",
-          "evidencias": ["Ficha Centro"]
+          "evidencias": [
+            "Ficha Centro",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-011_07022026_0900_Badajoz",
-          "evidencias": ["Ficha Centro", "Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-011_07022026_1600_Badajoz",
-          "evidencias": ["Ficha Centro", "Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-012_21022026_0900_Santander",
-          "evidencias": ["Ficha Centro", "Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-012_21022026_1500_Santander",
-          "evidencias": ["Ficha Centro", "Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-012_22022026_0900_Santander",
-          "evidencias": ["Ficha Centro", "Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-012_22022026_1600_Santander",
-          "evidencias": ["Ficha Centro", "Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-006_20022026_1600_León",
-          "evidencias": ["Ficha Centro", "Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-006_21022026_0900_León",
-          "evidencias": ["Ficha Centro", "Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-006_21022026_1600_León",
-          "evidencias": ["Ficha Centro", "Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-006_22022026_0900_León",
-          "evidencias": ["Ficha Centro", "Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES_00011900_0000_La Coruña",
@@ -559,51 +961,105 @@
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-007_06022026_0900_La Rioja",
-          "evidencias": ["CVs", "Ficha Centro"]
+          "evidencias": [
+            "Ficha Centro"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-007_06022026_1530_La Rioja",
-          "evidencias": ["CVs", "Ficha Centro", "Foto sala"]
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-007_07022026_0900_La Rioja",
-          "evidencias": ["CVs", "Ficha Centro", "Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-007_07022026_1530_La Rioja",
-          "evidencias": ["CVs", "Ficha Centro", "Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-008_20022026_1600_Sevilla",
-          "evidencias": ["CVs", "Ficha Centro"]
+          "evidencias": [
+            "CVs",
+            "Ficha Centro"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-008_21022026_0900_Sevilla",
-          "evidencias": ["CVs", "Ficha Centro"]
+          "evidencias": [
+            "CVs",
+            "Ficha Centro"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-008_21022026_1600_Sevilla",
-          "evidencias": ["CVs", "Ficha Centro"]
+          "evidencias": [
+            "CVs",
+            "Ficha Centro"
+          ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-008_22022026_0900_Sevilla",
-          "evidencias": ["CVs", "Ficha Centro", "Hoja de firmas"]
+          "evidencias": [
+            "CVs",
+            "Ficha Centro",
+            "Hoja de firmas"
+          ]
+        },
+        {
+          "sesion": "EP-CGTS-01-A1-ES-017_06032026_1600_Madrid",
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CGTS-01-A1-ES-017_07032026_0900_Madrid",
+          "evidencias": [
+            "Ficha Centro"
+          ]
+        },
+        {
+          "sesion": "EP-CGTS-01-A1-ES-017_07032026_1600_Madrid",
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CGTS-01-A1-ES-017_08032026_0900_Madrid",
+          "evidencias": [
+            "Ficha Centro"
+          ]
         },
         {
           "sesion": "Edición 6_17022026_1630",
-          "evidencias": ["Pantallazo Aula Virtual"]
-        },
-        {
-          "sesion": "Edición 6_18022026_1630",
-          "evidencias": ["Pantallazo Aula Virtual"]
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
         },
         {
           "sesion": "Edición 6_24022026_1630",
-          "evidencias": ["Pantallazo Aula Virtual"]
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
         },
         {
           "sesion": "Edición 6_25022026_1700",
-          "evidencias": ["Pantallazo Aula Virtual"]
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
         }
       ]
     },
@@ -615,108 +1071,93 @@
       "crecimiento": 0.0,
       "inactivos": 0,
       "cursos": 8,
-      "mat_consejo": 6,
-      "mat_lo": 2,
-      "mat_prod": 0,
-      "contratos": "1/1",
-      "daci": "1/1",
-      "facturas": "1/1",
+      "mat_consejo": 3,
+      "mat_lo": 3,
+      "mat_prod": 2,
       "web_conv": 0,
       "web_real": 0,
       "pres_conv": 0,
       "pres_real": 0,
-      "bloqueos": "- Pendientes los dinamizadores y tutores de las AAFF especificas.",
+      "bloqueos": " ",
       "pendientes_webinar": " ",
       "pendientes_presencial": " ",
       "consultas": " "
     },
     {
       "consejo": "TÉCNICOS INDUSTRIALES",
-      "validados": 3014,
+      "validados": 3041,
       "objetivo": 5352,
       "cupo": 13380.0,
-      "crecimiento": 2.48,
-      "inactivos": 561,
+      "crecimiento": 0.9,
+      "inactivos": 546,
       "cursos": 8,
       "mat_consejo": 0,
       "mat_lo": 0,
       "mat_prod": 8,
-      "contratos": "6/10",
-      "daci": "10/10",
-      "facturas": "10/10",
-      "web_conv": 13,
-      "web_real": 8,
+      "web_conv": 9,
+      "web_real": 12,
       "pres_conv": 0,
       "pres_real": 0,
-      "bloqueos": "- Quedan pendientes 2 CVs de formadores.",
+      "bloqueos": " ",
       "pendientes_webinar": " ",
-      "pendientes_presencial": "- Pendiente la planificación de las presenciales",
-      "consultas": " ",
+      "pendientes_presencial": "-Pendiente la planificación de las sesiones presenciales",
+      "consultas": "Ha habido un total de 31 consultas e incidencias desde el día 6 de marzo. \nDetalle: Se reportan incidentes relacionados con el acceso y seguimiento de webinars y del aula virtual, como problemas para entrar en las sesiones, visualizar vídeos, o encontrar cursos y webinars. También se notifican errores en el registro de asistencia y horas, falta de actualización en la sección “Mi actividad”, actividades finalizadas que no aparecen como completadas, dificultades con encuestas de satisfacción, seguimiento y cierre de cursos, así como inconvenientes para descargar certificados, desmatricularse o consultar sesiones presenciales y virtuales.",
       "evidencias_faltantes": [
         {
-          "sesion": "EW-COGITI-02-A5-ES-01_16022026_1600",
-          "evidencias": ["Hoja Teams"]
-        },
-        {
-          "sesion": "EW-COGITI-02-A5-ES-01_17022026_1600",
-          "evidencias": ["Hoja Teams"]
-        },
-        {
-          "sesion": "EW-COGITI-02-A5-ES-01_18022026_1600",
-          "evidencias": ["Hoja Teams"]
-        },
-        {
-          "sesion": "EW-COGITI-02-A5-ES-01_19022026_1600",
-          "evidencias": ["Hoja Teams"]
-        },
-        {
-          "sesion": "EW-COGITI-02-A5-ES-02_23022026_1600",
-          "evidencias": ["Hoja Teams"]
-        },
-        {
           "sesion": "EW-COGITI-02-A5-ES-02_24022026_1600",
-          "evidencias": ["Pantallazo Aula Virtual", "Hoja Teams"]
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
         },
         {
-          "sesion": "EW-COGITI-02-A5-ES-02_25022026_1600",
-          "evidencias": ["Hoja Teams"]
+          "sesion": "EW-COGITI-02-A5-ES-04_26022026_1600",
+          "evidencias": [
+            "Hoja Teams"
+          ]
         },
         {
-          "sesion": "EW-COGITI-02-A5-ES-02_26022026_1600",
-          "evidencias": ["Hoja Teams"]
-        },
-        {
-          "sesion": "EW-COGITI-02-A5-ES-03_02032026_1800",
-          "evidencias": ["Hoja Teams"]
-        },
-        {
-          "sesion": "EW-COGITI-02-A5-ES-03_03032026_1800",
-          "evidencias": ["Hoja Teams"]
+          "sesion": "EW-COGITI-02-A5-ES-01_02032026_1800",
+          "evidencias": [
+            "Hoja Teams"
+          ]
         },
         {
           "sesion": "EW-COGITI-02-A5-ES-03_04032026_1800",
-          "evidencias": ["Hoja Teams"]
+          "evidencias": [
+            "Pantallazo Aula Virtual",
+            "Hoja Teams"
+          ]
+        },
+        {
+          "sesion": "EW-COGITI-02-A5-ES-04_05032026_1800",
+          "evidencias": [
+            "CV",
+            "Pantallazo Aula Virtual"
+          ]
+        },
+        {
+          "sesion": "EW-COGITI-02-A5-ES-04_26032026_1800",
+          "evidencias": [
+            "CV"
+          ]
         }
       ]
     },
     {
       "consejo": "ARQUITECTURA TÉCNICA",
-      "validados": 4344,
+      "validados": 4345,
       "objetivo": 3057,
       "cupo": 7642.5,
-      "crecimiento": 0.32,
-      "inactivos": 1171,
+      "crecimiento": 0.0,
+      "inactivos": 1148,
       "cursos": 10,
       "mat_consejo": 0,
       "mat_lo": 0,
       "mat_prod": 10,
-      "contratos": "22/23",
-      "daci": "23/23",
-      "facturas": "21/23",
       "web_conv": 0,
       "web_real": 4,
-      "pres_conv": 4,
-      "pres_real": 8,
+      "pres_conv": 32,
+      "pres_real": 12,
       "bloqueos": " ",
       "pendientes_webinar": " ",
       "pendientes_presencial": " ",
@@ -724,25 +1165,30 @@
       "evidencias_faltantes": [
         {
           "sesion": "EP-CGATE-01-A5-ES-07_04032026_1600_Córdoba",
-          "evidencias": ["Foto sala"]
+          "evidencias": [
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EW-CGATE-02-A2-ES-01_05032026_0900",
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
         }
       ]
     },
     {
       "consejo": "ACTUARIOS",
-      "validados": 418,
+      "validados": 422,
       "objetivo": 250,
       "cupo": 625.0,
-      "crecimiento": 0.24,
-      "inactivos": 63,
+      "crecimiento": 1.0,
+      "inactivos": 61,
       "cursos": 8,
       "mat_consejo": 2,
       "mat_lo": 0,
       "mat_prod": 6,
-      "contratos": "9/9",
-      "daci": "0/8",
-      "facturas": "0/8",
-      "web_conv": 0,
+      "web_conv": 6,
       "web_real": 0,
       "pres_conv": 0,
       "pres_real": 0,
@@ -752,374 +1198,581 @@
       "consultas": " ",
       "evidencias_faltantes": [
         {
-          "sesion": "EW-IAE-02-A1-ES-000_00011900_0000",
-          "evidencias": ["GD", "CV"]
+          "sesion": "EW-IAE-02-A1-ES_00011900_0000",
+          "evidencias": [
+            "GD",
+            "CV"
+          ]
         }
       ]
     },
     {
       "consejo": "SOCIÓLOGOS Y POLITÓLOGOS",
-      "validados": 297,
+      "validados": 301,
       "objetivo": 300,
       "cupo": 750.0,
-      "crecimiento": 19.28,
-      "inactivos": 65,
+      "crecimiento": 1.4,
+      "inactivos": 59,
       "cursos": 11,
       "mat_consejo": 0,
       "mat_lo": 0,
       "mat_prod": 11,
-      "contratos": "40/40",
-      "daci": "19/19",
-      "facturas": "39/39",
-      "web_conv": 5,
-      "web_real": 5,
-      "pres_conv": 4,
-      "pres_real": 8,
-      "bloqueos": "-Pendiente confirmar con el consejo las horas de las sesiones de abril",
-      "pendientes_webinar": " ",
+      "web_conv": 4,
+      "web_real": 6,
+      "pres_conv": 1,
+      "pres_real": 11,
+      "bloqueos": " ",
+      "pendientes_webinar": "-Pendiente confirmar las horas de las sesiones de abril",
       "pendientes_presencial": " ",
-      "consultas": "Ha habido un total de 26 consultas e incidencias desde el día 3 de marzo. Una incidencia esta escalada.\nDetalle: Los usuarios tienen problemas para descargar certificados y completar la encuesta final, dudas sobre la formación presencial en Madrid, bloqueos al avanzar en el aula virtual, errores al registrar la asistencia en webinars y en la formación específica, dificultades con insignias que no se adjuntan y con los cursos iniciales del plan formativo, así como un error frecuente que muestra horas de aula virtual como no realizadas.",
+      "consultas": "Ha habido un total de 32 consultas e incidencias desde el día 6 de marzo. 1 ha sido escalada.\nDetalle: La plataforma formativa presenta incidencias técnicas y administrativas, como páginas o tests inaccesibles, errores en el registro de tiempos, avance de cursos y validación de asistencia, formación desactualizada, dificultades para obtener certificados y gestionar contraseñas e inscripciones, lo que dificulta completar y certificar la formación correctamente.",
       "evidencias_faltantes": [
         {
           "sesion": "EP-CSP-01-A5-ES-002_09022026_1000_Madrid",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CSP-01-A5-ES-002_10022026_1000_Madrid",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CSP-01-A5-ES-002_11022026_1000_Madrid",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CSP-01-A5-ES-002_12022026_1000_Madrid",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
+        },
+        {
+          "sesion": "EP-CSP-01-A5-ES-003_09032026_1600_Madrid",
+          "evidencias": [
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CSP-01-A5-ES-003_10032026_1600_Madrid",
+          "evidencias": [
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CSP-01-A5-ES-003_11032026_1600_Madrid",
+          "evidencias": [
+            "Foto sala"
+          ]
         },
         {
           "sesion": "EW-CSP-02-A3-ES-003_02032026_1830",
-          "evidencias": ["Pantallazo Aula Virtual", "Hoja Teams"]
+          "evidencias": [
+            "Pantallazo Aula Virtual",
+            "Hoja Teams"
+          ]
         },
         {
           "sesion": "EW-CSP-02-A3-ES-003_03032026_1830",
-          "evidencias": ["Pantallazo Aula Virtual", "Hoja Teams"]
+          "evidencias": [
+            "Pantallazo Aula Virtual",
+            "Hoja Teams"
+          ]
         },
         {
           "sesion": "EW-CSP-02-A3-ES-003_04032026_1830",
-          "evidencias": ["Pantallazo Aula Virtual", "Hoja Teams"]
+          "evidencias": [
+            "Pantallazo Aula Virtual",
+            "Hoja Teams"
+          ]
+        },
+        {
+          "sesion": "EW-CSP-02-A3-ES-003_05032026_1830",
+          "evidencias": [
+            "Pantallazo Aula Virtual",
+            "Hoja Teams"
+          ]
         }
       ]
     },
     {
       "consejo": "MÉDICOS",
-      "validados": 14942,
+      "validados": 14998,
       "objetivo": 18664,
       "cupo": 46660.0,
-      "crecimiento": 1.27,
-      "inactivos": 4918,
+      "crecimiento": 0.4,
+      "inactivos": 4844,
       "cursos": 10,
       "mat_consejo": 2,
       "mat_lo": 0,
       "mat_prod": 8,
-      "contratos": "33/33",
-      "daci": "29/30",
-      "facturas": "26/30",
-      "web_conv": 23,
-      "web_real": 0,
+      "web_conv": 15,
+      "web_real": 8,
       "pres_conv": 0,
       "pres_real": 0,
       "bloqueos": " ",
       "pendientes_webinar": " ",
       "pendientes_presencial": " ",
-      "consultas": "Ha habido un total de 63 consultas e incidencias desde el día 27 de febrero. 3 incidencias están escaladas. \nDetalle: Los usuarios informan de problemas que les impiden continuar su formación, especialmente relacionados con la navegación y el acceso a materiales. Varias incidencias mencionan errores al descargar evaluaciones o archivos PDF en módulos del curso de IA, Big Data y salud digital, así como dificultades técnicas que bloquean el avance del curso tras intentar descargar documentos protegidos o no compatibles con su versión de Acrobat. También se reporta que, desde hace una semana, algunos PDF ya no pueden guardarse, lo que impide completar módulos posteriores."
-    },
-    {
-      "consejo": "FARMACÉUTICOS",
-      "validados": 7220,
-      "objetivo": 4014,
-      "cupo": 10035.0,
-      "crecimiento": 1.4200000000000002,
-      "inactivos": 1721,
-      "cursos": 13,
-      "mat_consejo": 1,
-      "mat_lo": 0,
-      "mat_prod": 12,
-      "contratos": "5/6",
-      "daci": "1/6",
-      "facturas": "1/6",
-      "web_conv": 9,
-      "web_real": 10,
-      "pres_conv": 0,
-      "pres_real": 0,
-      "bloqueos": " ",
-      "pendientes_webinar": " ",
-      "pendientes_presencial": " ",
-      "consultas": "Ha habido un total de 52 consultas e incidencias desde el día 3 de marzo. \nDetalle: Las incidencias reportadas se relacionan con problemas de acceso y funcionamiento del Aula Virtual y los webinars, incluyendo enlaces que no abren, sesiones que no comienzan, imposibilidad de acceder a determinados contenidos como BOT Plus o vídeos grabados, y dificultades para registrarse o darse de baja en webinars. También se mencionan fallos en el registro de asistencia, cursos que no se reflejan como finalizados, duplicidad de actividades en la parrilla, problemas con notificaciones o estados de inscripción, y consultas sobre eventos y gestión de la cuenta. Además, aparece un caso de accesibilidad referido a la realización de casos prácticos.",
+      "consultas": "Ha habido un total de 236 consultas e incidencias desde el día 06 de marzo. 7 incidencias están escaladas. \nDetalle: Se han reportado incidencias relacionadas con la navegación y el seguimiento de la formación, tales como el mal funcionamiento del reloj o temporizador, el tiempo de estudio que no se actualiza o que impide la realización de evaluaciones, horas de webinar no contabilizadas, dificultades en el registro de asistencia y acceso a webinars (incluido el curso de Ética y privacidad), así como consultas generales sobre webinars y el funcionamiento de la plataforma que dificultan la correcta finalización de los cursos.",
       "evidencias_faltantes": [
         {
-          "sesion": "EW-CGCOF-02-A2-ES-03_18022026_1430",
-          "evidencias": ["Hoja Teams"]
+          "sesion": "EW-CGCOM-02-A1-ES-04_06032026_1700",
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
         },
         {
-          "sesion": "EW-CGCOF-02-A2-ES-03_02032026_1430",
-          "evidencias": ["Hoja Teams"]
+          "sesion": "EW-CGCOM-02-A1-ES-01_07032026_0900",
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
         },
         {
-          "sesion": "EW-CGCOF-02-A2-ES-04_03032026_1430",
-          "evidencias": ["Hoja Teams"]
+          "sesion": "EW-CGCOM-02-A1-ES-02_07032026_1200",
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
+        },
+        {
+          "sesion": "EW-CGCOM-02-A1-ES-03_07032026_0900",
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
+        },
+        {
+          "sesion": "EW-CGCOM-02-A1-ES-04_07032026_1200",
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
+        },
+        {
+          "sesion": "EW-CGCOM-02-A1-ES-01_08032026_0900",
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
+        },
+        {
+          "sesion": "EW-CGCOM-02-A1-ES-02_08032026_1200",
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
+        },
+        {
+          "sesion": "EW-CGCOM-02-A1-ES-03_08032026_0900",
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
         }
       ]
     },
     {
+      "consejo": "FARMACÉUTICOS",
+      "validados": 7305,
+      "objetivo": 4014,
+      "cupo": 10035.0,
+      "crecimiento": 1.2,
+      "inactivos": 1697,
+      "cursos": 13,
+      "mat_consejo": 1,
+      "mat_lo": 0,
+      "mat_prod": 12,
+      "web_conv": 5,
+      "web_real": 14,
+      "pres_conv": 0,
+      "pres_real": 0,
+      "bloqueos": "-Pendiente la planificación de las sesiones de abril",
+      "pendientes_webinar": "-Pendiente la planificación de las sesiones de mayo y junio",
+      "pendientes_presencial": " ",
+      "consultas": "Ha habido un total de 77 consultas e incidencias desde el día 6 de marzo. \nDetalle: Se reciben consultas sobre el acceso y uso del aula virtual y webinars, incluyendo dificultades para unirse a Teams, credenciales faltantes, problemas de acceso o avance en cursos, dudas sobre funcionamiento, desmatriculación de webinars, errores en asistencia y actividad, certificados y visualización de contenidos o grabaciones."
+    },
+    {
       "consejo": "ENFERMERÍA",
-      "validados": 9169,
+      "validados": 9232,
       "objetivo": 9300,
       "cupo": 23250.0,
-      "crecimiento": 0.75,
-      "inactivos": 2395,
+      "crecimiento": 0.7,
+      "inactivos": 2356,
       "cursos": 10,
       "mat_consejo": 0,
       "mat_lo": 0,
       "mat_prod": 10,
-      "contratos": "2/4",
-      "daci": "4/4",
-      "facturas": "2/4",
       "web_conv": 0,
       "web_real": 0,
-      "pres_conv": 96,
-      "pres_real": 95,
-      "bloqueos": "-Pendiente la planificación para las sesiones de abril",
+      "pres_conv": 74,
+      "pres_real": 118,
+      "bloqueos": " ",
       "pendientes_webinar": " ",
       "pendientes_presencial": " ",
-      "consultas": "Ha habido un total de 78 consultas e incidencias desde el día 03 de marzo. 1 esta escalada.\nDetalle: Los usuarios reportan múltiples problemas relacionados con la formación presencial, el aula virtual y la continuidad del itinerario formativo. Entre las incidencias más frecuentes destacan: horas presenciales mal contabilizadas (se registran menos horas de las realmente asistidas), bloqueo del progreso que impide avanzar a módulos posteriores pese a haber completado los anteriores, imposibilidad de completar el contador de horas del aula virtual.",
+      "consultas": "Ha habido un total de 87 consultas e incidencias desde el día 6 de marzo. 3 casos han sido escalados.\nDetalle: Se reportan incidencias en formación presencial y cursos online, ya que no aparece correctamente registrada la asistencia a las clases presenciales pese a haber pasado el código QR (escalado a CAU N1), y en varios cursos el contador de tiempo se queda bloqueado o no contabiliza las horas reales de estudio, impidiendo avanzar, completar encuestas de satisfacción y finalizar la formación dentro del plazo previsto.",
       "evidencias_faltantes": [
         {
           "sesion": "EP-CGCOE-01-A1-ES-001_23012026_0900_",
-          "evidencias": ["Ficha Centro"]
+          "evidencias": [
+            "Ficha Centro"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-001_23012026_1600_",
-          "evidencias": ["Ficha Centro"]
+          "evidencias": [
+            "Ficha Centro"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-001_24012026_0900_",
-          "evidencias": ["Ficha Centro"]
+          "evidencias": [
+            "Ficha Centro"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-001_24012026_1600_",
-          "evidencias": ["Ficha Centro"]
+          "evidencias": [
+            "Ficha Centro"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-007_23012026_1530_",
-          "evidencias": ["Foto sala"]
+          "evidencias": [
+            "Foto sala"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-007_24012026_1530_",
-          "evidencias": ["Foto sala"]
+          "evidencias": [
+            "Foto sala"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-008_26012026_0830_",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-008_27012026_0830_",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-008_28012026_0830_",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-008_29012026_0830_",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-009_26012026_1530_",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-009_27012026_1530_",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-009_28012026_1530_",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-009_29012026_1530_",
-          "evidencias": ["Hoja de firmas"]
-        },
-        {
-          "sesion": "EP-CGCOE-01-A1-ES-010_09022026_0900_",
-          "evidencias": ["Hoja de firmas"]
-        },
-        {
-          "sesion": "EP-CGCOE-01-A1-ES-010_10022026_0900_",
-          "evidencias": ["Hoja de firmas"]
-        },
-        {
-          "sesion": "EP-CGCOE-01-A1-ES-010_11022026_0900_",
-          "evidencias": ["Hoja de firmas"]
-        },
-        {
-          "sesion": "EP-CGCOE-01-A1-ES-010_12022026_0900_",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-013_02032026_1600_Castellón",
-          "evidencias": ["Ficha Centro", "Foto sala"]
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-014_03032026_1600_Castellón",
-          "evidencias": ["Ficha Centro", "Foto sala"]
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-015_05032026_0900_Castellón",
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-017_18022026_0830_",
-          "evidencias": ["Hoja de firmas"]
-        },
-        {
-          "sesion": "EP-CGCOE-01-A1-ES-017_19022026_0830_",
-          "evidencias": ["Hoja de firmas"]
-        },
-        {
-          "sesion": "EP-CGCOE-01-A1-ES-017_04032026_0830_",
-          "evidencias": ["Foto sala"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-018_18022026_1530_",
-          "evidencias": ["Hoja de firmas"]
-        },
-        {
-          "sesion": "EP-CGCOE-01-A1-ES-018_19022026_1530_",
-          "evidencias": ["Hoja de firmas"]
-        },
-        {
-          "sesion": "EP-CGCOE-01-A1-ES-018_04032026_1530_",
-          "evidencias": ["Foto sala"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-026_12022026_1600_",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
-        },
-        {
-          "sesion": "EP-CGCOE-01-A1-ES-026_19022026_1600_",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Foto sala"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-027_11022026_1600_",
-          "evidencias": ["Foto sala", "Hoja de firmas"]
+          "evidencias": [
+            "Foto sala"
+          ]
         },
         {
-          "sesion": "EP-CGCOE-01-A1-ES-027_18022026_1600_",
-          "evidencias": ["Hoja de firmas"]
+          "sesion": "EP-CGCOE-01-A1-ES-027_11032026_1600_",
+          "evidencias": [
+            "Foto sala"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-028_19012026_1530_",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-028_20012026_1530_",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-028_21012026_1530_",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-028_22012026_1530_",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-031_23012026_0900_",
-          "evidencias": ["Hoja de firmas", "Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-031_24012026_1600_",
-          "evidencias": ["Hoja de firmas", "Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas",
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-032_26012026_0900_",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-032_27012026_0900_",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-032_28012026_0900_",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-032_29012026_0900_",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-034_04032026_1600_Castellón",
-          "evidencias": ["Ficha Centro", "Foto sala"]
+          "evidencias": [
+            "Ficha Centro",
+            "Foto sala"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-036_09022026_0830_Almería",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-036_09022026_1600_Almería",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-036_10022026_0830_Almería",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-036_10022026_1600_Almería",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-044_13022026_1600_Madrid",
-          "evidencias": ["CVs"]
+          "evidencias": [
+            "CVs"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-044_16022026_1600_Madrid",
-          "evidencias": ["Hoja de firmas"]
+          "evidencias": [
+            "Hoja de firmas"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-045_18022026_0900_Madrid",
-          "evidencias": ["CVs"]
+          "evidencias": [
+            "CVs"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-046_24022026_1600_Madrid",
-          "evidencias": ["CVs", "Foto sala"]
+          "evidencias": [
+            "CVs",
+            "Foto sala"
+          ]
         },
         {
-          "sesion": "EP-CGCOE-01-A1-ES-047_23022026_0900_Zaragoza",
-          "evidencias": ["Foto sala"]
+          "sesion": "EP-CGCOE-01-A1-ES-046_02032026_1600_Madrid",
+          "evidencias": [
+            "Foto sala"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-047_24022026_1600_Zaragoza",
-          "evidencias": ["Foto sala"]
-        },
-        {
-          "sesion": "EP-CGCOE-01-A1-ES-047_25022026_0900_Zaragoza",
-          "evidencias": ["Foto sala"]
+          "evidencias": [
+            "Foto sala"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-047_26022026_1600_Zaragoza",
-          "evidencias": ["Foto sala"]
+          "evidencias": [
+            "Foto sala"
+          ]
         },
         {
-          "sesion": "EP-CGCOE-01-A1-ES-047_27022026_0900_Zaragoza",
-          "evidencias": ["Foto sala"]
+          "sesion": "EP-CGCOE-01-A1-ES-048_09032026_1600_Zaragoza",
+          "evidencias": [
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-048_10032026_0900_Zaragoza",
+          "evidencias": [
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-048_11032026_1600_Zaragoza",
+          "evidencias": [
+            "Foto sala"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-052_03032026_0900_Sevilla",
-          "evidencias": ["Foto sala"]
+          "evidencias": [
+            "Foto sala"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-052_03032026_1600_Sevilla",
-          "evidencias": ["Foto sala"]
+          "evidencias": [
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-052_05032026_0900_Sevilla",
+          "evidencias": [
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-052_05032026_1600_Sevilla",
+          "evidencias": [
+            "Foto sala"
+          ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-055_04032026_1600_Palma de Mallorca",
-          "evidencias": ["Foto sala"]
+          "evidencias": [
+            "CVs",
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-055_05032026_1600_Palma de Mallorca",
+          "evidencias": [
+            "CVs",
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-055_11032026_1600_Palma de Mallorca",
+          "evidencias": [
+            "CVs",
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-057_09032026_1530_Tarragona",
+          "evidencias": [
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-057_11032026_1530_Tarragona",
+          "evidencias": [
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-059_11032026_1600_Salamanca",
+          "evidencias": [
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-061_04032026_1600_Madrid",
+          "evidencias": [
+            "CVs",
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-061_11032026_1600_Madrid",
+          "evidencias": [
+            "CVs",
+            "Foto sala"
+          ]
         }
       ]
     },
@@ -1134,38 +1787,40 @@
       "mat_consejo": 0,
       "mat_lo": 0,
       "mat_prod": 8,
-      "contratos": "13/13",
-      "daci": "13/13",
-      "facturas": "13/13",
       "web_conv": 0,
       "web_real": 4,
-      "pres_conv": 27,
-      "pres_real": 6,
+      "pres_conv": 28,
+      "pres_real": 15,
       "bloqueos": " ",
       "pendientes_webinar": " ",
       "pendientes_presencial": " ",
       "consultas": " ",
       "evidencias_faltantes": [
         {
-          "sesion": "EP-CGCOSITA-01-A1-ES-02-0011/4_04032026_0900_Valencia",
-          "evidencias": ["Foto sala"]
+          "sesion": "EP-CGCOSITA-01-A1-ES-02_04032026_0900_Valencia",
+          "evidencias": [
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EW-CGCOSITA-02-A5-ES-001_15122025_1000",
+          "evidencias": [
+            "Hoja Teams"
+          ]
         }
       ]
     },
     {
       "consejo": "MEDIADORES DE SEGUROS",
-      "validados": 305,
+      "validados": 309,
       "objetivo": 215,
       "cupo": 537.5,
-      "crecimiento": 0.66,
-      "inactivos": 126,
+      "crecimiento": 1.3,
+      "inactivos": 125,
       "cursos": 8,
       "mat_consejo": 2,
       "mat_lo": 0,
       "mat_prod": 6,
-      "contratos": "2/3",
-      "daci": "2/3",
-      "facturas": "1/3",
       "web_conv": 0,
       "web_real": 0,
       "pres_conv": 0,
@@ -1177,82 +1832,119 @@
     },
     {
       "consejo": "ABOGACÍA",
-      "validados": 22467,
+      "validados": 22893,
       "objetivo": 31516,
       "cupo": 78790.0,
-      "crecimiento": 1.29,
-      "inactivos": 9987,
+      "crecimiento": 1.9,
+      "inactivos": 10046,
       "cursos": 12,
       "mat_consejo": 0,
       "mat_lo": 0,
       "mat_prod": 12,
-      "contratos": "26/27",
-      "daci": "26/27",
-      "facturas": "22/27",
-      "web_conv": 2,
-      "web_real": 7,
-      "pres_conv": 54,
-      "pres_real": 0,
+      "web_conv": 0,
+      "web_real": 9,
+      "pres_conv": 48,
+      "pres_real": 6,
       "bloqueos": " ",
       "pendientes_webinar": " ",
       "pendientes_presencial": " ",
-      "consultas": "Ha habido un total de 270 consultas e incidencias desde el día 3 de marzo. Se han escalado 4 casos. \nDetalle: Los usuarios reportan reiteradamente que su asistencia a los webinars y sesiones de aula virtual no se registra correctamente: el sistema marca 0% de progreso, no contabiliza el tiempo conectado, no permite avanzar en los módulos, ni acceder a evaluaciones o inscribirse en nuevas convocatorias.",
+      "consultas": "Ha habido un total de 279 consultas e incidencias desde el día 6 de marzo. Hay 13 casos escalados.\nDetalle: Se reportan múltiples incidencias relacionadas con la plataforma formativa, principalmente problemas de cómputo de tiempo (relojes bloqueados, horas que no avanzan o no se contabilizan correctamente), dificultades para iniciar o completar cursos y contenidos específicos, errores en el registro de asistencia a webinars y sesiones presenciales (especialmente por fallos con el QR, desconexiones puntuales o accesos desde otros correos), ausencia o asignación incorrecta de tutor.",
       "evidencias_faltantes": [
         {
+          "sesion": "EP-CGAE-01-A2-ES01_05032026_1530_Madrid",
+          "evidencias": [
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CGAE-01-A2-ES02_06032026_0900_Madrid",
+          "evidencias": [
+            "CVs",
+            "Ficha Centro",
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CGAE-01-A2-ES03_09032026_1530_Madrid",
+          "evidencias": [
+            "Ficha Centro"
+          ]
+        },
+        {
+          "sesion": "EP-CGAE-01-A2-ES01_09032026_1430_MÁLAGA",
+          "evidencias": [
+            "CVs",
+            "Ficha Centro",
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CGAE-01-A2-ES02_10032026_1430_MÁLAGA",
+          "evidencias": [
+            "CVs",
+            "Ficha Centro",
+            "Foto sala"
+          ]
+        },
+        {
+          "sesion": "EP-CGAE-01-A2-ES03_11032026_1430_MÁLAGA",
+          "evidencias": [
+            "CVs",
+            "Ficha Centro",
+            "Foto sala"
+          ]
+        },
+        {
           "sesion": "EW-CGAE-02-A2-ES-001_26012026_1530",
-          "evidencias": ["Hoja Teams"]
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
         },
         {
           "sesion": "EW-CGAE-02-A2-ES-001_28012026_1530",
-          "evidencias": ["Hoja Teams"]
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
         },
         {
           "sesion": "EW-CGAE-02-A2-ES-002_03022026_1530",
-          "evidencias": ["Hoja Teams"]
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
         },
         {
           "sesion": "EW-CGAE-02-A2-ES-002_10022026_1530",
-          "evidencias": ["Hoja Teams"]
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
         },
         {
           "sesion": "EW-CGAE-02-A2-ES01_19022026_1530",
-          "evidencias": ["Hoja Teams"]
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
+        },
+        {
+          "sesion": "EW-CGAE-02-A2-ES02_05032026_1530",
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
         },
         {
           "sesion": "EW-CGAE-02-A2-ES01_03032026_1530",
-          "evidencias": ["Pantallazo Aula Virtual", "Hoja Teams"]
+          "evidencias": [
+            "Pantallazo Aula Virtual",
+            "Hoja Teams"
+          ]
+        },
+        {
+          "sesion": "EW-CGAE-02-A2-ES02_10032026_1530",
+          "evidencias": [
+            "Pantallazo Aula Virtual"
+          ]
         }
       ]
     }
-  ],
-  "DATES": [
-    "06/10/2025",
-    "13/10/2025",
-    "20/10/2025",
-    "27/10/2025",
-    "03/11/2025",
-    "10/11/2025",
-    "17/11/2025",
-    "24/11/2025",
-    "01/12/2025",
-    "08/12/2025",
-    "15/12/2025",
-    "22/12/2025",
-    "29/12/2025",
-    "05/01/2026",
-    "12/01/2026",
-    "15/01/2026",
-    "20/01/2026",
-    "23/01/2026",
-    "27/01/2026",
-    "30/01/2026",
-    "03/02/2026",
-    "06/02/2026",
-    "02/10/2026",
-    "13/02/2026",
-    "20/02/2026",
-    "27/02/2026",
-    "06/03/2026"
   ],
   "COUNCIL_HISTORICAL_DATA": {
     "INGENIEROS DE TELECOMUNICACIÓN": [
@@ -1361,8 +2053,12 @@
         "Total": 726
       },
       {
-        "date": "06/03/2026",
+        "date": "03/06/2026",
         "Total": 726
+      },
+      {
+        "date": "13/3/2026",
+        "Total": 725
       }
     ],
     "INFORMÁTICA": [
@@ -1471,7 +2167,11 @@
         "Total": 231
       },
       {
-        "date": "06/03/2026",
+        "date": "03/06/2026",
+        "Total": 232
+      },
+      {
+        "date": "13/3/2026",
         "Total": 232
       }
     ],
@@ -1581,8 +2281,12 @@
         "Total": 370
       },
       {
-        "date": "06/03/2026",
+        "date": "03/06/2026",
         "Total": 398
+      },
+      {
+        "date": "13/3/2026",
+        "Total": 425
       }
     ],
     "MINAS": [
@@ -1691,8 +2395,12 @@
         "Total": 286
       },
       {
-        "date": "06/03/2026",
+        "date": "03/06/2026",
         "Total": 286
+      },
+      {
+        "date": "13/3/2026",
+        "Total": 283
       }
     ],
     "GEOMÁTICA Y TOPOGRÁFICA": [
@@ -1801,8 +2509,12 @@
         "Total": 233
       },
       {
-        "date": "06/03/2026",
+        "date": "03/06/2026",
         "Total": 234
+      },
+      {
+        "date": "13/3/2026",
+        "Total": 232
       }
     ],
     "EDUCACIÓN FÍSICA": [
@@ -1911,8 +2623,12 @@
         "Total": 1873
       },
       {
-        "date": "06/03/2026",
+        "date": "03/06/2026",
         "Total": 1924
+      },
+      {
+        "date": "13/3/2026",
+        "Total": 1953
       }
     ],
     "TERAPEUTAS OCUPACIONALES": [
@@ -2021,8 +2737,12 @@
         "Total": 1381
       },
       {
-        "date": "06/03/2026",
+        "date": "03/06/2026",
         "Total": 1374
+      },
+      {
+        "date": "13/3/2026",
+        "Total": 1380
       }
     ],
     "TRABAJO SOCIAL": [
@@ -2131,8 +2851,12 @@
         "Total": 4552
       },
       {
-        "date": "06/03/2026",
+        "date": "03/06/2026",
         "Total": 4593
+      },
+      {
+        "date": "13/3/2026",
+        "Total": 4612
       }
     ],
     "TÉCNICOS AERONÁUTICOS": [
@@ -2241,7 +2965,11 @@
         "Total": 0
       },
       {
-        "date": "06/03/2026",
+        "date": "03/06/2026",
+        "Total": 0
+      },
+      {
+        "date": "13/3/2026",
         "Total": 0
       }
     ],
@@ -2351,8 +3079,12 @@
         "Total": 2941
       },
       {
-        "date": "06/03/2026",
+        "date": "03/06/2026",
         "Total": 3014
+      },
+      {
+        "date": "13/3/2026",
+        "Total": 3041
       }
     ],
     "ARQUITECTURA TÉCNICA": [
@@ -2461,8 +3193,12 @@
         "Total": 4330
       },
       {
-        "date": "06/03/2026",
+        "date": "03/06/2026",
         "Total": 4344
+      },
+      {
+        "date": "13/3/2026",
+        "Total": 4345
       }
     ],
     "ACTUARIOS": [
@@ -2571,8 +3307,12 @@
         "Total": 417
       },
       {
-        "date": "06/03/2026",
+        "date": "03/06/2026",
         "Total": 418
+      },
+      {
+        "date": "13/3/2026",
+        "Total": 422
       }
     ],
     "SOCIÓLOGOS Y POLITÓLOGOS": [
@@ -2681,8 +3421,12 @@
         "Total": 249
       },
       {
-        "date": "06/03/2026",
+        "date": "03/06/2026",
         "Total": 297
+      },
+      {
+        "date": "13/3/2026",
+        "Total": 301
       }
     ],
     "MÉDICOS": [
@@ -2791,8 +3535,12 @@
         "Total": 14754
       },
       {
-        "date": "06/03/2026",
+        "date": "03/06/2026",
         "Total": 14942
+      },
+      {
+        "date": "13/3/2026",
+        "Total": 14998
       }
     ],
     "FARMACÉUTICOS": [
@@ -2901,8 +3649,12 @@
         "Total": 7119
       },
       {
-        "date": "06/03/2026",
+        "date": "03/06/2026",
         "Total": 7220
+      },
+      {
+        "date": "13/3/2026",
+        "Total": 7305
       }
     ],
     "ENFERMERÍA": [
@@ -3011,8 +3763,12 @@
         "Total": 9101
       },
       {
-        "date": "06/03/2026",
+        "date": "03/06/2026",
         "Total": 9169
+      },
+      {
+        "date": "13/3/2026",
+        "Total": 9232
       }
     ],
     "COSITAL": [
@@ -3121,7 +3877,11 @@
         "Total": 499
       },
       {
-        "date": "06/03/2026",
+        "date": "03/06/2026",
+        "Total": 499
+      },
+      {
+        "date": "13/3/2026",
         "Total": 499
       }
     ],
@@ -3231,8 +3991,12 @@
         "Total": 303
       },
       {
-        "date": "06/03/2026",
+        "date": "03/06/2026",
         "Total": 305
+      },
+      {
+        "date": "13/3/2026",
+        "Total": 309
       }
     ],
     "ABOGACÍA": [
@@ -3341,8 +4105,12 @@
         "Total": 22181
       },
       {
-        "date": "06/03/2026",
+        "date": "03/06/2026",
         "Total": 22467
+      },
+      {
+        "date": "13/3/2026",
+        "Total": 22893
       }
     ]
   },
@@ -3452,21 +4220,16 @@
       "Total": 71546
     },
     {
-      "date": "06/03/2026",
+      "date": "03/06/2026",
       "Total": 72442
+    },
+    {
+      "date": "13/3/2026",
+      "Total": 73187
     }
   ],
   "EVOLUTIVOS_DATA": {
-    "plataforma": [
-      "1. Nuevas capacidades en formaciones Bi Modal\nSe han incorporado mejoras orientadas a dar mayor transparencia al proceso de inscripción y a facilitar la gestión por parte de los formadores y administradores:\n•Caja informativa de cupos durante la matriculacion en la convocatoria:\nEn el momento de inscribirse a la convocatoria, el usuario visualizará una nueva sección que muestra de forma clara y explícita:\n-  plazas disponibles presenciales,\n-  plazas disponibles en streaming.\nEsto permite una elección informada, minimizando errores y consultas posteriores.\n• Acceso a respuestas de encuesta de modalidad:\nEn las AF Bi Modal, los formadores disponen ahora de un acceso directo al listado completo de respuestas de la encuesta de selección de modalidad.\nDe este modo pueden consultar, en tiempo real, qué asistentes acudirán presencialmente y quiénes lo harán vía streaming.",
-      "2. Corrección en la entrega de e-assessments finales\nSe ha solucionado una problemática que impedía que las ciertas barras de progreso volcaran correctamente la información dentro del informe asociado a los e-assessments finales.\nCon esta corrección:\n• los indicadores se actualizan de manera consistente,\n• el informe refleja correctamente el desempeño del usuario,\n• y se evita cualquier descuadre entre progreso visual y expediente.",
-      "3. Informe global de listas de asistencia\nSe ha generado un nuevo informe que permite conocer rápidamente el estado de firma de las sesiones:\n• Identifica qué sesiones están pendientes de firma,\n• quién realizó la última acción sobre la asistencia,\n• y en qué fecha y hora se llevó a cabo entre otros datos.\nEste informe facilita enormemente la regularización y el seguimiento operativo, reduciendo tiempos de análisis y evitando inconsistencias.",
-      "4. Informe global de sesiones en plataforma\nSe incorpora también un informe transversal que permite identificar qué sesiones están configuradas actualmente en UPro.\nEsta visión de conjunto permite:\n• validar configuraciones,\n• detectar anomalías,\n• y asegurar la coherencia entre AF, convocatorias y sesiones."
-    ],
-    "sug": [
-      "Revisión y actualización de los literales informativos de la plataforma, sustituyendo aquellos que se encontraban en inglés por su correspondiente versión en castellano.",
-      "Actualización del informe de alumnos, incorporando nuevas columnas con mayor nivel de detalle sobre la jornada evolutiva del alumno (por ejemplo, progreso y porcentaje de progreso por modalidad), especialmente en las formaciones de tipo webinar y presenciales.",
-      "Incorporación de nuevos detalles en los cuestionarios por alumno y acción formativa (por ejemplo, indicadores de calidad de la AAFF)."
-    ]
+    "plataforma": [],
+    "sug": []
   }
 }
