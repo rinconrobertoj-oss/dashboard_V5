@@ -323,6 +323,15 @@ const EvidenciasPendientesCard = ({ rows, selectedCouncil }) => {
       )}
     </div>
 
+    <div className="flex items-start gap-3 bg-amber-50 border border-amber-200 rounded-xl px-4 py-3 mb-5 text-xs text-amber-800 leading-relaxed">
+      <span className="mt-0.5 shrink-0 text-amber-500">
+        <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+      </span>
+      <p>
+        En relación con el apartado de evidencias pendientes, es importante tener en cuenta que la revisión de las evidencias se realiza de forma semanal (cada lunes). Por ello, aquellas evidencias subidas durante la semana pueden seguir apareciendo como pendientes en este informe, quedando actualizadas en el siguiente envío.
+      </p>
+    </div>
+
     <div className="bg-slate-50 rounded-xl border border-slate-100 overflow-x-auto">
       {rows.length > 0 ? (
         <table className="w-full text-xs border-collapse">
@@ -849,7 +858,7 @@ export default function Dashboard() {
               </h1>
               <div className="flex items-center mt-1">
                 <p className="text-slate-500 text-sm">
-                  Validaciones y Producción • Corte {REPORT_DATE_LABEL}
+                  Fecha informe {REPORT_DATE_LABEL}
                 </p>
                 <span className="mx-3 text-slate-300">|</span>
                 <div className="flex items-center bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">
