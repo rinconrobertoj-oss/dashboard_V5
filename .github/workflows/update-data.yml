@@ -1,0 +1,61 @@
+name: Actualizar datos desde Excel y publicar
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/informe.xlsx'
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  convert-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias Python
+        run: pip install openpyxl
+
+      - name: Convertir Excel a JSON
+        run: python scripts/excel_to_json.py data/informe.xlsx public/data.json
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+          cache: npm
+
+      - name: Instalar dependencias Node
+        run: npm ci
+
+      - name: Build React
+        run: npm run build
+        env:
+          CI: false
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./build
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
