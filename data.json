@@ -1,14 +1,14 @@
 {
-  "REPORT_DATE_LABEL": "",
-  "REPORT_DATE_FOOTER": "",
+  "REPORT_DATE_LABEL": "20 de Marzo",
+  "REPORT_DATE_FOOTER": "20/3/2026",
   "INITIAL_DATA": [
     {
       "consejo": "INGENIEROS DE TELECOMUNICACIÓN",
-      "validados": 719,
+      "validados": 0,
       "objetivo": 500,
-      "cupo": 1250.0,
-      "crecimiento": -0.83,
-      "inactivos": 150,
+      "cupo": 1250,
+      "crecimiento": 0,
+      "inactivos": 0,
       "cursos": 8,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -41,11 +41,11 @@
     },
     {
       "consejo": "INFORMÁTICA",
-      "validados": 232,
+      "validados": 0,
       "objetivo": 140,
-      "cupo": 350.0,
-      "crecimiento": 0.0,
-      "inactivos": 65,
+      "cupo": 350,
+      "crecimiento": 0,
+      "inactivos": 0,
       "cursos": 8,
       "mat_consejo": 2,
       "mat_lo": 0,
@@ -64,11 +64,11 @@
     },
     {
       "consejo": "TÉCNICOS DE TELECOMUNICACIÓN",
-      "validados": 441,
+      "validados": 0,
       "objetivo": 500,
-      "cupo": 1250.0,
-      "crecimiento": 3.76,
-      "inactivos": 127,
+      "cupo": 1250,
+      "crecimiento": 0,
+      "inactivos": 0,
       "cursos": 10,
       "mat_consejo": 2,
       "mat_lo": 0,
@@ -87,11 +87,11 @@
     },
     {
       "consejo": "MINAS",
-      "validados": 279,
+      "validados": 0,
       "objetivo": 160,
-      "cupo": 400.0,
-      "crecimiento": -1.41,
-      "inactivos": 4,
+      "cupo": 400,
+      "crecimiento": 0,
+      "inactivos": 0,
       "cursos": 10,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -110,11 +110,11 @@
     },
     {
       "consejo": "GEOMÁTICA Y TOPOGRÁFICA",
-      "validados": 231,
+      "validados": 0,
       "objetivo": 300,
-      "cupo": 750.0,
-      "crecimiento": -0.43,
-      "inactivos": 54,
+      "cupo": 750,
+      "crecimiento": 0,
+      "inactivos": 0,
       "cursos": 8,
       "mat_consejo": 6,
       "mat_lo": 0,
@@ -127,17 +127,17 @@
       "pres_conv": 64,
       "pres_real": 4,
       "bloqueos": " ",
-      "pendientes_webinar": "-Esperan iniciar webinars en mayo",
-      "pendientes_presencial": "-Esperan iniciar los presenciales en junio",
+      "pendientes_webinar": " ",
+      "pendientes_presencial": " ",
       "consultas": " "
     },
     {
       "consejo": "EDUCACIÓN FÍSICA",
-      "validados": 1985,
+      "validados": 0,
       "objetivo": 1200,
-      "cupo": 3000.0,
-      "crecimiento": 1.6,
-      "inactivos": 434,
+      "cupo": 3000,
+      "crecimiento": 0,
+      "inactivos": 0,
       "cursos": 9,
       "mat_consejo": 1,
       "mat_lo": 0,
@@ -149,9 +149,9 @@
       "web_real": 9,
       "pres_conv": 18,
       "pres_real": 37,
-      "bloqueos": "-CV de formadores webinar y presenciales.",
+      "bloqueos": " ",
       "pendientes_webinar": " ",
-      "pendientes_presencial": "-La próxima edición de presenciales será en Mallorca el 27 de marzo.",
+      "pendientes_presencial": " ",
       "consultas": " ",
       "evidencias_faltantes": [
         {
@@ -288,11 +288,11 @@
     },
     {
       "consejo": "TERAPEUTAS OCUPACIONALES",
-      "validados": 1377,
+      "validados": 0,
       "objetivo": 1300,
-      "cupo": 3250.0,
-      "crecimiento": -0.22,
-      "inactivos": 83,
+      "cupo": 3250,
+      "crecimiento": 0,
+      "inactivos": 0,
       "cursos": 11,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -615,11 +615,11 @@
     },
     {
       "consejo": "TRABAJO SOCIAL",
-      "validados": 4640,
+      "validados": 0,
       "objetivo": 2515,
       "cupo": 6287.5,
-      "crecimiento": 0.6,
-      "inactivos": 960,
+      "crecimiento": 0,
+      "inactivos": 0,
       "cursos": 8,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -631,9 +631,9 @@
       "web_real": 0,
       "pres_conv": 0,
       "pres_real": 0,
-      "bloqueos": "-Quedan pendientes algunas fichas de centro",
+      "bloqueos": " ",
       "pendientes_webinar": " ",
-      "pendientes_presencial": "-Se espera confirmación de que todas las sesiones de ahora en adelante serán bimodales.",
+      "pendientes_presencial": " ",
       "consultas": " ",
       "evidencias_faltantes": [
         {
@@ -877,10 +877,10 @@
     },
     {
       "consejo": "TÉCNICOS AERONÁUTICOS",
-      "validados": 23,
+      "validados": 0,
       "objetivo": 200,
-      "cupo": 500.0,
-      "crecimiento": 0.0,
+      "cupo": 500,
+      "crecimiento": 0,
       "inactivos": 0,
       "cursos": 8,
       "mat_consejo": 3,
@@ -900,11 +900,11 @@
     },
     {
       "consejo": "TÉCNICOS INDUSTRIALES",
-      "validados": 3074,
+      "validados": 0,
       "objetivo": 5352,
-      "cupo": 13380.0,
-      "crecimiento": 1.0,
-      "inactivos": 548,
+      "cupo": 13380,
+      "crecimiento": 0,
+      "inactivos": 0,
       "cursos": 8,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -918,7 +918,7 @@
       "pres_real": 0,
       "bloqueos": " ",
       "pendientes_webinar": " ",
-      "pendientes_presencial": "-Pendiente la planificación de las sesiones presenciales",
+      "pendientes_presencial": " ",
       "consultas": " ",
       "evidencias_faltantes": [
         {
@@ -957,11 +957,11 @@
     },
     {
       "consejo": "ARQUITECTURA TÉCNICA",
-      "validados": 4356,
+      "validados": 0,
       "objetivo": 3057,
       "cupo": 7642.5,
-      "crecimiento": 0.3,
-      "inactivos": 1132,
+      "crecimiento": 0,
+      "inactivos": 0,
       "cursos": 10,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -994,11 +994,11 @@
     },
     {
       "consejo": "ACTUARIOS",
-      "validados": 426,
+      "validados": 0,
       "objetivo": 250,
-      "cupo": 625.0,
-      "crecimiento": 1.0,
-      "inactivos": 60,
+      "cupo": 625,
+      "crecimiento": 0,
+      "inactivos": 0,
       "cursos": 8,
       "mat_consejo": 1,
       "mat_lo": 0,
@@ -1026,11 +1026,11 @@
     },
     {
       "consejo": "SOCIÓLOGOS Y POLITÓLOGOS",
-      "validados": 336,
+      "validados": 0,
       "objetivo": 300,
-      "cupo": 750.0,
-      "crecimiento": 11.6,
-      "inactivos": 83,
+      "cupo": 750,
+      "crecimiento": 0,
+      "inactivos": 0,
       "cursos": 11,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -1042,7 +1042,7 @@
       "web_real": 8,
       "pres_conv": 0,
       "pres_real": 12,
-      "bloqueos": "-Se debe confirmar con el consejo las horas de las sesiones de abril.",
+      "bloqueos": " ",
       "pendientes_webinar": " ",
       "pendientes_presencial": " ",
       "consultas": " ",
@@ -1131,11 +1131,11 @@
     },
     {
       "consejo": "MÉDICOS",
-      "validados": 15059,
+      "validados": 0,
       "objetivo": 18664,
-      "cupo": 46660.0,
-      "crecimiento": 0.4,
-      "inactivos": 4820,
+      "cupo": 46660,
+      "crecimiento": 0,
+      "inactivos": 0,
       "cursos": 10,
       "mat_consejo": 2,
       "mat_lo": 0,
@@ -1204,11 +1204,11 @@
     },
     {
       "consejo": "FARMACÉUTICOS",
-      "validados": 7385,
+      "validados": 0,
       "objetivo": 4014,
-      "cupo": 10035.0,
-      "crecimiento": 1.1,
-      "inactivos": 1697,
+      "cupo": 10035,
+      "crecimiento": 0,
+      "inactivos": 0,
       "cursos": 13,
       "mat_consejo": 1,
       "mat_lo": 0,
@@ -1227,11 +1227,11 @@
     },
     {
       "consejo": "ENFERMERÍA",
-      "validados": 9274,
+      "validados": 0,
       "objetivo": 9300,
-      "cupo": 23250.0,
-      "crecimiento": 0.5,
-      "inactivos": 2364,
+      "cupo": 23250,
+      "crecimiento": 0,
+      "inactivos": 0,
       "cursos": 10,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -1726,11 +1726,11 @@
     },
     {
       "consejo": "COSITAL",
-      "validados": 500,
+      "validados": 0,
       "objetivo": 517,
       "cupo": 1292.5,
-      "crecimiento": 0.2,
-      "inactivos": 14,
+      "crecimiento": 0,
+      "inactivos": 0,
       "cursos": 8,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -1775,11 +1775,11 @@
     },
     {
       "consejo": "MEDIADORES DE SEGUROS",
-      "validados": 309,
+      "validados": 0,
       "objetivo": 215,
       "cupo": 537.5,
-      "crecimiento": 0.0,
-      "inactivos": 117,
+      "crecimiento": 0,
+      "inactivos": 0,
       "cursos": 8,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -1792,17 +1792,17 @@
       "pres_conv": 0,
       "pres_real": 0,
       "bloqueos": " ",
-      "pendientes_webinar": "-Pendiente la planificación de los webinars",
+      "pendientes_webinar": " ",
       "pendientes_presencial": " ",
       "consultas": " "
     },
     {
       "consejo": "ABOGACÍA",
-      "validados": 23179,
+      "validados": 0,
       "objetivo": 31516,
-      "cupo": 78790.0,
-      "crecimiento": 1.24,
-      "inactivos": 9989,
+      "cupo": 78790,
+      "crecimiento": 0,
+      "inactivos": 0,
       "cursos": 12,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -1814,7 +1814,7 @@
       "web_real": 10,
       "pres_conv": 43,
       "pres_real": 11,
-      "bloqueos": "-Las evidencias no se están subiendo correctamente por parte de lso formadores, se debe reforzar la nomenclatura utilizada.",
+      "bloqueos": " ",
       "pendientes_webinar": " ",
       "pendientes_presencial": " ",
       "consultas": " ",
@@ -1951,7 +1951,7 @@
           ]
         },
         {
-          "sesion": "EW-CGAE-02-A2-ES01EW-CGAE-02-A2-ES01-001\n_19022026_1530",
+          "sesion": "EW-CGAE-02-A2-ES01EW-CGAE-02-A2-ES01-001\r\n_19022026_1530",
           "evidencias": [
             "Pantallazo Aula Virtual"
           ]
@@ -1963,7 +1963,7 @@
           ]
         },
         {
-          "sesion": "EW-CGAE-02-A2-ES01\nEW-CGAE-02-A2-ES01-002\n_03032026_1530",
+          "sesion": "EW-CGAE-02-A2-ES01\r\nEW-CGAE-02-A2-ES01-002\r\n_03032026_1530",
           "evidencias": [
             "Pantallazo Aula Virtual",
             "Hoja Teams"
@@ -2095,6 +2095,10 @@
       {
         "date": "20/3/2026",
         "Total": 719
+      },
+      {
+        "date": "27/3/2026",
+        "Total": 719
       }
     ],
     "INFORMÁTICA": [
@@ -2212,6 +2216,10 @@
       },
       {
         "date": "20/3/2026",
+        "Total": 232
+      },
+      {
+        "date": "27/3/2026",
         "Total": 232
       }
     ],
@@ -2331,6 +2339,10 @@
       {
         "date": "20/3/2026",
         "Total": 441
+      },
+      {
+        "date": "27/3/2026",
+        "Total": 441
       }
     ],
     "MINAS": [
@@ -2449,6 +2461,10 @@
       {
         "date": "20/3/2026",
         "Total": 279
+      },
+      {
+        "date": "27/3/2026",
+        "Total": 0
       }
     ],
     "GEOMÁTICA Y TOPOGRÁFICA": [
@@ -2567,6 +2583,10 @@
       {
         "date": "20/3/2026",
         "Total": 231
+      },
+      {
+        "date": "27/3/2026",
+        "Total": 0
       }
     ],
     "EDUCACIÓN FÍSICA": [
@@ -2685,6 +2705,10 @@
       {
         "date": "20/3/2026",
         "Total": 1985
+      },
+      {
+        "date": "27/3/2026",
+        "Total": 0
       }
     ],
     "TERAPEUTAS OCUPACIONALES": [
@@ -2803,6 +2827,10 @@
       {
         "date": "20/3/2026",
         "Total": 1377
+      },
+      {
+        "date": "27/3/2026",
+        "Total": 0
       }
     ],
     "TRABAJO SOCIAL": [
@@ -2921,6 +2949,10 @@
       {
         "date": "20/3/2026",
         "Total": 4640
+      },
+      {
+        "date": "27/3/2026",
+        "Total": 0
       }
     ],
     "TÉCNICOS AERONÁUTICOS": [
@@ -3039,6 +3071,10 @@
       {
         "date": "20/3/2026",
         "Total": 23
+      },
+      {
+        "date": "27/3/2026",
+        "Total": 0
       }
     ],
     "TÉCNICOS INDUSTRIALES": [
@@ -3157,6 +3193,10 @@
       {
         "date": "20/3/2026",
         "Total": 3074
+      },
+      {
+        "date": "27/3/2026",
+        "Total": 0
       }
     ],
     "ARQUITECTURA TÉCNICA": [
@@ -3275,6 +3315,10 @@
       {
         "date": "20/3/2026",
         "Total": 4356
+      },
+      {
+        "date": "27/3/2026",
+        "Total": 0
       }
     ],
     "ACTUARIOS": [
@@ -3393,6 +3437,10 @@
       {
         "date": "20/3/2026",
         "Total": 426
+      },
+      {
+        "date": "27/3/2026",
+        "Total": 0
       }
     ],
     "SOCIÓLOGOS Y POLITÓLOGOS": [
@@ -3511,6 +3559,10 @@
       {
         "date": "20/3/2026",
         "Total": 336
+      },
+      {
+        "date": "27/3/2026",
+        "Total": 0
       }
     ],
     "MÉDICOS": [
@@ -3629,6 +3681,10 @@
       {
         "date": "20/3/2026",
         "Total": 15059
+      },
+      {
+        "date": "27/3/2026",
+        "Total": 0
       }
     ],
     "FARMACÉUTICOS": [
@@ -3747,6 +3803,10 @@
       {
         "date": "20/3/2026",
         "Total": 7385
+      },
+      {
+        "date": "27/3/2026",
+        "Total": 0
       }
     ],
     "ENFERMERÍA": [
@@ -3865,6 +3925,10 @@
       {
         "date": "20/3/2026",
         "Total": 9274
+      },
+      {
+        "date": "27/3/2026",
+        "Total": 0
       }
     ],
     "COSITAL": [
@@ -3983,6 +4047,10 @@
       {
         "date": "20/3/2026",
         "Total": 500
+      },
+      {
+        "date": "27/3/2026",
+        "Total": 0
       }
     ],
     "MEDIADORES DE SEGUROS": [
@@ -4101,6 +4169,10 @@
       {
         "date": "20/3/2026",
         "Total": 309
+      },
+      {
+        "date": "27/3/2026",
+        "Total": 0
       }
     ],
     "ABOGACÍA": [
@@ -4219,6 +4291,10 @@
       {
         "date": "20/3/2026",
         "Total": 23179
+      },
+      {
+        "date": "27/3/2026",
+        "Total": 0
       }
     ]
   },
@@ -4336,16 +4412,20 @@
       "Total": 73187
     },
     {
-      "date": "20/3/2027",
+      "date": "20/3/2026",
       "Total": 73825
+    },
+    {
+      "date": "27/3/2026",
+      "Total": 1392
     }
   ],
   "EVOLUTIVOS_DATA": {
     "plataforma": [
-      "1. Optimización de arquitectura de caché – Mejora del 18% en tiempos de respuesta\nEl lunes 9 de marzo a las 7:30 se desplegó una actualización de arquitectura orientada a optimizar el rendimiento de los servidores de memoria caché.\nSe trata de una mejora estructural diseñada para incrementar la eficiencia del procesamiento y el acceso a datos de alta frecuencia.\nResultados observados\nLos datos de observabilidad posteriores al despliegue muestran:\n•\tReducción del tiempo medio de respuesta entre un 15% y un 18%.\n•\tMayor fluidez en la navegación percibida por el usuario final.\n•\tDisminución significativa de la latencia tanto en métricas medias como en percentiles críticos (p95 y p99).\n•\tIncremento en la capacidad de absorción de carga, especialmente en horas punta.\n•\tMenor tiempo de espera en acciones sensibles, como validaciones, consultas y procesos secuenciales.",
-      "2. Nuevos Informes – Seguimiento de finalización y descarga de Diploma\nSe ha incorporado un nuevo informe que permite identificar a todos los alumnos que han completado su formación y que, una vez habilitado, podrán proceder a la descarga del Diploma.\nEste nuevo recurso facilita:\n•\tUn seguimiento más eficiente del progreso formativo.\n•\tUna gestión más ágil de los requisitos previos para la certificación.\n•\tMayor visibilidad para los gestores y responsables de formación.",
-      "3. Bugs Resueltos\n• Se ha detectado y corregido una incidencia en la herramienta de normalización de Expedientes de Usuario.\nEsta corrección asegura la coherencia de los datos y evita inconsistencias en el tratamiento automatizado de expedientes.",
-      "4. Correcciones Menores y Mejoras de Usabilidad\n• Ajuste del wording del botón Continuar dentro del flujo de obtención del Diploma, para mejorar claridad y alineación con proposito del guidejourney.\n• Ocultación de las fechas de matriculación dentro de la cabecera del curso, ya que estaban generando confusión entre los alumnos respecto a las fechas de convocatoria."
+      "1. Optimización de arquitectura de caché – Mejora del 18% en tiempos de respuesta\r\nEl lunes 9 de marzo a las 7:30 se desplegó una actualización de arquitectura orientada a optimizar el rendimiento de los servidores de memoria caché.\r\nSe trata de una mejora estructural diseñada para incrementar la eficiencia del procesamiento y el acceso a datos de alta frecuencia.\r\nResultados observados\r\nLos datos de observabilidad posteriores al despliegue muestran:\r\n•\tReducción del tiempo medio de respuesta entre un 15% y un 18%.\r\n•\tMayor fluidez en la navegación percibida por el usuario final.\r\n•\tDisminución significativa de la latencia tanto en métricas medias como en percentiles críticos (p95 y p99).\r\n•\tIncremento en la capacidad de absorción de carga, especialmente en horas punta.\r\n•\tMenor tiempo de espera en acciones sensibles, como validaciones, consultas y procesos secuenciales.",
+      "2. Nuevos Informes – Seguimiento de finalización y descarga de Diploma\r\nSe ha incorporado un nuevo informe que permite identificar a todos los alumnos que han completado su formación y que, una vez habilitado, podrán proceder a la descarga del Diploma.\r\nEste nuevo recurso facilita:\r\n•\tUn seguimiento más eficiente del progreso formativo.\r\n•\tUna gestión más ágil de los requisitos previos para la certificación.\r\n•\tMayor visibilidad para los gestores y responsables de formación.",
+      "3. Bugs Resueltos\r\n• Se ha detectado y corregido una incidencia en la herramienta de normalización de Expedientes de Usuario.\r\nEsta corrección asegura la coherencia de los datos y evita inconsistencias en el tratamiento automatizado de expedientes.",
+      "4. Correcciones Menores y Mejoras de Usabilidad\r\n• Ajuste del wording del botón Continuar dentro del flujo de obtención del Diploma, para mejorar claridad y alineación con proposito del guidejourney.\r\n• Ocultación de las fechas de matriculación dentro de la cabecera del curso, ya que estaban generando confusión entre los alumnos respecto a las fechas de convocatoria."
     ],
     "sug": []
   }
