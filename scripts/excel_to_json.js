@@ -165,6 +165,38 @@ function parseConsejos(ws) {
 // Hoja 3 — EVIDENCIAS
 // ---------------------------------------------------------------------------
 
+// Mapeo nombre completo (hoja EVIDENCIAS) → nombre corto (hoja CONSEJOS)
+const NOMBRE_MAP = {
+  "CONSEJO GENERAL DE LA ABOGACÍA ESPAÑOLA":                                                                                              "ABOGACÍA",
+  "INSTITUTO DE ACTUARIOS ESPAÑOLES":                                                                                                     "ACTUARIOS",
+  "CONSEJO GENERAL DE LA ARQUITECTURA TÉCNICA DE ESPAÑA":                                                                                 "ARQUITECTURA TÉCNICA",
+  "CONSEJO GENERAL DE COLEGIOS DE OFICIALES DE SECRETARIOS, INTERVENTORES Y TESOREROS DE LA ADMINISTRACIÓN LOCAL":                       "COSITAL",
+  "CONSEJO GENERAL DE COLEGIOS OFICIALES DE LICENCIADOS EN EDUCACIÓN FÍSICA Y EN CIENCIAS DE LA ACTIVIDAD FÍSICA Y DEL DEPORTE":         "EDUCACIÓN FÍSICA",
+  "CONSEJO GENERAL DE COLEGIOS OFICIALES DE ENFERMERÍA":                                                                                  "ENFERMERÍA",
+  "CONSEJO GENERAL DE COLEGIOS OFICIALES DE FARMACÉUTICOS":                                                                               "FARMACÉUTICOS",
+  "COLEGIO DE INGENIERÍA EN GEOMÁTICA Y TOPOGRÁFIA":                                                                                      "GEOMÁTICA Y TOPOGRÁFICA",
+  "CONSEJO GENERAL DE COLEGIOS OFICIALES DE INGENIERÍA EN INFORMÁTICA":                                                                   "INFORMÁTICA",
+  "COLEGIO OFICIAL DE INGENIEROS DE TELECOMUNICACIÓN":                                                                                    "INGENIEROS DE TELECOMUNICACIÓN",
+  "CONSEJO GENERAL DE LOS COLEGIOS DE MEDIADORES DE SEGUROS":                                                                             "MEDIADORES DE SEGUROS",
+  "CONSEJO GENERAL DE COLEGIOS DE MÉDICOS DE ESPAÑA":                                                                                     "MÉDICOS",
+  "COLEGIO DE SOCIÓLOGOS Y POLITÓLOGOS":                                                                                                  "SOCIÓLOGOS Y POLITÓLOGOS",
+  "CONSEJO GENERAL DE TERAPEUTAS OCUPACIONALES":                                                                                          "TERAPEUTAS OCUPACIONALES",
+  "CONSEJO GENERAL DEL TRABAJO SOCIAL":                                                                                                   "TRABAJO SOCIAL",
+  "COLEGIO DE INGENIEROS TÉCNICOS AERONÁUTICOS":                                                                                          "TÉCNICOS AERONÁUTICOS",
+  "COLEGIO OFICIAL DE INGENIEROS TÉCNICOS DE TELECOMUNICACIÓN":                                                                           "TÉCNICOS DE TELECOMUNICACIÓN",
+  "CONSEJO GENERAL INGENIEROS TÉCNICOS INDUSTRIALES DE ESPAÑA":                                                                           "TÉCNICOS INDUSTRIALES",
+};
+
+function normalizarNombreConsejo(nombre) {
+  const key = nombre.trim().toUpperCase();
+  // Buscar coincidencia exacta (normalizada a mayúsculas)
+  for (const [full, short] of Object.entries(NOMBRE_MAP)) {
+    if (full.toUpperCase() === key) return short;
+  }
+  // Si no hay mapeo devolver el nombre original (por si ya viene en formato corto)
+  return nombre.trim();
+}
+
 function parseEvidencias(ws) {
   const byConsejo = {};
   const rows = sheetToRows(ws);
@@ -178,7 +210,7 @@ function parseEvidencias(ws) {
       continue;
     }
     if (!row[0]) continue;
-    const consejo   = String(row[0]).trim();
+    const consejo   = normalizarNombreConsejo(String(row[0]).trim());
     const sesion    = row[1] ? String(row[1]).trim() : "";
     const evidencia = row[2] ? String(row[2]).trim() : "";
     if (!sesion || !evidencia) continue;
