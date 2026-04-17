@@ -175,6 +175,9 @@ const TrainingCard = ({
   webReal,
   presConv,
   presReal,
+  presProm,
+  presMin,
+  presNeces,
 }) => (
   <div className="bg-white rounded-xl shadow-sm p-5 border border-gray-100 h-full flex flex-col">
     <div className="flex items-center justify-between mb-3">
@@ -221,11 +224,20 @@ const TrainingCard = ({
           PRESENCIAL
         </div>
         <div className="w-full">
+          <div className="text-[9px] flex justify-between uppercase text-slate-400">
+            <span>Prom. alum:</span> <span className="font-bold">{presProm}</span>
+          </div>
+          <div className="text-[9px] flex justify-between uppercase text-slate-400">
+            <span>Mín. ses:</span> <span className="font-bold">{presMin}</span>
+          </div>
           <div className="text-[9px] flex justify-between uppercase text-slate-500">
             <span>Conv:</span> <span className="font-bold">{presConv}</span>
           </div>
           <div className="text-[9px] flex justify-between uppercase text-emerald-600">
             <span>Fin:</span> <span className="font-bold">{presReal}</span>
+          </div>
+          <div className="text-[9px] flex justify-between uppercase text-orange-500">
+            <span>Planif:</span> <span className="font-bold">{presNeces}</span>
           </div>
         </div>
       </div>
@@ -548,6 +560,18 @@ export default function Dashboard() {
       (acc, curr) => acc + (Number(curr.pres_real) || 0),
       0
     );
+    const pMin = arr.reduce(
+      (acc, curr) => acc + (Number(curr.pres_min) || 0),
+      0
+    );
+    const pNeces = arr.reduce(
+      (acc, curr) => acc + (Number(curr.pres_neces) || 0),
+      0
+    );
+    const promArr = arr.map(c => Number(c.pres_prom) || 0).filter(v => v > 0);
+    const pProm = promArr.length > 0
+      ? Math.round(promArr.reduce((a, b) => a + b, 0) / promArr.length)
+      : 0;
 
     const cs =
       selectedCouncilFilter === "all"
@@ -577,7 +601,7 @@ export default function Dashboard() {
       { cn: 0, cd: 0, dn: 0, dd: 0, fn: 0, fd: 0 }
     );
 
-    return { tv, to, ti, tp, tl, tc, admin, cs, wConv, wReal, pConv, pReal };
+    return { tv, to, ti, tp, tl, tc, admin, cs, wConv, wReal, pConv, pReal, pMin, pNeces, pProm };
   }, [
     selectedCouncilFilter,
     currentStatusData,
@@ -1026,6 +1050,9 @@ export default function Dashboard() {
             webReal={stats.wReal}
             presConv={stats.pConv}
             presReal={stats.pReal}
+            presProm={stats.pProm}
+            presMin={stats.pMin}
+            presNeces={stats.pNeces}
           />
           <AdminCard
             contracts={{ num: stats.admin.cn, den: stats.admin.cd }}
