@@ -201,7 +201,7 @@ const TrainingCard = ({
           <span>LO:</span> <span className="font-bold">{totalLO}</span>
         </div>
         <div className="text-[10px] flex justify-between uppercase">
-          <span>Cons:</span> <span className="font-bold">{totalCons}</span>
+          <span>Consejo:</span> <span className="font-bold">{totalCons}</span>
         </div>
       </div>
 
@@ -247,9 +247,6 @@ const TrainingCard = ({
     <div className="mt-3 pt-2 border-t border-slate-100">
       <div className="grid grid-cols-2 gap-x-3 gap-y-0.5">
         {[
-          { ab: "Prod",        desc: "Materiales producidos" },
-          { ab: "LO",          desc: "Learning Objects" },
-          { ab: "Cons",        desc: "Materiales consumidos" },
           { ab: "Conv",        desc: "Sesiones convocadas" },
           { ab: "Fin",         desc: "Sesiones finalizadas" },
           { ab: "Prom. alum",  desc: "Promedio alumnos/sesión" },
@@ -257,8 +254,8 @@ const TrainingCard = ({
           { ab: "Planif",      desc: "Sesiones por planificar" },
         ].map(({ ab, desc }) => (
           <div key={ab} className="flex items-baseline gap-1">
-            <span className="text-[7px] font-bold text-slate-500 shrink-0">{ab}:</span>
-            <span className="text-[7px] text-slate-400 leading-tight">{desc}</span>
+            <span className="text-[8px] font-bold text-slate-500 shrink-0">{ab}:</span>
+            <span className="text-[8px] text-slate-400 leading-tight">{desc}</span>
           </div>
         ))}
       </div>
