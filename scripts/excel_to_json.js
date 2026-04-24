@@ -85,7 +85,20 @@ function parseConfig(ws) {
   for (const row of rows) {
     if (!row[0]) continue;
     const campo = String(row[0]).toLowerCase();
-    const valor = row[1] !== null && row[1] !== undefined ? String(row[1]).trim() : "";
+    // Si el valor es una fecha (Date object o número serie Excel), formatearlo como DD/MM/YYYY
+    let valor = "";
+    if (row[1] !== null && row[1] !== undefined) {
+      if (row[1] instanceof Date) {
+        const d = String(row[1].getDate()).padStart(2, "0");
+        const m = String(row[1].getMonth() + 1).padStart(2, "0");
+        const y = row[1].getFullYear();
+        valor = `${d}/${m}/${y}`;
+      } else if (typeof row[1] === "number" && row[1] > 40000) {
+        valor = formatDate(row[1]);
+      } else {
+        valor = String(row[1]).trim();
+      }
+    }
     if (campo.includes("etiqueta")) result.REPORT_DATE_LABEL = valor;
     else if (campo.includes("pie")) result.REPORT_DATE_FOOTER = valor;
   }
