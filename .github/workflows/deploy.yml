@@ -1,6 +1,13 @@
 name: Deploy to GitHub Pages
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'src/**'
+      - 'public/data.json'
+      - 'package.json'
   workflow_dispatch:
 
 permissions:
@@ -10,7 +17,7 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
