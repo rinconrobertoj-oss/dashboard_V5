@@ -314,17 +314,26 @@ const toSessionRows = (raw) => {
     .map((item) => ({
       sesion: item.sesion || item.session || "—",
       evidencias: Array.isArray(item.evidencias)
-        ? item.evidencias.filter(Boolean)
+        ? item.evidencias
+            .filter(Boolean)
+            .map((ev) =>
+              typeof ev === "string"
+                ? { nombre: ev, nota: "" }
+                : { nombre: ev.nombre || "", nota: ev.nota || "" }
+            )
+            .filter((ev) => ev.nombre)
         : String(item.evidencias ?? "")
             .split("\n")
             .map((l) => l.trim())
-            .filter(Boolean),
+            .filter(Boolean)
+            .map((l) => ({ nombre: l, nota: "" })),
     }))
     .filter((r) => r.evidencias.length > 0);
 };
 
 const EvidenciasPendientesCard = ({ rows, selectedCouncil }) => {
   const totalEvidencias = rows.reduce((sum, row) => sum + row.evidencias.length, 0);
+  const totalConNotas   = rows.reduce((sum, row) => sum + row.evidencias.filter(ev => ev.nota).length, 0);
   return (
   <div className="bg-white rounded-2xl shadow-sm border border-slate-100 p-8">
     <div className="flex items-center gap-3 mb-6">
@@ -378,6 +387,11 @@ const EvidenciasPendientesCard = ({ rows, selectedCouncil }) => {
               <th className="text-left px-4 py-3 text-[10px] font-black uppercase tracking-widest text-slate-500">
                 Evidencias Pendientes
               </th>
+              {totalConNotas > 0 && (
+                <th className="text-left px-4 py-3 text-[10px] font-black uppercase tracking-widest text-slate-500 whitespace-nowrap">
+                  Notas
+                </th>
+              )}
             </tr>
           </thead>
           <tbody className="divide-y divide-slate-200">
@@ -407,11 +421,25 @@ const EvidenciasPendientesCard = ({ rows, selectedCouncil }) => {
                         className="flex items-start gap-2 text-slate-600 leading-relaxed"
                       >
                         <span className="mt-1.5 inline-block w-1 h-1 rounded-full bg-slate-400 shrink-0" />
-                        {ev}
+                        {ev.nombre}
                       </li>
                     ))}
                   </ul>
                 </td>
+                {totalConNotas > 0 && (
+                  <td className="px-4 py-3">
+                    <ul className="space-y-1.5">
+                      {row.evidencias.map((ev, i) => (
+                        <li key={i} className="text-[11px] leading-relaxed min-h-[1.5rem]">
+                          {ev.nota
+                            ? <span className="text-amber-700 bg-amber-50 border border-amber-200 rounded px-1.5 py-0.5">{ev.nota}</span>
+                            : <span className="text-slate-300">—</span>
+                          }
+                        </li>
+                      ))}
+                    </ul>
+                  </td>
+                )}
               </tr>
             ))}
           </tbody>

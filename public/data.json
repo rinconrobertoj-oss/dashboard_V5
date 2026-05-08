@@ -31,79 +31,178 @@
         {
           "sesion": "EP-COIT-11-A5-ES-05EP-COIT-11-A5-ES-05-001_2103Saturday_0930_La Coruña",
           "evidencias": [
-            "Ficha Centro",
-            "Foto sala",
-            "Hoja de firmas",
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "Ficha Centro",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo cargado pero mal nombrado"
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo cargado pero mal nombrado"
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo cargado pero mal nombrado"
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo cargado pero mal nombrado"
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo cargado pero mal nombrado"
+            }
           ]
         },
         {
           "sesion": "EP-COIT-11-A5-ES-06EP-COIT-11-A5-ES-06-001\r\n_2103Saturday_1530_La Coruña",
           "evidencias": [
-            "Ficha Centro",
-            "Foto sala",
-            "Hoja de firmas",
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "Ficha Centro",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-COIT-11-A5-ES-07EP-COIT-11-A5-ES-07-001_2803Saturday_0930_La Coruña",
           "evidencias": [
-            "Ficha Centro",
-            "Foto sala",
-            "Hoja de firmas",
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "Ficha Centro",
+              "nota": "Hoja de firmas: Archivo cargado pero mal nombrado"
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": "Hoja de firmas: Archivo cargado pero mal nombrado"
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": "Hoja de firmas: Archivo cargado pero mal nombrado"
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": "Hoja de firmas: Archivo cargado pero mal nombrado"
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Hoja de firmas: Archivo cargado pero mal nombrado"
+            }
           ]
         },
         {
           "sesion": "EP-COIT-11-A5-ES-08EP-COIT-11-A5-ES-08-001_2803Saturday_1530_La Coruña",
           "evidencias": [
-            "Ficha Centro",
-            "Foto sala",
-            "Hoja de firmas",
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "Ficha Centro",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-COIT-11-A5-ES-07EP-COIT-11-A5-ES-07-002_1004Friday_1630_MADRID",
           "evidencias": [
-            "Ficha Centro",
-            "Foto sala",
-            "Hoja de firmas",
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "Ficha Centro",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-COIT-11-A5-ES-08EP-COIT-11-A5-ES-08-002_1104Saturday_0930_MADRID",
           "evidencias": [
-            "Ficha Centro",
-            "Foto sala",
-            "Hoja de firmas",
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "Ficha Centro",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Foto de sala: Archivo cargado pero mal nombrado Hoja de firmas: Archivo cargado pero mal nombrado Pantallazo: Archivo cargado pero mal nombrado Hoja de Teams: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EW-COIT-12-A2-ES-04EW-COIT-12-A2-ES-04-002_1103Wednesday_1800",
           "evidencias": [
-            "Pantallazo Aula Virtual"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: archivo cargado pero mal nombrado. Falta la fecha y la hora"
+            }
           ]
         },
         {
           "sesion": "EW-COIT-12-A2-ES-01EW-COIT-12-A2-ES-01-003_0704Tuesday_1800",
           "evidencias": [
-            "Pantallazo Aula Virtual"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Foto de sala: archivo cargado pero mal nombrado. Falta la fecha y la hora"
+            }
           ]
         },
         {
           "sesion": "EW-COIT-12-A2-ES-02EW-COIT-12-A2-ES-02-002_0904Thursday_1800",
           "evidencias": [
-            "Pantallazo Aula Virtual"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: archivo cargado pero mal nombrado. Falta la fecha y la hora Hoja de Teams: Archivo cargado pero mal nombrado"
+            }
           ]
         }
       ]
@@ -163,43 +262,64 @@
         {
           "sesion": "EW-COITT-02-A5-ES-02EW-COITT-02-A5-ES-02-001_1404Tuesday_1800",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COITT-02-A5-ES-03EW-COITT-02-A5-ES-03-001_1504Wednesday_1800",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COITT-02-A5-ES-04EW-COITT-02-A5-ES-04-001_1604Thursday_1800",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COITT-02-A5-ES-01EW-COITT-02-A5-ES-01-002\r\n_1704Friday_1700",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COITT-02-A5-ES-02EW-COITT-02-A5-ES-02-004_1704Friday_1930",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COITT-02-A5-ES-03EW-COITT-02-A5-ES-03-002_1804Saturday_0900",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COITT-02-A5-ES-04EW-COITT-02-A5-ES-04-002_1804Saturday_1131",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": ""
+            }
           ]
         }
       ]
@@ -285,204 +405,333 @@
         {
           "sesion": "EP-COLEF-01-A5-ES-01-008EP-COLEF-01-A5-ES-01-008-01_0105Friday_0900_",
           "evidencias": [
-            "Ficha Centro",
-            "Foto sala"
+            {
+              "nombre": "Ficha Centro",
+              "nota": "Foto de sala: archivo no cargado"
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-COLEF-01-A5-ES-01-008EP-COLEF-01-A5-ES-01-008-02_0105Friday_1500_",
           "evidencias": [
-            "Ficha Centro",
-            "Foto sala"
+            {
+              "nombre": "Ficha Centro",
+              "nota": "Foto de sala: archivo no cargado"
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-COLEF-01-A5-ES-01-008EP-COLEF-01-A5-ES-01-008-03_0205Saturday_0900_",
           "evidencias": [
-            "Ficha Centro",
-            "Foto sala"
+            {
+              "nombre": "Ficha Centro",
+              "nota": "Foto de sala: archivo no cargado"
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-COLEF-01-A5-ES-01-008EP-COLEF-01-A5-ES-01-008-04_0205Saturday_1500_",
           "evidencias": [
-            "Ficha Centro",
-            "Foto sala"
+            {
+              "nombre": "Ficha Centro",
+              "nota": "Foto de sala: archivo no cargado"
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ESEW-COLEF-02-A5-ES-001_0202Monday_1900",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ESEW-COLEF-02-A5-ES-001_0302Tuesday_1900",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ESEW-COLEF-02-A5-ES-001_0402Wednesday_1900",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ESEW-COLEF-02-A5-ES-001_0502Thursday_1900",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ESEW-COLEF-02-A5-ES-002_0602Friday_1600",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ESEW-COLEF-02-A5-ES-002_0602Friday_1845",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ESEW-COLEF-02-A5-ES-002_1302Friday_1600",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ESEW-COLEF-02-A5-ES-002_1302Friday_1845",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ESEW-COLEF-02-A5-ES-003_0702Saturday_0900",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": "Revisado: 4/6/2026 Esta mal la fecha del archivo. Pone 2025 en vez de 2026"
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ESEW-COLEF-02-A5-ES-003_0702Saturday_1145",
           "evidencias": [
-            "CV",
-            "Pantallazo Aula Virtual"
+            {
+              "nombre": "CV",
+              "nota": "Pantallazo: Archivo no subido"
+            },
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ESEW-COLEF-02-A5-ES-003_1402Saturday_0900",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ESEW-COLEF-02-A5-ES-003_1402Saturday_1145",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-01EW-COLEF-02-A5-ES-01-001_0903Monday_1900",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-02EW-COLEF-02-A5-ES-02-001_1003Tuesday_1900",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-03EW-COLEF-02-A5-ES-03-001_1103Wednesday_1900",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-04EW-COLEF-02-A5-ES-04-001_1203Thursday_1900",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-01EW-COLEF-02-A5-ES-01-002_3003Monday_1000",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-02EW-COLEF-02-A5-ES-02_2503Wednesday_1230",
           "evidencias": [
-            "CV",
-            "Pantallazo Aula Virtual",
-            "Hoja Teams"
+            {
+              "nombre": "CV",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            },
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-03EW-COLEF-02-A5-ES-03-008_2403Tuesday_0900",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-04EW-COLEF-02-A5-ES-04-002_2603Thursday_1000",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-01EW-COLEF-02-A5-ES-01-008_1704Friday_1600",
           "evidencias": [
-            "CV",
-            "Pantallazo Aula Virtual",
-            "Hoja Teams"
+            {
+              "nombre": "CV",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            },
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-02EW-COLEF-02-A5-ES-02-003_1704Friday_1845",
           "evidencias": [
-            "CV",
-            "Pantallazo Aula Virtual",
-            "Hoja Teams"
+            {
+              "nombre": "CV",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            },
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-03EW-COLEF-02-A5-ES-03-003_2404Friday_1600",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-04EW-COLEF-02-A5-ES-04-003_2404Friday_1845",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-01EW-COLEF-02-A5-ES-01-004_2504Saturday_0900",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-02EW-COLEF-02-A5-ES-02-004_2504Saturday_1145",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-03EW-COLEF-02-A5-ES-03-002_0205Saturday_0900",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-COLEF-02-A5-ES-04EW-COLEF-02-A5-ES-04-004_0205Saturday_1145",
           "evidencias": [
-            "CV"
+            {
+              "nombre": "CV",
+              "nota": ""
+            }
           ]
         }
       ]
@@ -516,252 +765,390 @@
         {
           "sesion": "EP-CGTO-01-A5-ES-030_2103Saturday_0900_A CORUÑA",
           "evidencias": [
-            "Ficha Centro"
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-030_2103Saturday_1600_A CORUÑA",
           "evidencias": [
-            "Ficha Centro"
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-031_2103Saturday_0900_A CORUÑA",
           "evidencias": [
-            "Ficha Centro"
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-031_2103Saturday_1600_A CORUÑA",
           "evidencias": [
-            "Ficha Centro",
-            "Foto sala"
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-032_2103Saturday_0900_A CORUÑA",
           "evidencias": [
-            "Ficha Centro"
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-032_2103Saturday_1600_A CORUÑA",
           "evidencias": [
-            "Ficha Centro"
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-030_2203Sunday_0900_A CORUÑA",
           "evidencias": [
-            "Ficha Centro"
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-030_2203Sunday_1600_A CORUÑA",
           "evidencias": [
-            "Ficha Centro",
-            "Foto sala"
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-031_2203Sunday_0900_A CORUÑA",
           "evidencias": [
-            "Ficha Centro"
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-031_2203Sunday_1600_A CORUÑA",
           "evidencias": [
-            "Ficha Centro"
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-032_2203Sunday_0900_A CORUÑA",
           "evidencias": [
-            "Ficha Centro"
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-032_2203Sunday_1600_A CORUÑA",
           "evidencias": [
-            "Ficha Centro"
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-036EP-CGTO-01-A5-ES-036-001_1804Saturday_1500_Pamplona",
           "evidencias": [
-            "Ficha Centro"
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-036EP-CGTO-01-A5-ES-036-002_1904Sunday_0900_MADRID",
           "evidencias": [
-            "Ficha Centro"
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-036EP-CGTO-01-A5-ES-036-003_1904Sunday_1500_MADRID",
           "evidencias": [
-            "Ficha Centro"
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTO-01-A5-ES-037EP-CGTO-01-A5-ES-037-004_2504Saturday_1500_MADRID",
           "evidencias": [
-            "Ficha Centro"
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-002_0312Wednesday_1600",
           "evidencias": [
-            "Pantallazo Aula Virtual"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-020_2312Tuesday_0900",
           "evidencias": [
-            "Pantallazo Aula Virtual",
-            "Hoja Teams"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-010_0402Wednesday_1600",
           "evidencias": [
-            "Pantallazo Aula Virtual"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-014_0303Tuesday_1900",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-014_0403Wednesday_1600",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-014_0503Thursday_1900",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-024_0703Saturday_0900",
           "evidencias": [
-            "Pantallazo Aula Virtual",
-            "Hoja Teams"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-015_1103Wednesday_1600",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-024_1403Saturday_0900",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-015_1503Sunday_1600",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-016_1703Tuesday_1900",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-016_1803Wednesday_1600",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-016_1903Thursday_1900",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-025_2103Saturday_0900",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-017_2503Wednesday_1600",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-025_2803Saturday_0900",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-017_2903Sunday_1600",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-018_3003Monday_1900",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-018_3103Tuesday_1900",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-018_0104Wednesday_1600",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-026_1504Wednesday_1600",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-026_1904Sunday_1600",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-027_2004Monday_1600",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-027_2104Tuesday_1900",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTO-02-A2-ESEW-CGTO-02-A2-ES-027_2204Wednesday_1600",
           "evidencias": [
-            "Pantallazo Aula Virtual",
-            "Hoja Teams"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo mal nombrado Hoja de Teams: Archivo no subido"
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Pantallazo: Archivo mal nombrado Hoja de Teams: Archivo no subido"
+            }
           ]
         }
       ]
@@ -795,521 +1182,881 @@
         {
           "sesion": "EP-CGTS-01-A1-ES-003EP-CGTS-01-A1-ES-003-02_1402Saturday_0900_Alicante",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-003EP-CGTS-01-A1-ES-003-03_1402Saturday_1500_Alicante",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-011EP-CGTS-01-A1-ES-011-03_0702Saturday_0900_Badajoz",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-011EP-CGTS-01-A1-ES-011-04_0702Saturday_1600_Badajoz",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-021EP-CGTS-01-A1-ES-021-01_1704Friday_1630_San Sebastián",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-021EP-CGTS-01-A1-ES-021-02_1804Saturday_0900_San Sebastián",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-021EP-CGTS-01-A1-ES-021-03_1804Saturday_1530_San Sebastián",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-021EP-CGTS-01-A1-ES-021-04_1904Sunday_0900_San Sebastián",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-022EP-CGTS-01-A1-ES-022-02_2404Friday_1600_Palma de Mallorca",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-022EP-CGTS-01-A1-ES-022-03_2504Saturday_0900_Palma de Mallorca",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-022EP-CGTS-01-A1-ES-022-04_2504Saturday_1600_Palma de Mallorca",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-022EP-CGTS-01-A1-ES-022-05_2604Sunday_0900_Palma de Mallorca",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-023EP-CGTS-01-A1-ES-023-01_1104Saturday_0900_Málaga",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-023EP-CGTS-01-A1-ES-023-02_1104Saturday_1500_Málaga",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-023EP-CGTS-01-A1-ES-023-03_1804Saturday_0900_Málaga",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-023EP-CGTS-01-A1-ES-023-04_1804Saturday_1500_Málaga",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-024EP-CGTS-01-A1-ES-024-01_1704Friday_1600_Pamplona",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-024EP-CGTS-01-A1-ES-024-02_1804Saturday_0900_Pamplona",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-024EP-CGTS-01-A1-ES-024-03_1804Saturday_1500_Pamplona",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-025EP-CGTS-01-A1-ES-025-01_1104Saturday_0900_Valladolid",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-025EP-CGTS-01-A1-ES-025-02_1104Saturday_1600_Valladolid",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-025EP-CGTS-01-A1-ES-025-03_1804Saturday_0900_Valladolid",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-025EP-CGTS-01-A1-ES-025-04_1804Saturday_1600_Valladolid",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-031EP-CGTS-01-A1-ES-031-01_2404Friday_0900_Barcelona",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-031EP-CGTS-01-A1-ES-031-02_2404Friday_1530_Barcelona",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-031EP-CGTS-01-A1-ES-031-03_2504Saturday_0900_Barcelona",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-031EP-CGTS-01-A1-ES-031-04_2504Saturday_1530_Barcelona",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-001EP-CGTS-01-A1-ES-001-01_2301Friday_0900_Barcelona",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-001EP-CGTS-01-A1-ES-001-02_2301Friday_1530_Barcelona",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-001EP-CGTS-01-A1-ES-001-03_2401Saturday_0900_Barcelona",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-001EP-CGTS-01-A1-ES-001-04_2401Saturday_1530_Barcelona",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-002EP-CGTS-01-A1-ES-002-01_2301Friday_1600_Las Palmas",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-002EP-CGTS-01-A1-ES-002-02_2401Saturday_0900_Las Palmas",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-002EP-CGTS-01-A1-ES-002-03_2401Saturday_1500_Las Palmas",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-002EP-CGTS-01-A1-ES-002-04_2501Sunday_0900_Las Palmas",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-003EP-CGTS-01-A1-ES-003-01_1302Friday_1600_Alicante",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-006EP-CGTS-01-A1-ES-006-01_2002Friday_1600_León",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-006EP-CGTS-01-A1-ES-006-02_2102Saturday_0900_León",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-007EP-CGTS-01-A1-ES-007-03_0602Friday_1530_La Rioja",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-009EP-CGTS-01-A1-ES-009-01_2301Friday_1600_Madrid",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-009EP-CGTS-01-A1-ES-009-02_2401Saturday_0900_Madrid",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-009EP-CGTS-01-A1-ES-009-03_2401Saturday_1600_Madrid",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-012EP-CGTS-01-A1-ES-012-01_2102Saturday_0900_Santander",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-012EP-CGTS-01-A1-ES-012-02_2102Saturday_1500_Santander",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-012EP-CGTS-01-A1-ES-012-03_2202Sunday_0900_Santander",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-012EP-CGTS-01-A1-ES-012-04_2202Sunday_1600_Santander",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-014EP-CGTS-01-A1-ES-014-01_1303Friday_1600_Almería",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-014EP-CGTS-01-A1-ES-014-02_1403Saturday_0900_Almería",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-014EP-CGTS-01-A1-ES-014-03_1403Saturday_1500_Almería",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-014EP-CGTS-01-A1-ES-014-04_1503Sunday_0900_Almería",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-015EP-CGTS-01-A1-ES-015-01_1303Friday_0900_Zaragoza",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-015EP-CGTS-01-A1-ES-015-03_1403Saturday_0900_Zaragoza",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-015EP-CGTS-01-A1-ES-015-04_1403Saturday_1500_Zaragoza",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-017EP-CGTS-01-A1-ES-017-01_0603Friday_1500_Madrid",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-017EP-CGTS-01-A1-ES-017-04_0803Sunday_0900_Madrid",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-018EP-CGTS-01-A1-ES-018-01_1403Saturday_0900_Murcia",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-018EP-CGTS-01-A1-ES-018-02_1403Saturday_1500_Murcia",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-018EP-CGTS-01-A1-ES-018-03_1503Sunday_0900_Murcia",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-018EP-CGTS-01-A1-ES-018-04_1503Sunday_1500_Murcia",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-019_2003Friday_1600_Tenerife",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-019_2103Saturday_0900_Tenerife",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-019_2103Saturday_1600_Tenerife",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-019_2203Sunday_0900_Tenerife",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-030EP-CGTS-01-A1-ES-030-01_2703Friday_0900_Valencia",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-030EP-CGTS-01-A1-ES-030-02_2703Friday_1500_Valencia",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-030EP-CGTS-01-A1-ES-030-03_2803Saturday_0900_Valencia",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-030EP-CGTS-01-A1-ES-030-04_2803Saturday_1300_Valencia",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-030EP-CGTS-01-A1-ES-030-05_2803Saturday_1600_Valencia",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-024EP-CGTS-01-A1-ES-024-04_1904Sunday_0900_Pamplona",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-006EP-CGTS-01-A1-ES-006-03_2102Saturday_1600_León",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-006EP-CGTS-01-A1-ES-006-04_2202Sunday_0900_León",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-007EP-CGTS-01-A1-ES-007-01_0702Saturday_0900_La Rioja",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-015EP-CGTS-01-A1-ES-015-02_1303Friday_1500_Zaragoza",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-CGTS-02-A1-ESEW-CGTS-02-A1-ES-002_1603Monday_1630",
           "evidencias": [
-            "Pantallazo Aula Virtual",
-            "Hoja Teams"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTS-02-A1-ESEW-CGTS-02-A1-ES-002_2303Monday_1600",
           "evidencias": [
-            "Pantallazo Aula Virtual",
-            "Hoja Teams"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTS-02-A1-ESEW-CGTS-02-A1-ES-002_2503Wednesday_1700",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTS-02-A1-ESEW-CGTS-02-A1-ES-003_2204Wednesday_1630",
           "evidencias": [
-            "Pantallazo Aula Virtual",
-            "Hoja Teams"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTS-02-A1-ESEW-CGTS-02-A1-ES-006_1702Tuesday_1630",
           "evidencias": [
-            "Pantallazo Aula Virtual"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTS-02-A1-ESEW-CGTS-02-A1-ES-006_2402Tuesday_1630",
           "evidencias": [
-            "Pantallazo Aula Virtual"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGTS-02-A1-ESEW-CGTS-02-A1-ES-006_2502Wednesday_1700",
           "evidencias": [
-            "Pantallazo Aula Virtual"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo no subido"
+            }
           ]
         }
       ]
@@ -1395,286 +2142,451 @@
         {
           "sesion": "EP-CGATE-01-A5-ES-29EP-CGATE-01-A5-ES-29-001_1803Wednesday_1900_Madrid",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto sala: Archivo cargado pero mal nombrado"
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-22EP-CGATE-01-A5-ES-22-001_1803Wednesday_1900_Madrid",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-30EP-CGATE-01-A5-ES-30-001_2003Friday_1700_Madrid",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto sala: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-39EP-CGATE-01-A5-ES-39-001_1004Friday_1530_Burgos",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado Hoja de firmas: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": "Foto de sala: Archivo no cargado Hoja de firmas: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-40EP-CGATE-01-A5-ES-40-001_1104Saturday_0900_Burgos",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado Hoja de firmas Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": "Foto de sala: Archivo no cargado Hoja de firmas Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-67EP-CGATE-01-A5-ES-67-002_1604Thursday_1600_León",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-10EP-CGATE-01-A5-ES-10-012_1404Tuesday_1600_Sevilla",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-08EP-CGATE-01-A5-ES-08-012_0505Tuesday_1600_Sevilla",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-05EP-CGATE-01-A5-ES-05-002_1603Monday_1600_Barcelona",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-46EP-CGATE-01-A5-ES-46-001_0904Thursday_1600_Tarragona",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-31EP-CGATE-01-A5-ES-31-001_2103Saturday_1000_Madrid",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-01EP-CGATE-01-A5-ES-01-006_0804Wednesday_1600_Barcelona",
           "evidencias": [
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "Pantallazo",
+              "nota": "Pantallazo de Teams: Archivo no cargado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Pantallazo de Teams: Archivo no cargado Hoja de Teams: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-05EP-CGATE-01-A5-ES-05-003_1304Monday_1600_Barcelona",
           "evidencias": [
-            "Hoja de Teams"
+            {
+              "nombre": "Hoja de Teams",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-01EP-CGATE-01-A5-ES-01-007_1304Monday_1600_Barcelona",
           "evidencias": [
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "Pantallazo",
+              "nota": "Pantallazo de Teams: Archivo no cargado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Pantallazo de Teams: Archivo no cargado Hoja de Teams: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-03EP-CGATE-01-A5-ES-03-004_1404Tuesday_1600_Barcelona",
           "evidencias": [
-            "Hoja de Teams"
+            {
+              "nombre": "Hoja de Teams",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-08EP-CGATE-01-A5-ES-08-003_1203Thursday_1600_Málaga",
           "evidencias": [
-            "Hoja de Teams"
+            {
+              "nombre": "Hoja de Teams",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-11EP-CGATE-01-A5-ES-11-012_0804Wednesday_1600_Sevilla",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-01EP-CGATE-01-A5-ES-01-008_1404Tuesday_1530_Barcelona",
           "evidencias": [
-            "Hoja de firmas",
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": "Hoja de firmas: Archivo no cargado Pantallazo de Teams: Archivo no cargado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": "Hoja de firmas: Archivo no cargado Pantallazo de Teams: Archivo no cargado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Hoja de firmas: Archivo no cargado Pantallazo de Teams: Archivo no cargado Hoja de Teams: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-02EP-CGATE-01-A5-ES-02-006_1504Wednesday_1600_Barcelona",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-01EP-CGATE-01-A5-ES-01-009_2204Wednesday_1000_Barcelona",
           "evidencias": [
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "Pantallazo",
+              "nota": "Pantallazo de Teams: Archivo no cargado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Pantallazo de Teams: Archivo no cargado Hoja de Teams: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-01EP-CGATE-01-A5-ES-01-011 _2704Monday_1500_Barcelona",
           "evidencias": [
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "Pantallazo",
+              "nota": "Pantallazo de Teams: Archivo no cargado Hoja de Teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Pantallazo de Teams: Archivo no cargado Hoja de Teams: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-67EP-CGATE-01-A5-ES-67-001_1704Friday_1600_León",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-74EP-CGATE-01-A5-ES-74-001_2004Monday_1600_Salamanca",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado Hoja de fimas: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": "Foto de sala: Archivo no cargado Hoja de fimas: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-79EP-CGATE-01-A5-ES-79-001_2104Tuesday_1700_Zamora",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-09EP-CGATE-01-A5-ES-09-011_2703Friday_0900_Valencia",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-99EP-CGATE-01-A5-ES-99-001_2204Wednesday_1800_Burgos",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-09EP-CGATE-01-A5-ES-09-005_1704Friday_1600_Málaga",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-33EP-CGATE-01-A5-ES-33-002_1404Tuesday_1900_",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-34EP-CGATE-01-A5-ES-34-002_1504Wednesday_1900_",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-21EP-CGATE-01-A5-ES-21-002_2104Tuesday_1900_",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-29EP-CGATE-01-A5-ES-29-003_2204Wednesday_1900_",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-22EP-CGATE-01-A5-ES-22-002_2204Wednesday_1900_",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-13EP-CGATE-01-A5-ES-13-001_2303Monday_1600_",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-13EP-CGATE-01-A5-ES-13-002_2403Tuesday_1600_",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-41EP-CGATE-01-A5-ES-41-001_1504Wednesday_1600_",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-41EP-CGATE-01-A5-ES-41-002_1604Thursday_1600_",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-55EP-CGATE-01-A5-ES-55-001_1504Wednesday_1700_Cáceres",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-56EP-CGATE-01-A5-ES-56-001_0505Tuesday_1700_Cáceres",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-35EP-CGATE-01-A5-ES-35-002_1104Saturday_0900_Santander",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-08EP-CGATE-01-A5-ES-08-011_3003Monday_1600_Valencia",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-08EP-CGATE-01-A5-ES-08-006_2804Tuesday_1630_Huelva",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-08EP-CGATE-01-A5-ES-08-014_2804Tuesday_1600_Valladolid",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-67EP-CGATE-01-A5-ES-67-002_1604Thursday_1600_Ponferrada",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGATE-01-A5-ES-09EP-CGATE-01-A5-ES-09-002_2404Friday_1000_Córdoba",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-CGATE-02-A2-ES-01EW-CGATE-02-A2-ES-01-004_0804Wednesday_1500",
           "evidencias": [
-            "Pantallazo Aula Virtual"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGATE-02-A2-ES-02EW-CGATE-02-A2-ES-02-004_0904Thursday_1500",
           "evidencias": [
-            "Pantallazo Aula Virtual"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo no subido"
+            }
           ]
         }
       ]
@@ -1734,36 +2646,66 @@
         {
           "sesion": "EW-CSP-02-A3-ESEW-CSP-02-A3-ES-003_0403Wednesday_1830",
           "evidencias": [
-            "Pantallazo Aula Virtual",
-            "Hoja Teams"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo mal nombrado Hoja de Teams: Archivo no subido"
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Pantallazo: Archivo mal nombrado Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CSP-02-A3-ESEW-CSP-02-A3-ES-003_0503Thursday_1830",
           "evidencias": [
-            "Pantallazo Aula Virtual",
-            "Hoja Teams"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CSP-02-A3-ESEW-CSP-02-A3-ES-004_1304Monday_1830",
           "evidencias": [
-            "Pantallazo Aula Virtual",
-            "Hoja Teams"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Foto de sala: Hay dos paquetes de la edición 3. Posiblemente EW-CSP-02-A3-ES_ed3 está mal nombrado Hoja de Teams: Hay dos paquetes de la edición 3. Posiblemente EW-CSP-02-A3-ES_ed3 está mal nombrado"
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Foto de sala: Hay dos paquetes de la edición 3. Posiblemente EW-CSP-02-A3-ES_ed3 está mal nombrado Hoja de Teams: Hay dos paquetes de la edición 3. Posiblemente EW-CSP-02-A3-ES_ed3 está mal nombrado"
+            }
           ]
         },
         {
           "sesion": "EW-CSP-02-A3-ESEW-CSP-02-A3-ES-004_1404Tuesday_1830",
           "evidencias": [
-            "Pantallazo Aula Virtual",
-            "Hoja Teams"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Foto de sala: Hay dos paquetes de la edición 3. Posiblemente EW-CSP-02-A3-ES_ed3 está mal nombrado Hoja de Teams: Hay dos paquetes de la edición 3. Posiblemente EW-CSP-02-A3-ES_ed3 está mal nombrado"
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Foto de sala: Hay dos paquetes de la edición 3. Posiblemente EW-CSP-02-A3-ES_ed3 está mal nombrado Hoja de Teams: Hay dos paquetes de la edición 3. Posiblemente EW-CSP-02-A3-ES_ed3 está mal nombrado"
+            }
           ]
         },
         {
           "sesion": "EW-CSP-02-A3-ESEW-CSP-02-A3-ES-004_1504Wednesday_1830",
           "evidencias": [
-            "Pantallazo Aula Virtual",
-            "Hoja Teams"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Foto de sala: Hay dos paquetes de la edición 3. Posiblemente EW-CSP-02-A3-ES_ed3 está mal nombrado Hoja de Teams: Hay dos paquetes de la edición 3. Posiblemente EW-CSP-02-A3-ES_ed3 está mal nombrado"
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Foto de sala: Hay dos paquetes de la edición 3. Posiblemente EW-CSP-02-A3-ES_ed3 está mal nombrado Hoja de Teams: Hay dos paquetes de la edición 3. Posiblemente EW-CSP-02-A3-ES_ed3 está mal nombrado"
+            }
           ]
         }
       ]
@@ -1797,95 +2739,182 @@
         {
           "sesion": "EP-CGCOM-01-A1-ES-04EP-CGCOM-01-A1-ES-04-002_2804Tuesday_0900_Barcelona",
           "evidencias": [
-            "Foto sala",
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala:  Archivo no cargado Hoja de Teams: Archivo no cargado Pantallazo: Archivo no cargado"
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": "Foto de sala:  Archivo no cargado Hoja de Teams: Archivo no cargado Pantallazo: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Foto de sala:  Archivo no cargado Hoja de Teams: Archivo no cargado Pantallazo: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOM-01-A1-ES-03EP-CGCOM-01-A1-ES-03-002_2704Monday_0900_Barcelona",
           "evidencias": [
-            "Foto sala",
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado Hoja de Teams: Archivo no cargado Pantallazo: Archivo no cargado"
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": "Foto de sala: Archivo no cargado Hoja de Teams: Archivo no cargado Pantallazo: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Foto de sala: Archivo no cargado Hoja de Teams: Archivo no cargado Pantallazo: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOM-01-A1-ES-04EP-CGCOM-01-A1-ES-04-004_2804Tuesday_1600_Valladolid",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala:  Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOM-01-A1-ES-03EP-CGCOM-01-A1-ES-03-006_0505Tuesday_1600_Asturias",
           "evidencias": [
-            "Foto sala",
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado Hoja de Teams: Archivo no cargado Pantallazo: Archivo no cargado"
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": "Foto de sala: Archivo no cargado Hoja de Teams: Archivo no cargado Pantallazo: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Foto de sala: Archivo no cargado Hoja de Teams: Archivo no cargado Pantallazo: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOM-01-A1-ES-02EP-CGCOM-01-A1-ES-02-004_2704Monday_1600_Valladolid",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOM-01-A1-ES-04EP-CGCOM-01-A1-ES-04-006_0605Wednesday_1600_Asturias",
           "evidencias": [
-            "Foto sala",
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala:  Archivo no cargado Hoja de Teams: Archivo no cargado Pantallazo: Archivo no cargado"
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": "Foto de sala:  Archivo no cargado Hoja de Teams: Archivo no cargado Pantallazo: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Foto de sala:  Archivo no cargado Hoja de Teams: Archivo no cargado Pantallazo: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOM-01-A1-ES-01EP-CGCOM-01-A1-ES-01-004_0405Monday_1600_Valladolid",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOM-01-A1-ES-01EP-CGCOM-01-A1-ES-01-006_0405Monday_1600_Asturias",
           "evidencias": [
-            "Foto sala",
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado Pantallazo: Archivo no cargado Hoja de teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": "Foto de sala: Archivo no cargado Pantallazo: Archivo no cargado Hoja de teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Foto de sala: Archivo no cargado Pantallazo: Archivo no cargado Hoja de teams: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOM-01-A1-ES-02EP-CGCOM-01-A1-ES-02-008_0405Monday_1600_Segovia",
           "evidencias": [
-            "Foto sala",
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado Pantallazo: Archivo no cargado Hoja de teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": "Foto de sala: Archivo no cargado Pantallazo: Archivo no cargado Hoja de teams: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Foto de sala: Archivo no cargado Pantallazo: Archivo no cargado Hoja de teams: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOM-01-A1-ES-03EP-CGCOM-01-A1-ES-03-010_0505Tuesday_1600_Navarra",
           "evidencias": [
-            "Foto sala",
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado Hoja de Teams: Archivo no cargado Pantallazo: Archivo no cargado"
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": "Foto de sala: Archivo no cargado Hoja de Teams: Archivo no cargado Pantallazo: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Foto de sala: Archivo no cargado Hoja de Teams: Archivo no cargado Pantallazo: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOM-01-A1-ES-03EP-CGCOM-01-A1-ES-03-004_0605Wednesday_1600_Valladolid",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EW-CGCOM-02-A1-ES-04EW-CGCOM-02-A1-ES-04-005_2203Sunday_1200",
           "evidencias": [
-            "Pantallazo Aula Virtual",
-            "Hoja Teams"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGCOM-02-A1-ES-02EW-CGCOM-02-A1-ES-02-009_2204Wednesday_1700",
           "evidencias": [
-            "Pantallazo Aula Virtual",
-            "Hoja Teams"
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Pantallazo: Archivo no subido Hoja de Teams: Archivo no subido"
+            }
           ]
         }
       ]
@@ -1945,299 +2974,473 @@
         {
           "sesion": "EP-CGCOE-01-A1-ES-007EP-CGCOE-01-A1-ES-007-02_2301Friday_1530_",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-007EP-CGCOE-01-A1-ES-007-04_2401Saturday_1530_",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-010EP-CGCOE-01-A1-ES-010-02_1002Tuesday_0900_Burgos",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-010EP-CGCOE-01-A1-ES-010-04_1202Thursday_0900_Burgos",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-012EP-CGCOE-01-A1-ES-012-03_1504Wednesday_1600_",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-013EP-CGCOE-01-A1-ES-013-01_2004Monday_1530_Castellón",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-013EP-CGCOE-01-A1-ES-013-02_2104Tuesday_1600_Castellón",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-019EP-CGCOE-01-A1-ES-019-01_1804Saturday_0830_",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-019EP-CGCOE-01-A1-ES-019-02_1904Sunday_0830_",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-026EP-CGCOE-01-A1-ES-026-04_1803Wednesday_1600_León",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-026EP-CGCOE-01-A1-ES-026-03_2603Thursday_1600_León",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-027EP-CGCOE-01-A1-ES-027-03_1703Tuesday_1600_Ponferrada",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-027EP-CGCOE-01-A1-ES-027-02_2503Wednesday_1600_Ponferrada",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-044EP-CGCOE-01-A1-ES-044-02_1602Monday_1600_Madrid",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-048EP-CGCOE-01-A1-ES-048-04_1203Thursday_1600_Zaragoza",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-050EP-CGCOE-01-A1-ES-050-01_1304Monday_0900_Sevilla",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-050EP-CGCOE-01-A1-ES-050-02_1304Monday_1600_Sevilla",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-050EP-CGCOE-01-A1-ES-050-03_1404Tuesday_0900_Sevilla",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-050EP-CGCOE-01-A1-ES-050-04_1404Tuesday_1600_Sevilla",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-062EP-CGCOE-01-A1-ES-062-01_1203Thursday_1600_Ourense",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-062EP-CGCOE-01-A1-ES-062-02_1303Friday_0900_Ourense",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-062EP-CGCOE-01-A1-ES-062-03_1303Friday_1600_Ourense",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-062EP-CGCOE-01-A1-ES-062-04_1403Saturday_0900_Ourense",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-064EP-CGCOE-01-A1-ES-064-02_2503Wednesday_0900_Cáceres",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-064EP-CGCOE-01-A1-ES-064-03_0804Wednesday_0900_Cáceres",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-064EP-CGCOE-01-A1-ES-064-04_1504Wednesday_0900_Cáceres",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-065EP-CGCOE-01-A1-ES-065-02_2503Wednesday_1600_Cáceres",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-065EP-CGCOE-01-A1-ES-065-03_0804Wednesday_1600_Cáceres",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-065EP-CGCOE-01-A1-ES-065-04_1504Wednesday_1600_Cáceres",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-068EP-CGCOE-01-A1-ES-068-01_1903Thursday_0900_Córdoba",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-068EP-CGCOE-01-A1-ES-068-04_1604Thursday_0900_Córdoba",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-068EP-CGCOE-01-A1-ES-068-05_1604Thursday_1700_Córdoba",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-073EP-CGCOE-01-A1-ES-073-03_2104Tuesday_1600_Jaén",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-074EP-CGCOE-01-A1-ES-074-01_2303Monday_0900_Madrid",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-074EP-CGCOE-01-A1-ES-074-02_2403Tuesday_0900_Madrid",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-074EP-CGCOE-01-A1-ES-074-03_2403Tuesday_1600_Madrid",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-074EP-CGCOE-01-A1-ES-074-04_2503Wednesday_0900_Madrid",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-079EP-CGCOE-01-A1-ES-079-02_1404Tuesday_0900_Sevilla",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-086EP-CGCOE-01-A1-ES-086-01_1004Friday_1600_Madrid",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-086EP-CGCOE-01-A1-ES-086-02_1304Monday_0900_Madrid",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-086EP-CGCOE-01-A1-ES-086-03_1404Tuesday_1600_Madrid",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-088EP-CGCOE-01-A1-ES-088-02_0703Saturday_1600_Granada",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-088EP-CGCOE-01-A1-ES-088-03_0804Wednesday_1600_Granada",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-088EP-CGCOE-01-A1-ES-088-04_0904Thursday_1600_Granada",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-094EP-CGCOE-01-A1-ES-094-02_2104Tuesday_0900_Tenerife",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-097EP-CGCOE-01-A1-ES-097-03_2204Wednesday_1600_Mallorca",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": "Hoja de firmas: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-099EP-CGCOE-01-A1-ES-099-04_2704Monday_1600_Castellón",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": "Foto de sala: Archivo cargado pero no salen los logos Hoja de firmas: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOE-01-A1-ES-100EP-CGCOE-01-A1-ES-100-04_0504Sunday_1600_Castellón",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         }
       ]
@@ -2271,221 +3474,341 @@
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-30EP-CGCOSITA-01-A1-ES-30-001_0303Tuesday_1000_Madrid",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-22EP-CGCOSITA-01-A1-ES-22-001_0303Tuesday_0900_Badajoz",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Cargada pero mal nombrada"
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": "Foto de sala: Cargada pero mal nombrada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-26EP-CGCOSITA-01-A1-ES-26-001_0403Wednesday_1000_Madrid",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-12EP-CGCOSITA-01-A1-ES-12-001_1003Tuesday_1700_Lleida",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-07EP-CGCOSITA-01-A1-ES-07-001_1203Thursday_0900_Valencia",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-43EP-CGCOSITA-01-A1-ES-43-001_1304Monday_1000_Valladolid",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Cargada pero mal nombrada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-44EP-CGCOSITA-01-A1-ES-44-001_1304Monday_1600_Valladolid",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Cargada pero mal nombrada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-02EP-CGCOSITA-01-A1-ES-02-003_1103Wednesday_0900_León",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-02EP-CGCOSITA-01-A1-ES-02-005_1603Monday_0900_Sevilla",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-13EP-CGCOSITA-01-A1-ES-13-001_2403Tuesday_1630_Lleida",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Cargada pero mal nombrada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-01EP-CGCOSITA-01-A1-ES-01-004_1703Tuesday_0900_Sevilla",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-45EP-CGCOSITA-01-A1-ES-45-001_1504Wednesday_1000_Valladolid",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Cargada pero mal nombrada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-46EP-CGCOSITA-01-A1-ES-46-001_1504Wednesday_1600_Valladolid",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Cargada pero mal nombrada"
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": "Foto de sala: Cargada pero mal nombrada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-06EP-CGCOSITA-01-A1-ES-06-005_2804Tuesday_0900_Murcia",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-15EP-CGCOSITA-01-A1-ES-15-001_1404Tuesday_1630_Lleida",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Cargada pero mal nombrada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-26EP-CGCOSITA-01-A1-ES-26-004_1604Thursday_1600_Zaragoza",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: No Cargada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-01EP-CGCOSITA-01-A1-ES-01-010_2404Friday_0900_Granada",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: No Cargada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-27EP-CGCOSITA-01-A1-ES-27-004_2004Monday_1600_Zaragoza",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: No Cargada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-28EP-CGCOSITA-01-A1-ES-28-004_2704Monday_0930_Zaragoza",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: No Cargada Hoja de Firma: No cargada"
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": "Foto de sala: No Cargada Hoja de Firma: No cargada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-47EP-CGCOSITA-01-A1-ES-47-001_1604Thursday_1000_Valladolid",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Cargada pero mal nombrada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-48EP-CGCOSITA-01-A1-ES-48-001_1604Thursday_1600_Valladolid",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Cargada pero mal nombrada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-06EP-CGCOSITA-01-A1-ES-06-001_1003Tuesday_0900_Valencia",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-14EP-CGCOSITA-01-A1-ES-14-001_0704Tuesday_1630_Lleida",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: No Cargada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-06EP-CGCOSITA-01-A1-ES-06-004_2303Monday_0900_Sevilla",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-02EP-CGCOSITA-01-A1-ES-02-008_1404Tuesday_1600_Cáceres",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-01EP-CGCOSITA-01-A1-ES-01-008_1604Thursday_1600_Cáceres",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: No Cargada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-35EP-CGCOSITA-01-A1-ES-35-001_2704Monday_1600_Palencia",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-16EP-CGCOSITA-01-A1-ES-16-001_2104Tuesday_1630_Lleida",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Cargada pero mal nombrada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-06EP-CGCOSITA-01-A1-ES-06-008_2104Tuesday_1600_Cáceres",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: No Cargada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-17EP-CGCOSITA-01-A1-ES-17-001_2804Tuesday_1630_Lleida",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Cargada pero mal nombrada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-06EP-CGCOSITA-01-A1-ES-06-009_2904Wednesday_0900_Huelva",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Cargada pero mal nombrada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-06EP-CGCOSITA-01-A1-ES-06-011_2004Monday_0930_Torrelavega",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": "Hoja de Firmas:Cargada pero mal nombrada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-07EP-CGCOSITA-01-A1-ES-07-011_2104Tuesday_0930_Torrelavega",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Cargada pero mal nombrada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-30EP-CGCOSITA-01-A1-ES-30-004_0604Monday_1600_Zaragoza",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: No Cargada"
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": "Foto de sala: No Cargada"
+            }
           ]
         },
         {
           "sesion": "EP-CGCOSITA-01-A1-ES-55EP-CGCOSITA-01-A1-ES-55-001_2904Wednesday_1700_Ciudad Real",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo no cargado Hoja de firmas: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EW-CGCOSITA-02-A5-ESEW-CGCOSITA-02-A5-ES-001_1512Monday_1000",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         }
       ]
@@ -2545,255 +3868,417 @@
         {
           "sesion": "EP-CGAE-01-A2-ES-01EP-CGAE-01-A2-ES-01-001_0503Thursday_1530_Madrid",
           "evidencias": [
-            "Pantallazo"
+            {
+              "nombre": "Pantallazo",
+              "nota": "Pantallazo de Teams: Archivo cargado pero mal nombrado"
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-02EP-CGAE-01-A2-ES-02-001_0603Friday_0900_Madrid",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-04EP-CGAE-01-A2-ES-04-001_1303Friday_0900_Madrid",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-02EP-CGAE-01-A2-ES-02-003_2003Friday_0915_Barcelona",
           "evidencias": [
-            "Hoja de Teams"
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Hoja de Teams: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-02EP-CGAE-01-A2-ES-02-005_2103Saturday_0900_Sevilla",
           "evidencias": [
-            "CVs"
+            {
+              "nombre": "CVs",
+              "nota": "CV: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-02EP-CGAE-01-A2-ES-02-009_2703Friday_0900_Madrid",
           "evidencias": [
-            "Ficha Centro"
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-03EP-CGAE-01-A2-ES-03-003_2703Friday_0915_Barcelona",
           "evidencias": [
-            "Hoja de Teams"
+            {
+              "nombre": "Hoja de Teams",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-04EP-CGAE-01-A2-ES-04-004_2703Friday_0900_MURCIA",
           "evidencias": [
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "Pantallazo",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-03EP-CGAE-01-A2-ES-03-006_3003Monday_1500_VALENCIA",
           "evidencias": [
-            "Hoja de Teams"
+            {
+              "nombre": "Hoja de Teams",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-04EP-CGAE-01-A2-ES-04-006_0104Wednesday_1500_VALENCIA",
           "evidencias": [
-            "CVs",
-            "Foto sala",
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "CVs",
+              "nota": ""
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": ""
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-04EP-CGAE-01-A2-ES-04-009_0804Wednesday_1530_Madrid",
           "evidencias": [
-            "Hoja de Teams"
+            {
+              "nombre": "Hoja de Teams",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-01EP-CGAE-01-A2-ES-01-015_1304Monday_1430_MÁLAGA",
           "evidencias": [
-            "CVs"
+            {
+              "nombre": "CVs",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-02EP-CGAE-01-A2-ES-02-015_1404Tuesday_1430_MÁLAGA",
           "evidencias": [
-            "Foto sala",
-            "Hoja de firmas"
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala: Archivo cargado pero no se abre nada Hoja de firmas: Archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": "Foto de sala: Archivo cargado pero no se abre nada Hoja de firmas: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-03EP-CGAE-01-A2-ES-03-015_1504Wednesday_1430_MÁLAGA",
           "evidencias": [
-            "Foto sala"
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-02EP-CGAE-01-A2-ES-02-010_1604Thursday_0930_Granada",
           "evidencias": [
-            "Hoja de firmas"
+            {
+              "nombre": "Hoja de firmas",
+              "nota": "Hoja de firmas: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-04EP-CGAE-01-A2-ES-04-002_0903Monday_1430_MÁLAGA",
           "evidencias": [
-            "Pantallazo"
+            {
+              "nombre": "Pantallazo",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-04EP-CGAE-01-A2-ES-04-008_1804Saturday_0900_Salamanca",
           "evidencias": [
-            "CVs",
-            "Ficha Centro"
+            {
+              "nombre": "CVs",
+              "nota": ""
+            },
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-04EP-CGAE-01-A2-ES-04-013_2004Monday_1600_Lucena",
           "evidencias": [
-            "CVs",
-            "Ficha Centro"
+            {
+              "nombre": "CVs",
+              "nota": ""
+            },
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-01EP-CGAE-01-A2-ES-01-044_0405Monday_1500_VALENCIA",
           "evidencias": [
-            "CVs",
-            "Foto sala",
-            "Pantallazo",
-            "Hoja de Teams"
+            {
+              "nombre": "CVs",
+              "nota": "Foto de sala, Pantallazo Teams y Hoja de Teams: archivo no cargado"
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": "Foto de sala, Pantallazo Teams y Hoja de Teams: archivo no cargado"
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": "Foto de sala, Pantallazo Teams y Hoja de Teams: archivo no cargado"
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Foto de sala, Pantallazo Teams y Hoja de Teams: archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-01EP-CGAE-01-A2-ES-01-002_1203Thursday_1430_MÁLAGA",
           "evidencias": [
-            "CVs"
+            {
+              "nombre": "CVs",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-01EP-CGAE-01-A2-ES-01-003_1303Friday_0915_Barcelona",
           "evidencias": [
-            "CVs"
+            {
+              "nombre": "CVs",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-01EP-CGAE-01-A2-ES-01-012_1004Friday_0900_ALICANTE",
           "evidencias": [
-            "CVs"
+            {
+              "nombre": "CVs",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-04EP-CGAE-01-A2-ES-04-005_1104Saturday_0900_Sevilla",
           "evidencias": [
-            "Ficha Centro"
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-01EP-CGAE-01-A2-ES-01-013_1304Monday_1600_Lucena",
           "evidencias": [
-            "CVs"
+            {
+              "nombre": "CVs",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-02EP-CGAE-01-A2-ES-02-013_1604Thursday_1600_Lucena",
           "evidencias": [
-            "CVs"
+            {
+              "nombre": "CVs",
+              "nota": "CV: Archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-03EP-CGAE-01-A2-ES-03-013_1704Friday_0900_Lucena",
           "evidencias": [
-            "CVs"
+            {
+              "nombre": "CVs",
+              "nota": "CV: Archiv no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-01EP-CGAE-01-A2-ES-01-023_2404Friday_0900_Figueres",
           "evidencias": [
-            "Ficha Centro"
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-02EP-CGAE-01-A2-ES-02-012_2404Friday_0900_ALICANTE",
           "evidencias": [
-            "CVs"
+            {
+              "nombre": "CVs",
+              "nota": "CV: Archivo no cargado Foto de sala: Archivo cargado pero no hay logos"
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-04EP-CGAE-01-A2-ES-04-014_2404Friday_0900_Gipuzkoa",
           "evidencias": [
-            "CVs",
-            "Ficha Centro"
+            {
+              "nombre": "CVs",
+              "nota": ""
+            },
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-04EP-CGAE-01-A2-ES-04-015_1604Thursday_1430_MÁLAGA",
           "evidencias": [
-            "CVs",
-            "Ficha Centro",
-            "Foto sala"
+            {
+              "nombre": "CVs",
+              "nota": ""
+            },
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-01EP-CGAE-01-A2-ES-01-014_1604Thursday_1500_Gipuzkoa",
           "evidencias": [
-            "Hoja de Teams"
+            {
+              "nombre": "Hoja de Teams",
+              "nota": "Hoja de asistencia teams: archivo no cargado"
+            }
           ]
         },
         {
           "sesion": "EP-CGAE-01-A2-ES-04EP-CGAE-01-A2-ES-04-010_3004Thursday_0930_Granada",
           "evidencias": [
-            "CVs",
-            "Ficha Centro"
+            {
+              "nombre": "CVs",
+              "nota": ""
+            },
+            {
+              "nombre": "Ficha Centro",
+              "nota": ""
+            }
           ]
         },
         {
           "sesion": "EW-CGAE-02-A2-ES01\r\nEW-CGAE-02-A2-ES01-002\r\n_0303Tuesday_1530",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGAE-02-A2-ES02EW-CGAE-02-A2-ES02-001_0503Thursday_1530",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGAE-02-A2-ES02EW-CGAE-02-A2-ES02-002_1003Tuesday_1530",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGAE-02-A2-ES01EW-CGAE-02-A2-ES01-003\r\n_1203Thursday_1530",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGAE-02-A2-ES02EW-CGAE-02-A2-ES02-003_1703Tuesday_1530",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGAE-02-A2-ES01EW-CGAE-02-A2-ES01-004\r\n_2403Tuesday_1530",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGAE-02-A2-ES02EW-CGAE-02-A2-ES02-004_3003Monday_1530",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         },
         {
           "sesion": "EW-CGAE-02-A2-ES01EW-CGAE-02-A2-ES01-005_2104Tuesday_1530",
           "evidencias": [
-            "Hoja Teams"
+            {
+              "nombre": "Hoja Teams",
+              "nota": "Hoja de Teams: Archivo no subido"
+            }
           ]
         }
       ]

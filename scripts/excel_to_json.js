@@ -232,10 +232,11 @@ function parseEvidencias(ws) {
     const consejo   = normalizarNombreConsejo(String(row[0]).trim());
     const sesion    = row[1] ? String(row[1]).trim() : "";
     const evidencia = row[2] ? String(row[2]).trim() : "";
+    const nota      = row[3] ? String(row[3]).trim().replace(/\r\n|\r|\n/g, " ").trim() : "";
     if (!sesion || !evidencia) continue;
     if (!byConsejo[consejo]) byConsejo[consejo] = {};
     if (!byConsejo[consejo][sesion]) byConsejo[consejo][sesion] = [];
-    byConsejo[consejo][sesion].push(evidencia);
+    byConsejo[consejo][sesion].push({ nombre: evidencia, nota });
   }
   return byConsejo;
 }
