@@ -428,16 +428,21 @@ const EvidenciasPendientesCard = ({ rows, selectedCouncil }) => {
                 </td>
                 {totalConNotas > 0 && (
                   <td className="px-4 py-3">
-                    <ul className="space-y-1.5">
-                      {row.evidencias.map((ev, i) => (
-                        <li key={i} className="text-[11px] leading-relaxed min-h-[1.5rem]">
-                          {ev.nota
-                            ? <span className="text-amber-700 bg-amber-50 border border-amber-200 rounded px-1.5 py-0.5">{ev.nota}</span>
-                            : <span className="text-slate-300">—</span>
-                          }
-                        </li>
-                      ))}
-                    </ul>
+                    {(() => {
+                      const notasUnicas = [...new Set(row.evidencias.map(ev => ev.nota).filter(Boolean))];
+                      return notasUnicas.length > 0 ? (
+                        <ul className="space-y-1.5">
+                          {notasUnicas.map((nota, i) => (
+                            <li key={i} className="flex items-start gap-2 text-slate-600 text-[11px] leading-relaxed">
+                              <span className="mt-1.5 inline-block w-1 h-1 rounded-full bg-slate-400 shrink-0" />
+                              {nota}
+                            </li>
+                          ))}
+                        </ul>
+                      ) : (
+                        <span className="text-slate-300">—</span>
+                      );
+                    })()}
                   </td>
                 )}
               </tr>
