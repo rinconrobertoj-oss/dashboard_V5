@@ -318,22 +318,22 @@ const toSessionRows = (raw) => {
             .filter(Boolean)
             .map((ev) =>
               typeof ev === "string"
-                ? { nombre: ev, nota: "" }
-                : { nombre: ev.nombre || "", nota: ev.nota || "" }
+                ? { nombre: ev, nota: [] }
+                : { nombre: ev.nombre || "", nota: Array.isArray(ev.nota) ? ev.nota : (ev.nota ? [ev.nota] : []) }
             )
             .filter((ev) => ev.nombre)
         : String(item.evidencias ?? "")
             .split("\n")
             .map((l) => l.trim())
             .filter(Boolean)
-            .map((l) => ({ nombre: l, nota: "" })),
+            .map((l) => ({ nombre: l, nota: [] })),
     }))
     .filter((r) => r.evidencias.length > 0);
 };
 
 const EvidenciasPendientesCard = ({ rows, selectedCouncil }) => {
   const totalEvidencias = rows.reduce((sum, row) => sum + row.evidencias.length, 0);
-  const totalConNotas   = rows.reduce((sum, row) => sum + row.evidencias.filter(ev => ev.nota).length, 0);
+  const totalConNotas   = rows.reduce((sum, row) => sum + row.evidencias.filter(ev => ev.nota && ev.nota.length > 0).length, 0);
   return (
   <div className="bg-white rounded-2xl shadow-sm border border-slate-100 p-8">
     <div className="flex items-center gap-3 mb-6">
@@ -429,7 +429,7 @@ const EvidenciasPendientesCard = ({ rows, selectedCouncil }) => {
                 {totalConNotas > 0 && (
                   <td className="px-4 py-3">
                     {(() => {
-                      const notasUnicas = [...new Set(row.evidencias.map(ev => ev.nota).filter(Boolean))];
+                      const notasUnicas = [...new Set(row.evidencias.flatMap(ev => ev.nota || []).filter(Boolean))];
                       return notasUnicas.length > 0 ? (
                         <ul className="space-y-1.5">
                           {notasUnicas.map((nota, i) => (
