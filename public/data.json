@@ -1,14 +1,14 @@
 {
-  "REPORT_DATE_LABEL": "5 de Junio",
-  "REPORT_DATE_FOOTER": "05/06/2026",
+  "REPORT_DATE_LABEL": "12 de Junio",
+  "REPORT_DATE_FOOTER": "12/06/2026",
   "INITIAL_DATA": [
     {
       "consejo": "INGENIEROS DE TELECOMUNICACIÓN",
-      "validados": 691,
+      "validados": 674,
       "objetivo": 500,
       "cupo": 1250,
-      "crecimiento": -1.0029,
-      "inactivos": 127,
+      "crecimiento": -2.4602,
+      "inactivos": 125,
       "cursos": 8,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -41,11 +41,11 @@
     },
     {
       "consejo": "INFORMÁTICA",
-      "validados": 429,
+      "validados": 435,
       "objetivo": 140,
       "cupo": 350,
-      "crecimiento": -1.6055,
-      "inactivos": 160,
+      "crecimiento": 1.3986,
+      "inactivos": 152,
       "cursos": 8,
       "mat_consejo": 0,
       "mat_lo": 1,
@@ -60,18 +60,18 @@
       "pres_prom": 11.5625,
       "pres_min": 17,
       "pres_neces": 17,
-      "bloqueos": "Trasladan que aún no tienen fechas decididas, que esperan al final de la semana enviar planificación.",
-      "pendientes_webinar": " ",
-      "pendientes_presencial": " ",
+      "bloqueos": " ",
+      "pendientes_webinar": "Primera edición de webinar el 15 de junio.",
+      "pendientes_presencial": "Primera edición de presencial el 17 de junio.",
       "consultas": " "
     },
     {
       "consejo": "TÉCNICOS DE TELECOMUNICACIÓN",
-      "validados": 514,
+      "validados": 519,
       "objetivo": 500,
       "cupo": 1250,
-      "crecimiento": 0.7843,
-      "inactivos": 126,
+      "crecimiento": 0.9728,
+      "inactivos": 125,
       "cursos": 10,
       "mat_consejo": 0,
       "mat_lo": 1,
@@ -87,124 +87,17 @@
       "pres_min": 28,
       "pres_neces": 9,
       "bloqueos": " ",
-      "pendientes_webinar": "Ya están subidas en la plataforma todas las sesiones",
-      "pendientes_presencial": "Ya están subidas en la plataforma todas las sesiones",
-      "consultas": "Ha habido un total de 4 consultas e incidencias desde el día 29 de mayo.   Se ha escalado 3 casos. \r\nIncidencias relacionadas con el acceso y avance en la plataforma: se reporta la formación transversal bloqueada que impide continuar con el itinerario, problemas vinculados a una sesión concreta (12 de marzo) que requiere revisión/validación, y dificultades técnicas para acceder al curso de Competencias Digitales (configuración/requisitos del sistema o errores de entrada).",
+      "pendientes_webinar": " ",
+      "pendientes_presencial": " ",
+      "consultas": " ",
       "evidencias_faltantes": [
-        {
-          "sesion": "EP-COITT-01-A5-ES-001_EP-COITT-01-A5-ES-001-02_09/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": [
-                "Hoja de firmas:No cargada"
-              ]
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas:No cargada"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-COITT-01-A5-ES-004_EP-COITT-01-A5-ES-004-01_25/05/2026_18:30",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de Firmas: Mal formato",
-                "Pantallazo: No aparece el formador"
-              ]
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": [
-                "Hoja de Firmas: Mal formato",
-                "Pantallazo: No aparece el formador"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-COITT-01-A5-ES-004_EP-COITT-01-A5-ES-004-02_26/05/2026_18:30",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas: No subida"
-              ]
-            }
-          ]
-        },
         {
           "sesion": "EP-COITT-01-A5-ES-004_EP-COITT-01-A5-ES-004-03_29/05/2026_18:00",
           "evidencias": [
             {
               "nombre": "Foto sala",
               "nota": [
-                "Foto Sala:No subida",
-                "Pantallazo:No subido",
-                "Hoja de Teams: No subida"
-              ]
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": [
-                "Foto Sala:No subida",
-                "Pantallazo:No subido",
-                "Hoja de Teams: No subida"
-              ]
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": [
-                "Foto Sala:No subida",
-                "Pantallazo:No subido",
-                "Hoja de Teams: No subida"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EW-COITT-02-A5-ES-01_EW-COITT-02-A5-ES-01-002\r\n_17/04/2026_17:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja Teams",
-              "nota": [
-                "Hoja de Teams: No subida"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EW-COITT-02-A5-ES-02_EW-COITT-02-A5-ES-02-003_05/05/2026_18:00",
-          "evidencias": [
-            {
-              "nombre": "Pantallazo Aula Virtual",
-              "nota": [
-                "Pantallazo: no subido",
-                "Hoja de Teams: no subido"
-              ]
-            },
-            {
-              "nombre": "Hoja Teams",
-              "nota": [
-                "Pantallazo: no subido",
-                "Hoja de Teams: no subido"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EW-COITT-02-A5-ES-03_EW-COITT-02-A5-ES-03-003_06/05/2026_18:00",
-          "evidencias": [
-            {
-              "nombre": "Pantallazo Aula Virtual",
-              "nota": [
-                "Pantallazo: no subido",
-                "Hoja de Teams: no subido"
+                "Foto Sala:No subida"
               ]
             }
           ]
@@ -213,10 +106,10 @@
     },
     {
       "consejo": "MINAS",
-      "validados": 256,
+      "validados": 240,
       "objetivo": 160,
       "cupo": 400,
-      "crecimiento": -3.0303,
+      "crecimiento": -6.25,
       "inactivos": 0,
       "cursos": 10,
       "mat_consejo": 0,
@@ -239,11 +132,11 @@
     },
     {
       "consejo": "GEOMÁTICA Y TOPOGRÁFICA",
-      "validados": 235,
+      "validados": 236,
       "objetivo": 300,
       "cupo": 750,
-      "crecimiento": 0,
-      "inactivos": 36,
+      "crecimiento": 0.4255,
+      "inactivos": 37,
       "cursos": 8,
       "mat_consejo": 6,
       "mat_lo": 0,
@@ -258,9 +151,9 @@
       "pres_prom": 11.5625,
       "pres_min": 8,
       "pres_neces": 8,
-      "bloqueos": "Aún no se realizó el envío de los materiales a Netex",
-      "pendientes_webinar": "Se han solicitado los usuarios de webinars, se espera que esta semana confirmen las fechas.",
-      "pendientes_presencial": " ",
+      "bloqueos": "El 8 de junio se tuvo la formación a los formadores. El 9 de junio iniciaron los webinars y se ha enviado toda la información de webinars a Netex.",
+      "pendientes_webinar": "Se han configurado todas las sesiones webinar",
+      "pendientes_presencial": "Se han configurado todas las sesiones presenciales",
       "consultas": " "
     },
     {
@@ -268,8 +161,8 @@
       "validados": 2103,
       "objetivo": 1200,
       "cupo": 3000,
-      "crecimiento": 0.1429,
-      "inactivos": 391,
+      "crecimiento": 0,
+      "inactivos": 385,
       "cursos": 9,
       "mat_consejo": 0,
       "mat_lo": 1,
@@ -285,9 +178,9 @@
       "pres_min": 22,
       "pres_neces": 0,
       "bloqueos": " ",
-      "pendientes_webinar": "Por el momento no agendarán más sesiones webinar",
-      "pendientes_presencial": "Por el momento no agendarán más sesiones presenciales",
-      "consultas": "Ha habido un total de 31 consultas e incidencias desde el día 29 de mayo.  7  casos están escalados\r\nIncidencias relacionadas con la finalización y acceso a la formación, que incluyen problemas para obtener o descargar certificados y diplomas, dificultades para acceder al cuestionario final, limitaciones en el acceso a contenidos o aula virtual para completar horas, consultas sobre la extensión de contenidos, y errores de acceso a módulos del curso, impidiendo completar correctamente el proceso formativo y su acreditación.",
+      "pendientes_webinar": "Han completado las sesiones webinar y se han subido todas las evidencias.",
+      "pendientes_presencial": "Han tenido auditoria donde se ha pedido clarificación sobre el proceso de validación de asistencia por parte del consejo.",
+      "consultas": " ",
       "evidencias_faltantes": [
         {
           "sesion": "EP-COLEF-01-A5-ES-01-009_EP-COLEF-01-A5-ES-01-009-01_09/05/2026_09:00",
@@ -337,80 +230,6 @@
           ]
         },
         {
-          "sesion": "EP-COLEF-01-A5-ES-01-011_EP-COLEF-01-A5-ES-01-011-01_16/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-COLEF-01-A5-ES-01-011_EP-COLEF-01-A5-ES-01-011-02_16/05/2026_15:00",
-          "evidencias": [
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-COLEF-01-A5-ES-01-013_EP-COLEF-01-A5-ES-01-013-03_16/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas: falta indicar hora en la hoja"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-COLEF-01-A5-ES-01-013_EP-COLEF-01-A5-ES-01-013-04_16/05/2026_15:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas: falta indicar hora en la hoja"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-COLEF-01-A5-ES-01-010_EP-COLEF-01-A5-ES-01-010-01_23/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Pantallazo",
-              "nota": [
-                "Pantallazo y Hoja de Teams: archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": [
-                "Pantallazo y Hoja de Teams: archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-COLEF-01-A5-ES-01-010_EP-COLEF-01-A5-ES-01-010-02_23/05/2026_15:00",
-          "evidencias": [
-            {
-              "nombre": "Pantallazo",
-              "nota": [
-                "Pantallazo y Hoja de Teams: archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": [
-                "Pantallazo y Hoja de Teams: archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
           "sesion": "EP-COLEF-01-A5-ES-01-015_EP-COLEF-01-A5-ES-01-015-01_23/05/2026_09:00",
           "evidencias": [
             {
@@ -452,28 +271,6 @@
               "nombre": "Hoja de firmas",
               "nota": [
                 "Foto de sala y Hoja de firmas: archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-COLEF-01-A5-ES-01-010_EP-COLEF-01-A5-ES-01-010-03_30/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-COLEF-01-A5-ES-01-010_EP-COLEF-01-A5-ES-01-010-04_30/05/2026_15:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: archivo no cargado"
               ]
             }
           ]
@@ -530,13 +327,19 @@
             {
               "nombre": "Ficha Centro",
               "nota": [
-                "Foto de sala: archivo no cargado"
+                "Foto de sala y Hoja de asistencia: archivo no cargado"
               ]
             },
             {
               "nombre": "Foto sala",
               "nota": [
-                "Foto de sala: archivo no cargado"
+                "Foto de sala y Hoja de asistencia: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": [
+                "Foto de sala y Hoja de asistencia: archivo no cargado"
               ]
             }
           ]
@@ -545,12 +348,6 @@
           "sesion": "EP-COLEF-01-A5-ES-01-015_EP-COLEF-01-A5-ES-01-015-04_30/05/2026_15:00",
           "evidencias": [
             {
-              "nombre": "CVs",
-              "nota": [
-                "Foto de sala: archivo no cargado"
-              ]
-            },
-            {
               "nombre": "Ficha Centro",
               "nota": [
                 "Foto de sala: archivo no cargado"
@@ -565,14 +362,19 @@
           ]
         },
         {
-          "sesion": "EP-COLEF-01-A5-ES-01-016_EP-COLEF-01-A5-ES-01-016-01_30/05/2026_09:00",
+          "sesion": "EP-COLEF-01-A5-ES-01-011_EP-COLEF-01-A5-ES-01-011-03_06/06/2026_09:00",
           "evidencias": [
             {
-              "nombre": "Ficha Centro",
+              "nombre": "Foto sala",
               "nota": [
                 "Foto de sala: archivo no cargado"
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sesion": "EP-COLEF-01-A5-ES-01-011_EP-COLEF-01-A5-ES-01-011-04_06/06/2026_15:00",
+          "evidencias": [
             {
               "nombre": "Foto sala",
               "nota": [
@@ -582,7 +384,64 @@
           ]
         },
         {
-          "sesion": "EP-COLEF-01-A5-ES-01-016_EP-COLEF-01-A5-ES-01-016-02_30/05/2026_15:00",
+          "sesion": "EP-COLEF-01-A5-ES-01-016_EP-COLEF-01-A5-ES-01-016-03_06/06/2026_09:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-COLEF-01-A5-ES-01-016_EP-COLEF-01-A5-ES-01-016-04_06/06/2026_15:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-COLEF-01-A5-ES-01-018_EP-COLEF-01-A5-ES-01-018-01_06/06/2026_10:00",
+          "evidencias": [
+            {
+              "nombre": "CVs",
+              "nota": [
+                "Foto de sala, Pantallazo y Hoja de Teams: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Ficha Centro",
+              "nota": [
+                "Foto de sala, Pantallazo y Hoja de Teams: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala, Pantallazo y Hoja de Teams: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": [
+                "Foto de sala, Pantallazo y Hoja de Teams: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": [
+                "Foto de sala, Pantallazo y Hoja de Teams: archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-COLEF-01-A5-ES-01-018_EP-COLEF-01-A5-ES-01-018-02_06/06/2026_16:00",
           "evidencias": [
             {
               "nombre": "Ficha Centro",
@@ -601,22 +460,51 @@
               "nota": [
                 "Foto de sala y Hoja de firmas: archivo no cargado"
               ]
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": [
+                "Foto de sala y Hoja de firmas: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": [
+                "Foto de sala y Hoja de firmas: archivo no cargado"
+              ]
             }
           ]
         },
         {
-          "sesion": "EW-COLEF-02-A5-ES-01_EW-COLEF-02-A5-ES-01-006_29/05/2026_16:00",
+          "sesion": "EP-COLEF-01-A5-ES-01-018_EP-COLEF-01-A5-ES-01-018-03_07/06/2026_10:00",
           "evidencias": [
             {
-              "nombre": "Pantallazo Aula Virtual",
+              "nombre": "Ficha Centro",
               "nota": [
-                "Pantallazo y Hoja de Teams: archivo subido pero hora mal indicada"
+                "Foto de sala, Pantallazo y Hoja de Teams: archivo no cargado"
               ]
             },
             {
-              "nombre": "Hoja Teams",
+              "nombre": "Foto sala",
               "nota": [
-                "Pantallazo y Hoja de Teams: archivo subido pero hora mal indicada"
+                "Foto de sala, Pantallazo y Hoja de Teams: archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-COLEF-01-A5-ES-01-018_EP-COLEF-01-A5-ES-01-018-04_07/06/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "Ficha Centro",
+              "nota": [
+                "Foto de sala, Pantallazo y Hoja de Teams: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala, Pantallazo y Hoja de Teams: archivo no cargado"
               ]
             }
           ]
@@ -636,11 +524,11 @@
     },
     {
       "consejo": "TERAPEUTAS OCUPACIONALES",
-      "validados": 1417,
+      "validados": 1424,
       "objetivo": 1300,
       "cupo": 3250,
-      "crecimiento": 0.2122,
-      "inactivos": 106,
+      "crecimiento": 0.494,
+      "inactivos": 100,
       "cursos": 11,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -658,63 +546,8 @@
       "bloqueos": " ",
       "pendientes_webinar": " ",
       "pendientes_presencial": " ",
-      "consultas": "Ha habido un total de 11 consultas de incidencias desde el día 29 de mayo. 6 casos han sido escalados.\r\nIncidencias relacionadas con la gestión y acceso a la formación, que incluyen problemas para la descarga del diploma, solicitudes de validación de asistencia en sesiones presenciales, horas que no se contabilizan correctamente, imposibilidad de acceder a un curso de la formación específica, y fallos en contenidos como los casos prácticos, lo que impide completar el progreso y obtener la acreditación final.",
+      "consultas": " ",
       "evidencias_faltantes": [
-        {
-          "sesion": "EP-CGTO-01-A5-ES-008_EP-CGTO-01-A5-ES-008-01_14/02/2026_08:30",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTO-01-A5-ES-008_EP-CGTO-01-A5-ES-008-02_14/02/2026_15:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTO-01-A5-ES-009_EP-CGTO-01-A5-ES-009-03_15/02/2026_08:30",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTO-01-A5-ES-009_EP-CGTO-01-A5-ES-009-04_15/02/2026_15:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTO-01-A5-ES-025_EP-CGTO-01-A5-ES-025-02_15/03/2026_15:30",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas: archivo no cargado"
-              ]
-            }
-          ]
-        },
         {
           "sesion": "EP-CGTO-01-A5-ES-032__21/03/2026_16:00",
           "evidencias": [
@@ -738,40 +571,7 @@
           ]
         },
         {
-          "sesion": "EP-CGTO-01-A5-ES-034_EP-CGTO-01-A5-ES-034-001_10/04/2026_15:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de Asistencia: archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTO-01-A5-ES-034_EP-CGTO-01-A5-ES-034-002_11/04/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de Asistencia: archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
           "sesion": "EP-CGTO-01-A5-ES-036_EP-CGTO-01-A5-ES-036-004_09/05/2026_15:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTO-01-A5-ES-023_EP-CGTO-01-A5-ES-023-03_23/05/2026_09:00",
           "evidencias": [
             {
               "nombre": "Foto sala",
@@ -793,56 +593,12 @@
           ]
         },
         {
-          "sesion": "EP-CGTO-01-A5-ES-023_EP-CGTO-01-A5-ES-023-04_24/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
           "sesion": "EP-CGTO-01-A5-ES-024_EP-CGTO-01-A5-ES-024-04_24/05/2026_15:30",
           "evidencias": [
             {
               "nombre": "Foto sala",
               "nota": [
                 "Foto de sala: archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTO-01-A5-ES-039__09/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas: archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTO-01-A5-ES-039__09/05/2026_15:30",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas: archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTO-01-A5-ES-039__23/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas: archivo no cargado"
               ]
             }
           ]
@@ -961,6 +717,17 @@
               "nombre": "Pantallazo Aula Virtual",
               "nota": [
                 "Pantallazo: archivo no subido"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EW-CGTO-02-A2-ES-009_EW-CGTO-02-A2-ES-009_01/02/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": [
+                "Pantallazo: archivo no cargado"
               ]
             }
           ]
@@ -1282,11 +1049,11 @@
     },
     {
       "consejo": "TRABAJO SOCIAL",
-      "validados": 4821,
+      "validados": 4831,
       "objetivo": 2515,
       "cupo": 6287.5,
-      "crecimiento": 0.5213,
-      "inactivos": 951,
+      "crecimiento": 0.2074,
+      "inactivos": 930,
       "cursos": 8,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -1304,7 +1071,7 @@
       "bloqueos": " ",
       "pendientes_webinar": " ",
       "pendientes_presencial": " ",
-      "consultas": "Ha habido un total de 11 consultas e incidencias desde el día 29 de mayo.   Se ha escalado 3 casos. \r\nIncidencias relacionadas con el acceso y validación de la formación, que incluyen errores al firmar la declaración responsable que impiden entrar al curso, problemas para que se reconozca la asistencia a la parte presencial realizada en modalidad online sin registro mediante QR, y sesiones presenciales no contabilizadas pese a haber asistido y haberlo comunicado previamente, solicitando revisión y actualización del progreso",
+      "consultas": " ",
       "evidencias_faltantes": [
         {
           "sesion": "EP-CGTS-01-A1-ES-003_EP-CGTS-01-A1-ES-003-02_14/02/2026_09:00",
@@ -1389,10 +1156,6 @@
           "sesion": "EP-CGTS-01-A1-ES-021_EP-CGTS-01-A1-ES-021-04_19/04/2026_09:00",
           "evidencias": [
             {
-              "nombre": "Foto sala",
-              "nota": []
-            },
-            {
               "nombre": "Hoja de firmas",
               "nota": []
             }
@@ -1448,7 +1211,8 @@
             {
               "nombre": "Hoja de firmas",
               "nota": [
-                "Hoja de firmas: Archivo no cargado"
+                "Hoja de firmas: Archivo no cargado",
+                "Pantallazo: no aparecen los logos"
               ]
             }
           ]
@@ -1460,14 +1224,16 @@
               "nombre": "Foto sala",
               "nota": [
                 "Hoja de firmas: Archivo no cargado",
-                "Foto de sala: Archivo no cargado"
+                "Foto de sala: Archivo no cargado",
+                "Pantallazo: no aparecen los logos"
               ]
             },
             {
               "nombre": "Hoja de firmas",
               "nota": [
                 "Hoja de firmas: Archivo no cargado",
-                "Foto de sala: Archivo no cargado"
+                "Foto de sala: Archivo no cargado",
+                "Pantallazo: no aparecen los logos"
               ]
             }
           ]
@@ -1479,14 +1245,16 @@
               "nombre": "Foto sala",
               "nota": [
                 "Hoja de firmas: Archivo no cargado",
-                "Foto de sala: Archivo no cargado"
+                "Foto de sala: mal nombrado: Formato fecha_horainicio_siglasformador_lugarimpartición",
+                "Pantallazo: no aparecen los logos"
               ]
             },
             {
               "nombre": "Hoja de firmas",
               "nota": [
                 "Hoja de firmas: Archivo no cargado",
-                "Foto de sala: Archivo no cargado"
+                "Foto de sala: mal nombrado: Formato fecha_horainicio_siglasformador_lugarimpartición",
+                "Pantallazo: no aparecen los logos"
               ]
             }
           ]
@@ -1495,9 +1263,10 @@
           "sesion": "EP-CGTS-01-A1-ES-023_EP-CGTS-01-A1-ES-023-04_18/04/2026_15:00",
           "evidencias": [
             {
-              "nombre": "Hoja de firmas",
+              "nombre": "Foto sala",
               "nota": [
-                "Hoja de firmas: Archivo no cargado"
+                "Foto de sala: Archivo no cargado",
+                "Pantallazo: no aparecen los logos"
               ]
             }
           ]
@@ -1591,6 +1360,14 @@
             {
               "nombre": "Hoja de firmas",
               "nota": []
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": []
             }
           ]
         },
@@ -1603,6 +1380,14 @@
             },
             {
               "nombre": "Hoja de firmas",
+              "nota": []
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de Teams",
               "nota": []
             }
           ]
@@ -1617,6 +1402,14 @@
             {
               "nombre": "Hoja de firmas",
               "nota": []
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": []
             }
           ]
         },
@@ -1630,41 +1423,13 @@
             {
               "nombre": "Hoja de firmas",
               "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-026_EP-CGTS-01-A1-ES-026-01_27/05/2026_09:00",
-          "evidencias": [
+            },
             {
-              "nombre": "Ficha Centro",
+              "nombre": "Pantallazo",
               "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-026_EP-CGTS-01-A1-ES-026-02_27/05/2026_15:00",
-          "evidencias": [
+            },
             {
-              "nombre": "Ficha Centro",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-026_EP-CGTS-01-A1-ES-026-03_28/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-026_EP-CGTS-01-A1-ES-026-04_29/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Ficha Centro",
+              "nombre": "Hoja de Teams",
               "nota": []
             }
           ]
@@ -1681,6 +1446,20 @@
             },
             {
               "nombre": "Hoja de firmas",
+              "nota": [
+                "Foto de sala: Archivo no cargado",
+                "hoja de firmas: Archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": [
+                "Foto de sala: Archivo no cargado",
+                "hoja de firmas: Archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Hoja de Teams",
               "nota": [
                 "Foto de sala: Archivo no cargado",
                 "hoja de firmas: Archivo no cargado"
@@ -1704,6 +1483,20 @@
                 "Foto de sala: Archivo no cargado",
                 "hoja de firmas: Archivo no cargado"
               ]
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": [
+                "Foto de sala: Archivo no cargado",
+                "hoja de firmas: Archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": [
+                "Foto de sala: Archivo no cargado",
+                "hoja de firmas: Archivo no cargado"
+              ]
             }
           ]
         },
@@ -1711,14 +1504,21 @@
           "sesion": "EP-CGTS-01-A1-ES-032_EP-CGTS-01-A1-ES-032-03_16/05/2026_09:00",
           "evidencias": [
             {
-              "nombre": "Foto sala",
+              "nombre": "Hoja de firmas",
               "nota": [
                 "Foto de sala: Archivo no cargado",
                 "hoja de firmas: Archivo no cargado"
               ]
             },
             {
-              "nombre": "Hoja de firmas",
+              "nombre": "Pantallazo",
+              "nota": [
+                "Foto de sala: Archivo no cargado",
+                "hoja de firmas: Archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Hoja de Teams",
               "nota": [
                 "Foto de sala: Archivo no cargado",
                 "hoja de firmas: Archivo no cargado"
@@ -1738,6 +1538,20 @@
             },
             {
               "nombre": "Hoja de firmas",
+              "nota": [
+                "Foto de sala: Archivo no cargado",
+                "hoja de firmas: Archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": [
+                "Foto de sala: Archivo no cargado",
+                "hoja de firmas: Archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Hoja de Teams",
               "nota": [
                 "Foto de sala: Archivo no cargado",
                 "hoja de firmas: Archivo no cargado"
@@ -1827,7 +1641,29 @@
             {
               "nombre": "Hoja de firmas",
               "nota": [
-                "Hoja de firmas: Archivo no cargado"
+                "Hoja de firmas: falta la firma del formador, hora de inicio y final, formador principal y lugar de la formación"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGTS-01-A1-ES-001_EP-CGTS-01-A1-ES-001-02_23/01/2026_15:30",
+          "evidencias": [
+            {
+              "nombre": "Hoja de firmas",
+              "nota": [
+                "Hoja de firmas: falta la firma del formador, hora de inicio y final, formador principal y lugar de la formación"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGTS-01-A1-ES-001_EP-CGTS-01-A1-ES-001-03_24/01/2026_09:00",
+          "evidencias": [
+            {
+              "nombre": "Hoja de firmas",
+              "nota": [
+                "Hoja de firmas: falta la firma del formador, hora de inicio y final, formador principal y lugar de la formación"
               ]
             }
           ]
@@ -1838,40 +1674,7 @@
             {
               "nombre": "Hoja de firmas",
               "nota": [
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-003_EP-CGTS-01-A1-ES-003-01_13/02/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-006_EP-CGTS-01-A1-ES-006-01_20/02/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-006_EP-CGTS-01-A1-ES-006-02_21/02/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas: Archivo no cargado"
+                "Hoja de firmas: falta la firma del formador, hora de inicio y final y formador principal"
               ]
             }
           ]
@@ -1880,158 +1683,26 @@
           "sesion": "EP-CGTS-01-A1-ES-009_EP-CGTS-01-A1-ES-009-01_23/01/2026_16:00",
           "evidencias": [
             {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            },
-            {
               "nombre": "Hoja de firmas",
               "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
+                "Hoja de firmas: falta la firma del formador"
               ]
             }
           ]
         },
         {
-          "sesion": "EP-CGTS-01-A1-ES-009_EP-CGTS-01-A1-ES-009-02_24/01/2026_09:00",
+          "sesion": "EP-CGTS-01-A1-ES-009_EP-CGTS-01-A1-ES-009-04_25/01/2026_09:00",
           "evidencias": [
             {
               "nombre": "Hoja de firmas",
               "nota": [
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-009_EP-CGTS-01-A1-ES-009-03_24/01/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-012_EP-CGTS-01-A1-ES-012-01_21/02/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-012_EP-CGTS-01-A1-ES-012-02_21/02/2026_15:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-012_EP-CGTS-01-A1-ES-012-03_22/02/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Foto de sala: Archivo no cargado"
+                "Hoja de firmas: falta la firma del formador"
               ]
             }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-012_EP-CGTS-01-A1-ES-012-04_22/02/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Foto de sala: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-014_EP-CGTS-01-A1-ES-014-01_13/03/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-014_EP-CGTS-01-A1-ES-014-02_14/03/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-014_EP-CGTS-01-A1-ES-014-03_14/03/2026_15:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-014_EP-CGTS-01-A1-ES-014-04_15/03/2026_09:00",
           "evidencias": [
             {
               "nombre": "Foto sala",
@@ -2045,17 +1716,9 @@
           "sesion": "EP-CGTS-01-A1-ES-015_EP-CGTS-01-A1-ES-015-01_13/03/2026_09:00",
           "evidencias": [
             {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            },
-            {
               "nombre": "Hoja de firmas",
               "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
+                "Hoja de firmas: falta la firma del formador"
               ]
             }
           ]
@@ -2064,17 +1727,9 @@
           "sesion": "EP-CGTS-01-A1-ES-015_EP-CGTS-01-A1-ES-015-03_14/03/2026_09:00",
           "evidencias": [
             {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            },
-            {
               "nombre": "Hoja de firmas",
               "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
+                "Hoja de firmas: falta la firma del formador"
               ]
             }
           ]
@@ -2083,17 +1738,9 @@
           "sesion": "EP-CGTS-01-A1-ES-015_EP-CGTS-01-A1-ES-015-04_14/03/2026_15:00",
           "evidencias": [
             {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            },
-            {
               "nombre": "Hoja de firmas",
               "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
+                "Hoja de firmas: falta la firma del formador"
               ]
             }
           ]
@@ -2104,7 +1751,7 @@
             {
               "nombre": "Hoja de firmas",
               "nota": [
-                "Hoja de firmas: Archivo no cargado"
+                "Hoja de firmas: falta la firma del formador"
               ]
             }
           ]
@@ -2115,59 +1762,7 @@
             {
               "nombre": "Hoja de firmas",
               "nota": [
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-018_EP-CGTS-01-A1-ES-018-01_14/03/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-018_EP-CGTS-01-A1-ES-018-02_14/03/2026_15:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-018_EP-CGTS-01-A1-ES-018-03_15/03/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-018_EP-CGTS-01-A1-ES-018-04_15/03/2026_15:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
+                "Hoja de firmas: falta la firma del formador"
               ]
             }
           ]
@@ -2177,15 +1772,7 @@
           "evidencias": [
             {
               "nombre": "Ficha Centro",
-              "nota": [
-                "Hoja de teams: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de teams: Archivo no cargado"
-              ]
+              "nota": []
             }
           ]
         },
@@ -2194,15 +1781,7 @@
           "evidencias": [
             {
               "nombre": "Ficha Centro",
-              "nota": [
-                "Hoja de teams: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de teams: Archivo no cargado"
-              ]
+              "nota": []
             }
           ]
         },
@@ -2212,22 +1791,7 @@
             {
               "nombre": "Ficha Centro",
               "nota": [
-                "Foto de sala/Pantallazo: Archivo no cargado",
-                "Hoja de firmas/Hoja de teams: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala/Pantallazo: Archivo no cargado",
-                "Hoja de firmas/Hoja de teams: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Foto de sala/Pantallazo: Archivo no cargado",
-                "Hoja de firmas/Hoja de teams: Archivo no cargado"
+                "Foto de sala/Pantallazo: Archivo no cargado"
               ]
             }
           ]
@@ -2237,72 +1801,7 @@
           "evidencias": [
             {
               "nombre": "Ficha Centro",
-              "nota": [
-                "Hoja de teams: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de teams: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-030_EP-CGTS-01-A1-ES-030-01_27/03/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-030_EP-CGTS-01-A1-ES-030-02_27/03/2026_15:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-030_EP-CGTS-01-A1-ES-030-03_28/03/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
-              ]
+              "nota": []
             }
           ]
         },
@@ -2326,53 +1825,94 @@
           ]
         },
         {
-          "sesion": "EP-CGTS-01-A1-ES-030_EP-CGTS-01-A1-ES-030-05_28/03/2026_16:00",
+          "sesion": "EP-CGTS-01-A1-ES-024_EP-CGTS-01-A1-ES-024-04_19/04/2026_09:00",
           "evidencias": [
             {
               "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
-              ]
+              "nota": []
             },
             {
               "nombre": "Hoja de firmas",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGTS-01-A1-ES-033_EP-CGTS-01-A1-ES-033-02_09/05/2026_09:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGTS-01-A1-ES-033_EP-CGTS-01-A1-ES-033-04_10/05/2026_09:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGTS-01-A1-ES-036_EP-CGTS-01-A1-ES-036-01_08/05/2026_09:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGTS-01-A1-ES-036_EP-CGTS-01-A1-ES-036-02_08/05/2026_15:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGTS-01-A1-ES-007_EP-CGTS-01-A1-ES-007-02_07/02/2026_15:30",
+          "evidencias": [
+            {
+              "nombre": "Hoja de firmas",
               "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: Archivo no cargado"
+                "Hoja de firmas: falta la firma del formador"
               ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-006_EP-CGTS-01-A1-ES-006-03_21/02/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-006_EP-CGTS-01-A1-ES-006-04_22/02/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-007_EP-CGTS-01-A1-ES-007-01_07/02/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": []
             }
           ]
         },
         {
           "sesion": "EP-CGTS-01-A1-ES-015_EP-CGTS-01-A1-ES-015-02_13/03/2026_15:00",
+          "evidencias": [
+            {
+              "nombre": "Hoja de firmas",
+              "nota": [
+                "Hoja de firmas: falta la firma del formador"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGTS-01-A1-ES-024_EP-CGTS-01-A1-ES-024-03_19/04/2026_09:00",
           "evidencias": [
             {
               "nombre": "Foto sala",
@@ -2388,10 +1928,10 @@
     },
     {
       "consejo": "TÉCNICOS AERONÁUTICOS",
-      "validados": 100,
+      "validados": 96,
       "objetivo": 200,
       "cupo": 500,
-      "crecimiento": 0,
+      "crecimiento": -4,
       "inactivos": 13,
       "cursos": 8,
       "mat_consejo": 1,
@@ -2409,16 +1949,16 @@
       "pres_neces": 0,
       "bloqueos": " ",
       "pendientes_webinar": "El 26 de mayo se crearán la webinars.",
-      "pendientes_presencial": "Se tienen las sesiones presenciales ya creadas en plataforma. Está subido la documentación. El 27 de mayo tienen la formación a formadores",
+      "pendientes_presencial": "El 6 de junio iniciaron las sesiones presencial.",
       "consultas": " "
     },
     {
       "consejo": "TÉCNICOS INDUSTRIALES",
-      "validados": 3222,
+      "validados": 3216,
       "objetivo": 5352,
       "cupo": 13380,
-      "crecimiento": -0.1549,
-      "inactivos": 406,
+      "crecimiento": -0.1862,
+      "inactivos": 397,
       "cursos": 8,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -2433,10 +1973,10 @@
       "pres_prom": 120,
       "pres_min": 19,
       "pres_neces": 0,
-      "bloqueos": "Pendiente de recibir la programación de las sesiones de junio.\r\nSe reitera el pedido de no solicitar cambios con menos de 24 horas de antelación.",
+      "bloqueos": " ",
       "pendientes_webinar": " ",
       "pendientes_presencial": " ",
-      "consultas": "Ha habido un total de 23  consultas e incidencias desde el día 29 de mayo.  Un caso escalado \r\nIncidencias relacionadas con el cómputo y seguimiento de la teleformación, que incluyen horas de cursos que no se contabilizan correctamente, porcentaje de progreso incorrecto en la formación específica, problemas en la actualización de horas completadas en UPRO, y solicitudes de revisión del progreso formativo.",
+      "consultas": " ",
       "evidencias_faltantes": [
         {
           "sesion": "EW-COGITI-02-A5-ES-02_EW-COGITI-02-A5-ES-02-010_26/05/2026_16:00",
@@ -2473,6 +2013,17 @@
               "nota": []
             }
           ]
+        },
+        {
+          "sesion": "EW-COGITI-02-A5-ES-04_EW-COGITI-02-A5-ES-04-010_28/05/2026_18:00",
+          "evidencias": [
+            {
+              "nombre": "Hoja Teams",
+              "nota": [
+                "Hoja de teams: Archivo no cargado"
+              ]
+            }
+          ]
         }
       ]
     },
@@ -2482,7 +2033,7 @@
       "objetivo": 3057,
       "cupo": 7642.5,
       "crecimiento": 0,
-      "inactivos": 1043,
+      "inactivos": 1033,
       "cursos": 10,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -2500,7 +2051,7 @@
       "bloqueos": " ",
       "pendientes_webinar": " ",
       "pendientes_presencial": " ",
-      "consultas": "Ha habido un total de 14 consultas e incidencias desde el día 29 de mayo. 7 casos han sido escalados. \r\nIncidencias relacionadas con el seguimiento y finalización de la formación, que incluyen problemas en la contabilización de horas y asistencias presenciales, cursos completados que siguen apareciendo como no finalizados, dificultades para acceder a contenidos o unidades concretas (como el curso de Mediciones y Presupuestos con BIM), limitaciones de acceso por perfil o permisos incorrectos, y fallos para realizar el cuestionario final, el diagnóstico final o descargar el diploma, lo que impide cerrar correctamente la formación y obtener la acreditación correspondiente.",
+      "consultas": " ",
       "evidencias_faltantes": [
         {
           "sesion": "EP-CGATE-01-A5-ES-29_EP-CGATE-01-A5-ES-29-001_18/03/2026_19:00",
@@ -2585,18 +2136,6 @@
           ]
         },
         {
-          "sesion": "EP-CGATE-01-A5-ES-10_EP-CGATE-01-A5-ES-10-012_14/04/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de firmas: No se ha subido la hoja de firmas correcta con los logos"
-              ]
-            }
-          ]
-        },
-        {
           "sesion": "EP-CGATE-01-A5-ES-08_EP-CGATE-01-A5-ES-08-012_05/05/2026_16:00",
           "evidencias": [
             {
@@ -2671,67 +2210,12 @@
           ]
         },
         {
-          "sesion": "EP-CGATE-01-A5-ES-06_EP-CGATE-01-A5-ES-06-002_23/03/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas: Falta la firma del formador"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGATE-01-A5-ES-01_EP-CGATE-01-A5-ES-01-006_08/04/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "Pantallazo",
-              "nota": [
-                "Pantallazo de Teams: Archivo no cargado",
-                "Hoja de Teams: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": [
-                "Pantallazo de Teams: Archivo no cargado",
-                "Hoja de Teams: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
           "sesion": "EP-CGATE-01-A5-ES-05_EP-CGATE-01-A5-ES-05-003_13/04/2026_16:00",
           "evidencias": [
             {
               "nombre": "Hoja de firmas",
               "nota": [
                 "Hoja de firmas: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": [
-                "Hoja de firmas: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGATE-01-A5-ES-01_EP-CGATE-01-A5-ES-01-007_13/04/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "Pantallazo",
-              "nota": [
-                "Pantallazo de Teams: Archivo no cargado",
-                "Hoja de Teams: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": [
-                "Pantallazo de Teams: Archivo no cargado",
-                "Hoja de Teams: Archivo no cargado"
               ]
             }
           ]
@@ -2760,8 +2244,8 @@
             {
               "nombre": "Foto sala",
               "nota": [
-                "Foto de sala: Archivo mal nombrado",
-                "Hoja de firmas: No se ha subido la hoja de firmas correcta con los logos"
+                "Foto de sala: mal nombrado. Formato fecha_horainicio_siglasformador_lugarimpartición",
+                "Hoja de firmas: No se ha subido la hoja de firmas oficial"
               ]
             }
           ]
@@ -2795,44 +2279,6 @@
               "nombre": "Hoja de firmas",
               "nota": [
                 "Hoja de firmas: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGATE-01-A5-ES-01_EP-CGATE-01-A5-ES-01-009_22/04/2026_10:00",
-          "evidencias": [
-            {
-              "nombre": "Pantallazo",
-              "nota": [
-                "Pantallazo de Teams: Archivo no cargado",
-                "Hoja de Teams: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": [
-                "Pantallazo de Teams: Archivo no cargado",
-                "Hoja de Teams: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGATE-01-A5-ES-01_EP-CGATE-01-A5-ES-01-011 _27/04/2026_15:00",
-          "evidencias": [
-            {
-              "nombre": "Pantallazo",
-              "nota": [
-                "Pantallazo de Teams: Archivo no cargado",
-                "Hoja de Teams: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": [
-                "Pantallazo de Teams: Archivo no cargado",
-                "Hoja de Teams: Archivo no cargado"
               ]
             }
           ]
@@ -2922,17 +2368,6 @@
           ]
         },
         {
-          "sesion": "EP-CGATE-01-A5-ES-09_EP-CGATE-01-A5-ES-09-005_17/04/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
           "sesion": "EP-CGATE-01-A5-ES-29_EP-CGATE-01-A5-ES-29-003_22/04/2026_19:00",
           "evidencias": [
             {
@@ -3013,6 +2448,17 @@
               "nota": [
                 "Foto de sala: Archivo no cargado",
                 "hoja de firmas: Archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGATE-01-A5-ES-41_EP-CGATE-01-A5-ES-41-001_15/04/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "Hoja de firmas",
+              "nota": [
+                "Hoja de firmas: Archivo no cargado"
               ]
             }
           ]
@@ -3460,7 +2906,7 @@
       "validados": 453,
       "objetivo": 250,
       "cupo": 625,
-      "crecimiento": 0.2212,
+      "crecimiento": 0,
       "inactivos": 53,
       "cursos": 8,
       "mat_consejo": 1,
@@ -3476,67 +2922,10 @@
       "pres_prom": 15.6125,
       "pres_min": 12,
       "pres_neces": 8,
-      "bloqueos": "Han recibido los primeros contenidos la digitalizadora, se espera tener todo antes del próximo lunes.\r\nHa enviado el contenido de la presencial, sin embargo, informa que deben haber cambios y que no es un contenido fijo.",
-      "pendientes_webinar": " ",
-      "pendientes_presencial": "Habrá restricción de acceso a la presencial a aquellos que lleven menos del 50% de especifico.",
-      "consultas": " ",
-      "evidencias_faltantes": [
-        {
-          "sesion": "EW-IAE-02-A1-ES-001_EW-IAE-02-A1-ES-001-02_24/03/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "CV",
-              "nota": [
-                "Pdte CV de Javier Olaechea"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EW-IAE-02-A1-ES-001_EW-IAE-02-A1-ES-001-03_25/03/2026_18:00",
-          "evidencias": [
-            {
-              "nombre": "CV",
-              "nota": [
-                "Pdte CV de Javier Olaechea"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EW-IAE-02-A1-ES-002_EW-IAE-02-A1-ES-002-01_27/04/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "CV",
-              "nota": [
-                "Pdte CV de Javier Olaechea"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EW-IAE-02-A1-ES-002_EW-IAE-02-A1-ES-002-02_28/04/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "CV",
-              "nota": [
-                "Pdte CV de Javier Olaechea"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EW-IAE-02-A1-ES-002_EW-IAE-02-A1-ES-002-03_29/04/2026_18:00",
-          "evidencias": [
-            {
-              "nombre": "CV",
-              "nota": [
-                "Pdte CV de Javier Olaechea"
-              ]
-            }
-          ]
-        }
-      ]
+      "bloqueos": " ",
+      "pendientes_webinar": "Han finalizado las sesiones webinar y han subido todas las evidencias.",
+      "pendientes_presencial": "Han finalizado las sesiones presenciales y han subido todas las evidencias.",
+      "consultas": " "
     },
     {
       "consejo": "SOCIÓLOGOS Y POLITÓLOGOS",
@@ -3544,7 +2933,7 @@
       "objetivo": 300,
       "cupo": 750,
       "crecimiento": 0,
-      "inactivos": 77,
+      "inactivos": 74,
       "cursos": 11,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -3560,8 +2949,8 @@
       "pres_min": 35,
       "pres_neces": 0,
       "bloqueos": " ",
-      "pendientes_webinar": "Se indica al consejo la necesidad de que los formadores validen las sesiones de webinars.",
-      "pendientes_presencial": "Inician las Bimodales el día 12 de junio.",
+      "pendientes_webinar": " ",
+      "pendientes_presencial": " ",
       "consultas": " ",
       "evidencias_faltantes": [
         {
@@ -3656,13 +3045,13 @@
             {
               "nombre": "CVs",
               "nota": [
-                "Hoja de asistencia: archivo cargado pero mal nombrado"
+                "Hoja de asistencia: archivo no cargado"
               ]
             },
             {
               "nombre": "Hoja de firmas",
               "nota": [
-                "Hoja de asistencia: archivo cargado pero mal nombrado"
+                "Hoja de asistencia: archivo no cargado"
               ]
             }
           ]
@@ -3681,7 +3070,15 @@
           "evidencias": [
             {
               "nombre": "CVs",
-              "nota": []
+              "nota": [
+                "Hoja de firmas: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": [
+                "Hoja de firmas: archivo no cargado"
+              ]
             }
           ]
         },
@@ -3690,7 +3087,65 @@
           "evidencias": [
             {
               "nombre": "CVs",
-              "nota": []
+              "nota": [
+                "Hoja de firmas: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": [
+                "Hoja de firmas: archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CSP-01-A5-ES-010_EP-CSP-01-A5-ES-010-01_22/05/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala y Hoja de firmas: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": [
+                "Foto de sala y Hoja de firmas: archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CSP-01-A5-ES-010_EP-CSP-01-A5-ES-010-02_23/05/2026_10:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CSP-01-A5-ES-010_EP-CSP-01-A5-ES-010-03_29/05/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CSP-01-A5-ES-010_EP-CSP-01-A5-ES-010-04_30/05/2026_10:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
             }
           ]
         },
@@ -3743,7 +3198,15 @@
           "evidencias": [
             {
               "nombre": "CVs",
-              "nota": []
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
             }
           ]
         },
@@ -3752,7 +3215,76 @@
           "evidencias": [
             {
               "nombre": "CVs",
-              "nota": []
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CSP-01-A5-ES-012_EP-CSP-01-A5-ES-012-03_10/06/2026_15:30",
+          "evidencias": [
+            {
+              "nombre": "CVs",
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CSP-01-A5-ES-013_ EP-CSP-01-A5-ES-013-01_05/06/2026_10:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala, Pantallazo y Hoja de Teams: archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CSP-01-A5-ES-013_ EP-CSP-01-A5-ES-013-02_05/06/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala, Pantallazo y Hoja de Teams: archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CSP-01-A5-ES-013_ EP-CSP-01-A5-ES-013-03_06/06/2026_10:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala, Pantallazo y Hoja de Teams: archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CSP-01-A5-ES-013_ EP-CSP-01-A5-ES-013-04_06/06/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala, Pantallazo y Hoja de Teams: archivo no cargado"
+              ]
             }
           ]
         },
@@ -3980,16 +3512,67 @@
               ]
             }
           ]
+        },
+        {
+          "sesion": "EW-CSP-02-A3-ES-008_EW-CSP-02-A3-ES-008_02/06/2026_10:00",
+          "evidencias": [
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": [
+                "Pantallazo y Hoja de Teams: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": [
+                "Pantallazo y Hoja de Teams: archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EW-CSP-02-A3-ES-008_EW-CSP-02-A3-ES-008_03/06/2026_10:00",
+          "evidencias": [
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": [
+                "Pantallazo y Hoja de Teams: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": [
+                "Pantallazo y Hoja de Teams: archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EW-CSP-02-A3-ES-008_EW-CSP-02-A3-ES-008_04/06/2026_10:00",
+          "evidencias": [
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": [
+                "Pantallazo y Hoja de Teams: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": [
+                "Pantallazo y Hoja de Teams: archivo no cargado"
+              ]
+            }
+          ]
         }
       ]
     },
     {
       "consejo": "MÉDICOS",
-      "validados": 15582,
+      "validados": 15588,
       "objetivo": 18664,
       "cupo": 46660,
-      "crecimiento": 0,
-      "inactivos": 4381,
+      "crecimiento": 0.0385,
+      "inactivos": 4324,
       "cursos": 10,
       "mat_consejo": 2,
       "mat_lo": 0,
@@ -4007,7 +3590,7 @@
       "bloqueos": " ",
       "pendientes_webinar": " ",
       "pendientes_presencial": " ",
-      "consultas": "Ha habido un total de 235 consultas e incidencias desde el día 29 de mayo. 29 casos escalados.\r\nIncidencias relacionadas con el acceso, seguimiento y acreditación de la formación, que incluyen problemas en el registro de asistencia (presencial y webinars), solicitudes de justificantes, errores en la conexión y acceso a sesiones (como W1), dificultades para acceder o completar la encuesta de satisfacción, cursos finalizados que no se cierran correctamente, problemas en la descarga de diplomas, incidencias en la inscripción a presenciales, dudas sobre el aula virtual (W4), y consultas sobre las horas realizadas y progreso, solicitando revisión para poder completar y acreditar la formación.",
+      "consultas": "Ha habido un total de 195 consultas e incidencias desde el día 5 de junio. 8 casos han sido escalados.\r\nDurante la semana, las incidencias más frecuentes estuvieron relacionadas con la validación y contabilización de la asistencia a cursos presenciales, webinars y aulas virtuales que no aparecían registradas o completadas correctamente. También se detectó un elevado número de consultas sobre la descarga del certificado y sobre la obtención de créditos al finalizar la formación. En menor medida, se recibieron solicitudes de inscripción o cancelación de formaciones, dudas relacionadas con la lectura de los códigos QR y discrepancias en el progreso reflejado en la plataforma.",
       "evidencias_faltantes": [
         {
           "sesion": "EP-CGCOM-01-A1-ES-03_EP-CGCOM-01-A1-ES-03-017_01/06/2026_16:00",
@@ -4022,53 +3605,12 @@
           "sesion": "EP-CGCOM-01-A1-ES-01_EP-CGCOM-01-A1-ES-01-003_16/05/2026_15:00",
           "evidencias": [
             {
-              "nombre": "CVs",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de Teams: Archivo no cargado",
-                "Pantallazo: Archivo no cargado"
-              ]
-            },
-            {
               "nombre": "Ficha Centro",
               "nota": [
                 "Foto de sala: Archivo no cargado",
                 "Hoja de Teams: Archivo no cargado",
                 "Pantallazo: Archivo no cargado"
               ]
-            },
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de Teams: Archivo no cargado",
-                "Pantallazo: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de Teams: Archivo no cargado",
-                "Pantallazo: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de Teams: Archivo no cargado",
-                "Pantallazo: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOM-01-A1-ES-04_EP-CGCOM-01-A1-ES-04-004_28/04/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
             }
           ]
         },
@@ -4123,15 +3665,6 @@
           ]
         },
         {
-          "sesion": "EP-CGCOM-01-A1-ES-02_EP-CGCOM-01-A1-ES-02-004_27/04/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
-            }
-          ]
-        },
-        {
           "sesion": "EP-CGCOM-01-A1-ES-04_EP-CGCOM-01-A1-ES-04-006_06/05/2026_16:00",
           "evidencias": [
             {
@@ -4144,11 +3677,15 @@
           "sesion": "EP-CGCOM-01-A1-ES-01_EP-CGCOM-01-A1-ES-01-004_04/05/2026_16:00",
           "evidencias": [
             {
-              "nombre": "CVs",
+              "nombre": "Ficha Centro",
               "nota": []
             },
             {
-              "nombre": "Ficha Centro",
+              "nombre": "Pantallazo",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de Teams",
               "nota": []
             }
           ]
@@ -4156,10 +3693,6 @@
         {
           "sesion": "EP-CGCOM-01-A1-ES-01_EP-CGCOM-01-A1-ES-01-006_04/05/2026_16:00",
           "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": []
-            },
             {
               "nombre": "Ficha Centro",
               "nota": []
@@ -4207,14 +3740,6 @@
           "sesion": "EP-CGCOM-01-A1-ES-01_EP-CGCOM-01-A1-ES-01-007_16/05/2026_09:00",
           "evidencias": [
             {
-              "nombre": "CVs",
-              "nota": [
-                "Foto de sala: Archivo no cargado",
-                "Hoja de Teams: Archivo no cargado",
-                "Pantallazo: Archivo no cargado"
-              ]
-            },
-            {
               "nombre": "Ficha Centro",
               "nota": [
                 "Foto de sala: Archivo no cargado",
@@ -4258,14 +3783,6 @@
             {
               "nombre": "Foto sala",
               "nota": []
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": []
             }
           ]
         },
@@ -4278,14 +3795,6 @@
             },
             {
               "nombre": "Ficha Centro",
-              "nota": []
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
               "nota": []
             }
           ]
@@ -4300,14 +3809,6 @@
             {
               "nombre": "Foto sala",
               "nota": []
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": []
             }
           ]
         },
@@ -4320,14 +3821,6 @@
             },
             {
               "nombre": "Foto sala",
-              "nota": []
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
               "nota": []
             }
           ]
@@ -4342,14 +3835,6 @@
             {
               "nombre": "Foto sala",
               "nota": []
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": []
             }
           ]
         },
@@ -4358,12 +3843,6 @@
           "evidencias": [
             {
               "nombre": "Ficha Centro",
-              "nota": [
-                "Foto de sala: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Foto sala",
               "nota": [
                 "Foto de sala: Archivo no cargado"
               ]
@@ -4380,14 +3859,6 @@
             {
               "nombre": "Foto sala",
               "nota": []
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": []
             }
           ]
         },
@@ -4400,14 +3871,6 @@
             },
             {
               "nombre": "Foto sala",
-              "nota": []
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
               "nota": []
             }
           ]
@@ -4425,14 +3888,6 @@
             },
             {
               "nombre": "Foto sala",
-              "nota": []
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
               "nota": []
             }
           ]
@@ -4460,14 +3915,6 @@
             {
               "nombre": "Foto sala",
               "nota": []
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": []
             }
           ]
         },
@@ -4480,14 +3927,6 @@
             },
             {
               "nombre": "Foto sala",
-              "nota": []
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
               "nota": []
             }
           ]
@@ -4523,14 +3962,6 @@
             {
               "nombre": "Foto sala",
               "nota": []
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": []
             }
           ]
         },
@@ -4548,14 +3979,6 @@
             {
               "nombre": "Foto sala",
               "nota": []
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": []
             }
           ]
         },
@@ -4569,6 +3992,10 @@
             {
               "nombre": "Ficha Centro",
               "nota": []
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": []
             }
           ]
         },
@@ -4580,15 +4007,7 @@
               "nota": []
             },
             {
-              "nombre": "Foto sala",
-              "nota": []
-            },
-            {
               "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
               "nota": []
             }
           ]
@@ -4607,14 +4026,6 @@
             {
               "nombre": "Foto sala",
               "nota": []
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": []
             }
           ]
         },
@@ -4631,14 +4042,6 @@
             },
             {
               "nombre": "Foto sala",
-              "nota": []
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
               "nota": []
             }
           ]
@@ -4657,14 +4060,6 @@
             {
               "nombre": "Foto sala",
               "nota": []
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": []
             }
           ]
         },
@@ -4672,23 +4067,11 @@
           "sesion": "EP-CGCOM-01-A1-ES-01_EP-CGCOM-01-A1-ES-01-011_13/05/2026_16:00",
           "evidencias": [
             {
-              "nombre": "CVs",
-              "nota": []
-            },
-            {
               "nombre": "Ficha Centro",
               "nota": []
             },
             {
               "nombre": "Foto sala",
-              "nota": []
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
               "nota": []
             }
           ]
@@ -4702,14 +4085,6 @@
             },
             {
               "nombre": "Foto sala",
-              "nota": []
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
               "nota": []
             }
           ]
@@ -4726,7 +4101,15 @@
               "nota": []
             },
             {
+              "nombre": "Foto sala",
+              "nota": []
+            },
+            {
               "nombre": "Pantallazo",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de Teams",
               "nota": []
             }
           ]
@@ -4757,6 +4140,18 @@
             },
             {
               "nombre": "Ficha Centro",
+              "nota": []
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de Teams",
               "nota": []
             }
           ]
@@ -4789,6 +4184,18 @@
             },
             {
               "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: Archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": [
+                "Foto de sala: Archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Hoja de Teams",
               "nota": [
                 "Foto de sala: Archivo no cargado"
               ]
@@ -4881,12 +4288,6 @@
               "nota": [
                 "Foto de sala: Archivo no cargado"
               ]
-            },
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: Archivo no cargado"
-              ]
             }
           ]
         },
@@ -4908,6 +4309,14 @@
           "evidencias": [
             {
               "nombre": "Foto sala",
+              "nota": []
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de Teams",
               "nota": []
             }
           ]
@@ -4940,6 +4349,28 @@
             {
               "nombre": "Foto sala",
               "nota": []
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOM-01-A1-ES-03_EP-CGCOM-01-A1-ES-03-022_08/06/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOM-01-A1-ES-04_EP-CGCOM-01-A1-ES-04-022_10/06/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": []
             }
           ]
         },
@@ -4964,22 +4395,19 @@
           "sesion": "EP-CGCOM-01-A1-ES-01_EP-CGCOM-01-A1-ES-01-022_18/05/2026_16:00",
           "evidencias": [
             {
-              "nombre": "CVs",
-              "nota": [
-                "Foto de sala: Archivo no cargado"
-              ]
-            },
-            {
               "nombre": "Ficha Centro",
               "nota": [
                 "Foto de sala: Archivo no cargado"
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOM-01-A1-ES-04_EP-CGCOM-01-A1-ES-04-023_10/06/2026_16:00",
+          "evidencias": [
             {
               "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: Archivo no cargado"
-              ]
+              "nota": []
             }
           ]
         },
@@ -4992,14 +4420,6 @@
             },
             {
               "nombre": "Foto sala",
-              "nota": []
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
               "nota": []
             }
           ]
@@ -5015,6 +4435,12 @@
             },
             {
               "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: Archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Hoja de Teams",
               "nota": [
                 "Foto de sala: Archivo no cargado"
               ]
@@ -5048,14 +4474,6 @@
             {
               "nombre": "Foto sala",
               "nota": []
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": []
             }
           ]
         },
@@ -5084,6 +4502,15 @@
           ]
         },
         {
+          "sesion": "EP-CGCOM-01-A1-ES-04_EP-CGCOM-01-A1-ES-04-025_05/06/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            }
+          ]
+        },
+        {
           "sesion": "EP-CGCOM-01-A1-ES-02_EP-CGCOM-01-A1-ES-02-033_23/05/2026_09:00",
           "evidencias": [
             {
@@ -5096,10 +4523,46 @@
           "sesion": "EP-CGCOM-01-A1-ES-01_EP-CGCOM-01-A1-ES-01-030_22/05/2026_16:00",
           "evidencias": [
             {
+              "nombre": "CVs",
+              "nota": [
+                "Foto de sala: Archivo no cargado"
+              ]
+            },
+            {
               "nombre": "Foto sala",
               "nota": [
                 "Foto de sala: Archivo no cargado"
               ]
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": [
+                "Foto de sala: Archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": [
+                "Foto de sala: Archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOM-01-A1-ES-03_EP-CGCOM-01-A1-ES-03-026_05/06/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOM-01-A1-ES-04_EP-CGCOM-01-A1-ES-04-026_06/06/2026_09:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": []
             }
           ]
         },
@@ -5156,6 +4619,10 @@
             {
               "nombre": "Foto sala",
               "nota": []
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": []
             }
           ]
         },
@@ -5183,6 +4650,14 @@
             {
               "nombre": "Foto sala",
               "nota": []
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": []
             }
           ]
         },
@@ -5197,6 +4672,32 @@
         },
         {
           "sesion": "EP-CGCOM-01-A1-ES-01_EP-CGCOM-01-A1-ES-01-027_26/05/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOM-01-A1-ES-03_EP-CGCOM-01-A1-ES-03-029_05/06/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOM-01-A1-ES-04_EP-CGCOM-01-A1-ES-04-030_06/06/2026_09:00",
           "evidencias": [
             {
               "nombre": "Foto sala",
@@ -5226,6 +4727,14 @@
             },
             {
               "nombre": "Foto sala",
+              "nota": []
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de Teams",
               "nota": []
             }
           ]
@@ -5271,6 +4780,14 @@
             {
               "nombre": "Foto sala",
               "nota": []
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": []
             }
           ]
         },
@@ -5288,6 +4805,23 @@
           "evidencias": [
             {
               "nombre": "Foto sala",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOM-01-A1-ES-01_EP-CGCOM-01-A1-ES-01-032 _06/06/2026_09:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de Teams",
               "nota": []
             }
           ]
@@ -5367,6 +4901,10 @@
             {
               "nombre": "Foto sala",
               "nota": []
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": []
             }
           ]
         },
@@ -5422,7 +4960,7 @@
               "nota": []
             },
             {
-              "nombre": "Foto sala",
+              "nombre": "Hoja de firmas",
               "nota": []
             }
           ]
@@ -5430,6 +4968,32 @@
         {
           "sesion": "EP-CGCOM-01-A1-ES-04_EP-CGCOM-01-A1-ES-04-012_03/06/2026_16:00",
           "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOM-01-A1-ES-02_EP-CGCOM-01-A1-ES-02-012_08/06/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "Ficha Centro",
+              "nota": []
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOM-01-A1-ES-03_EP-CGCOM-01-A1-ES-03-012_09/06/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "Ficha Centro",
+              "nota": []
+            },
             {
               "nombre": "Foto sala",
               "nota": []
@@ -5450,15 +5014,6 @@
               "nota": [
                 "Foto de sala: Archivo no cargado"
               ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOM-01-A1-ES-01_EP-CGCOM-01-A1-ES-02-001_25/04/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": []
             }
           ]
         },
@@ -5487,6 +5042,18 @@
               "nota": [
                 "Foto de sala: Archivo no cargado"
               ]
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": [
+                "Foto de sala: Archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": [
+                "Foto de sala: Archivo no cargado"
+              ]
             }
           ]
         },
@@ -5509,6 +5076,23 @@
           ]
         },
         {
+          "sesion": "EP-CGCOM-01-A1-ES-01_EP-CGCOM-01-A1-ES-01-034_29/05/2026_15:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": []
+            }
+          ]
+        },
+        {
           "sesion": "EP-CGCOM-01-A1-ES-02_EP-CGCOM-01-A1-ES-02-035_28/05/2026_16:00",
           "evidencias": [
             {
@@ -5523,6 +5107,10 @@
             {
               "nombre": "Ficha Centro",
               "nota": []
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": []
             }
           ]
         },
@@ -5536,10 +5124,70 @@
           ]
         },
         {
+          "sesion": "EP-CGCOM-01-A1-ES-01_EP-CGCOM-01-A1-ES-01-035_03/06/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": []
+            }
+          ]
+        },
+        {
           "sesion": "EP-CGCOM-01-A1-ES-02_EP-CGCOM-01-A1-ES-02-021_30/05/2026_09:00",
           "evidencias": [
             {
               "nombre": "Ficha Centro",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOM-01-A1-ES-01_EP-CGCOM-01-A1-ES-01-040_04/06/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOM-01-A1-ES-01_EP-CGCOM-01-A1-ES-01-039_08/06/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOM-01-A1-ES-01_EP-CGCOM-01-A1-ES-01-044_09/06/2026_15:30",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de Teams",
               "nota": []
             }
           ]
@@ -5562,6 +5210,36 @@
           ]
         },
         {
+          "sesion": "EP-CGCOM-01-A1-ES-01_EP-CGCOM-01-A1-ES-01-038_02/06/2026_15:30",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            },
+            {
+              "nombre": "Pantallazo",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja de Teams",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOM-01-A1-ES-01_EP-CGCOM-01-A1-ES-01-042_09/06/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "CVs",
+              "nota": []
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": []
+            }
+          ]
+        },
+        {
           "sesion": "EW-CGCOM-02-A1-ES-01_EW-CGCOM-02-A1-ES-01-009_17/05/2026_09:00",
           "evidencias": [
             {
@@ -5575,20 +5253,7 @@
           ]
         },
         {
-          "sesion": "EW-CGCOM-02-A1-ES-01_EW-CGCOM-02-A1-ES-01-015_20/05/2026_17:00",
-          "evidencias": [
-            {
-              "nombre": "Pantallazo Aula Virtual",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja Teams",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EW-CGCOM-02-A1-ES-01_EW-CGCOM-02-A1-ES-01-013_21/05/2026_17:00",
+          "sesion": "EW-CGCOM-02-A1-ES-04_EW-CGCOM-02-A1-ES-04-008_17/05/2026_09:00",
           "evidencias": [
             {
               "nombre": "Pantallazo Aula Virtual",
@@ -5614,7 +5279,72 @@
           ]
         },
         {
+          "sesion": "EW-CGCOM-02-A1-ES-01_EW-CGCOM-02-A1-ES-01-015_20/05/2026_17:00",
+          "evidencias": [
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EW-CGCOM-02-A1-ES-04_EW-CGCOM-02-A1-ES-04-009_20/05/2026_17:00",
+          "evidencias": [
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EW-CGCOM-02-A1-ES-01_EW-CGCOM-02-A1-ES-01-013_21/05/2026_17:00",
+          "evidencias": [
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": []
+            }
+          ]
+        },
+        {
           "sesion": "EW-CGCOM-02-A1-ES-02_EW-CGCOM-02-A1-ES-02-011_21/05/2026_17:00",
+          "evidencias": [
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EW-CGCOM-02-A1-ES-03_EW-CGCOM-02-A1-ES-03-010_25/05/2026_17:00",
+          "evidencias": [
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EW-CGCOM-02-A1-ES-04_EW-CGCOM-02-A1-ES-04-010_25/05/2026_17:00",
           "evidencias": [
             {
               "nombre": "Pantallazo Aula Virtual",
@@ -5653,33 +5383,33 @@
           ]
         },
         {
-          "sesion": "EW-CGCOM-02-A1-ES-02_EW-CGCOM-02-A1-ES-02-017_28/05/2026_17:00",
-          "evidencias": [
-            {
-              "nombre": "Pantallazo Aula Virtual",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja Teams",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EW-CGCOM-02-A1-ES-03_EW-CGCOM-02-A1-ES-03-010_25/05/2026_17:00",
-          "evidencias": [
-            {
-              "nombre": "Pantallazo Aula Virtual",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja Teams",
-              "nota": []
-            }
-          ]
-        },
-        {
           "sesion": "EW-CGCOM-02-A1-ES-03_EW-CGCOM-02-A1-ES-03-011_27/05/2026_17:00",
+          "evidencias": [
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EW-CGCOM-02-A1-ES-01_EW-CGCOM-02-A1-ES-01-016_27/05/2026_17:00",
+          "evidencias": [
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": []
+            },
+            {
+              "nombre": "Hoja Teams",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EW-CGCOM-02-A1-ES-02_EW-CGCOM-02-A1-ES-02-017_28/05/2026_17:00",
           "evidencias": [
             {
               "nombre": "Pantallazo Aula Virtual",
@@ -5705,59 +5435,7 @@
           ]
         },
         {
-          "sesion": "EW-CGCOM-02-A1-ES-03_EW-CGCOM-02-A1-ES-03-013_31/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Pantallazo Aula Virtual",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja Teams",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EW-CGCOM-02-A1-ES-04_EW-CGCOM-02-A1-ES-04-008_17/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Pantallazo Aula Virtual",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja Teams",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EW-CGCOM-02-A1-ES-04_EW-CGCOM-02-A1-ES-04-009_20/05/2026_17:00",
-          "evidencias": [
-            {
-              "nombre": "Pantallazo Aula Virtual",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja Teams",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EW-CGCOM-02-A1-ES-04_EW-CGCOM-02-A1-ES-04-010_25/05/2026_17:00",
-          "evidencias": [
-            {
-              "nombre": "Pantallazo Aula Virtual",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja Teams",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EW-CGCOM-02-A1-ES-04_EW-CGCOM-02-A1-ES-04-011_31/05/2026_09:00",
+          "sesion": "EW-CGCOM-02-A1-ES-01_EW-CGCOM-02-A1-ES-01-017_30/05/2026_17:00",
           "evidencias": [
             {
               "nombre": "Pantallazo Aula Virtual",
@@ -5787,7 +5465,7 @@
           ]
         },
         {
-          "sesion": "EW-CGCOM-02-A1-ES-01_EW-CGCOM-02-A1-ES-01-016_27/05/2026_17:00",
+          "sesion": "EW-CGCOM-02-A1-ES-03_EW-CGCOM-02-A1-ES-03-013_31/05/2026_09:00",
           "evidencias": [
             {
               "nombre": "Pantallazo Aula Virtual",
@@ -5800,7 +5478,7 @@
           ]
         },
         {
-          "sesion": "EW-CGCOM-02-A1-ES-01_EW-CGCOM-02-A1-ES-01-017_30/05/2026_17:00",
+          "sesion": "EW-CGCOM-02-A1-ES-04_EW-CGCOM-02-A1-ES-04-011_31/05/2026_09:00",
           "evidencias": [
             {
               "nombre": "Pantallazo Aula Virtual",
@@ -5816,11 +5494,11 @@
     },
     {
       "consejo": "FARMACÉUTICOS",
-      "validados": 7584,
+      "validados": 7582,
       "objetivo": 4014,
       "cupo": 10035,
-      "crecimiento": 0.0264,
-      "inactivos": 1415,
+      "crecimiento": -0.0264,
+      "inactivos": 1402,
       "cursos": 13,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -5838,7 +5516,7 @@
       "bloqueos": " ",
       "pendientes_webinar": " ",
       "pendientes_presencial": " ",
-      "consultas": "Ha habido un total de 75 consultas e incidencias desde el día 29 de mayo. 5 casos han  sido escalado. \r\nIncidencias relacionadas con el acceso, inscripción y seguimiento de la formación presencial, online y aula virtual, que incluyen errores en el cómputo de horas y porcentajes de asistencia, imposibilidad de acceder a sesiones o encuestas de calidad, problemas para inscribirse en cursos presenciales o localizar sedes concretas, y dificultades tras cambios de correo o en la gestión de notificaciones. También se recogen consultas sobre cambios de fecha, restricciones en el acceso a sesiones online ya matriculadas, y fallos para que la plataforma refleje correctamente la finalización de los módulos realizados.",
+      "consultas": "Ha habido un total de 66 consultas e incidencias desde el día 5 de junio. En este momento, no hay ningún caso escalado.\r\nDurante la semana, las incidencias más habituales estuvieron relacionadas con errores en la contabilización de horas de formación, tanto en el aula virtual como en las sesiones presenciales, afectando al porcentaje de progreso y a la obtención de la certificación final. También se registraron numerosos casos de consultas sobre el estado de inscripción de las formaciones presenciales. De forma complementaria, se recibieron solicitudes de información sobre la descarga de certificados una vez completados los itinerarios formativos.",
       "evidencias_faltantes": [
         {
           "sesion": "EP-CGCOF-01-A2-ES-01_EP-CGCOF-01-A2-ES-01-003_12/05/2026_15:00",
@@ -5848,7 +5526,12 @@
               "nota": [
                 "Foto de sala: mal nombrado. Formato fecha_horainicio_siglas formador_lugarimpartición"
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sesion": "__12/05/2026_15:00",
+          "evidencias": [
             {
               "nombre": "Foto sala",
               "nota": [
@@ -5872,35 +5555,10 @@
           "sesion": "EP-CGCOF-01-A2-ES-03_EP-CGCOF-01-A2-ES-03-006_18/05/2026_16:00",
           "evidencias": [
             {
-              "nombre": "CVs",
-              "nota": [
-                "Foto de sala: Archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Ficha Centro",
-              "nota": [
-                "Foto de sala: Archivo no cargado"
-              ]
-            },
-            {
               "nombre": "Foto sala",
               "nota": [
                 "Foto de sala: Archivo no cargado"
               ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-02_EP-CGCOF-01-A2-ES-02-005_12/05/2026_08:30",
-          "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": []
-            },
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
             }
           ]
         },
@@ -5908,79 +5566,10 @@
           "sesion": "EP-CGCOF-01-A2-ES-02_EP-CGCOF-01-A2-ES-02-006_12/05/2026_16:00",
           "evidencias": [
             {
-              "nombre": "CVs",
-              "nota": [
-                "Foto de sala: mal nombrado. Formato fecha_horainicio_siglas formador_lugarimpartición"
-              ]
-            },
-            {
-              "nombre": "Ficha Centro",
-              "nota": [
-                "Foto de sala: mal nombrado. Formato fecha_horainicio_siglas formador_lugarimpartición"
-              ]
-            },
-            {
               "nombre": "Foto sala",
               "nota": [
                 "Foto de sala: mal nombrado. Formato fecha_horainicio_siglas formador_lugarimpartición"
               ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-02_EP-CGCOF-01-A2-ES-02-013_18/05/2026_15:30",
-          "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": []
-            },
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-01_EP-CGCOF-01-A2-ES-01-008_13/05/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": []
-            },
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-02_EP-CGCOF-01-A2-ES-02-007_12/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-02_EP-CGCOF-01-A2-ES-02-008_13/05/2026_14:30",
-          "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": []
-            },
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-01_EP-CGCOF-01-A2-ES-01-009_14/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
             }
           ]
         },
@@ -5996,139 +5585,13 @@
           ]
         },
         {
-          "sesion": "EP-CGCOF-01-A2-ES-01_EP-CGCOF-01-A2-ES-01-011_18/05/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
-            }
-          ]
-        },
-        {
           "sesion": "EP-CGCOF-01-A2-ES-03_EP-CGCOF-01-A2-ES-03-009_19/05/2026_16:00",
           "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": [
-                "Foto de sala: mal nombrado. Formato fecha_horainicio_siglas formador_lugarimpartición"
-              ]
-            },
-            {
-              "nombre": "Ficha Centro",
-              "nota": [
-                "Foto de sala: mal nombrado. Formato fecha_horainicio_siglas formador_lugarimpartición"
-              ]
-            },
             {
               "nombre": "Foto sala",
               "nota": [
                 "Foto de sala: mal nombrado. Formato fecha_horainicio_siglas formador_lugarimpartición"
               ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-02_EP-CGCOF-01-A2-ES-02-010_14/05/2026_15:30",
-          "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-03_EP-CGCOF-01-A2-ES-03-011_19/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-01_EP-CGCOF-01-A2-ES-01-012_18/05/2026_14:30",
-          "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": []
-            },
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-04_EP-CGCOF-01-A2-ES-04-009_20/05/2026_14:30",
-          "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": []
-            },
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-04_EP-CGCOF-01-A2-ES-04-010_20/05/2026_15:30",
-          "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": []
-            },
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-02_EP-CGCOF-01-A2-ES-02-014_19/05/2026_16:30",
-          "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": []
-            },
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-01_EP-CGCOF-01-A2-ES-01-014 _19/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": []
-            },
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-04_EP-CGCOF-01-A2-ES-04-011_20/05/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": []
-            },
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-04_EP-CGCOF-01-A2-ES-04-012_21/05/2026_08:30",
-          "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": []
             }
           ]
         },
@@ -6167,43 +5630,10 @@
           "sesion": "EP-CGCOF-01-A2-ES-02_EP-CGCOF-01-A2-ES-02-020_20/05/2026_16:00",
           "evidencias": [
             {
-              "nombre": "Ficha Centro",
-              "nota": [
-                "Foto de sala: Archivo no cargado"
-              ]
-            },
-            {
               "nombre": "Foto sala",
               "nota": [
                 "Foto de sala: Archivo no cargado"
               ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-02_EP-CGCOF-01-A2-ES-02-021_21/05/2026_14:00",
-          "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-03_EP-CGCOF-01-A2-ES-03-030_26/05/2026_16:30",
-          "evidencias": [
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-02_EP-CGCOF-01-A2-ES-02-022_26/05/2026_15:30",
-          "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": []
             }
           ]
         },
@@ -6226,11 +5656,21 @@
           ]
         },
         {
-          "sesion": "EP-CGCOF-01-A2-ES-01_EP-CGCOF-01-A2-ES-01-020_28/05/2026_15:30",
+          "sesion": "EP-CGCOF-01-A2-ES-04_EP-CGCOF-01-A2-ES-04-025_02/06/2026_16:00",
           "evidencias": [
             {
-              "nombre": "CVs",
-              "nota": []
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: mal nombrado. Formato fecha_horainicio_siglas formador_lugarimpartición",
+                "Hoja de firmas: mal nombrado. Formato fecha_horainicio_siglas formador_lugarimpartición"
+              ]
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": [
+                "Foto de sala: mal nombrado. Formato fecha_horainicio_siglas formador_lugarimpartición",
+                "Hoja de firmas: mal nombrado. Formato fecha_horainicio_siglas formador_lugarimpartición"
+              ]
             }
           ]
         },
@@ -6239,28 +5679,6 @@
           "evidencias": [
             {
               "nombre": "CVs",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-03_EP-CGCOF-01-A2-ES-03-038_28/05/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "Ficha Centro",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOF-01-A2-ES-01_EP-CGCOF-01-A2-ES-01-016_20/05/2026_15:30",
-          "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": []
-            },
-            {
-              "nombre": "Ficha Centro",
               "nota": []
             }
           ]
@@ -6280,11 +5698,11 @@
     },
     {
       "consejo": "ENFERMERÍA",
-      "validados": 10045,
+      "validados": 10044,
       "objetivo": 9300,
       "cupo": 23250,
-      "crecimiento": -0.0895,
-      "inactivos": 2497,
+      "crecimiento": -0.01,
+      "inactivos": 2483,
       "cursos": 10,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -6302,7 +5720,7 @@
       "bloqueos": " ",
       "pendientes_webinar": " ",
       "pendientes_presencial": " ",
-      "consultas": "Ha habido un total de 72 consultas e incidencias desde el día 29 de mayo.  Un caso escalado\r\nIncidencias relacionadas con la gestión integral de la formación y la plataforma, que incluyen problemas en la contabilización de horas y asistencias (presenciales, webinars y aula virtual), inscripciones, cambios o desmatriculaciones en cursos, dificultades para acceder a módulos, sesiones o contenidos (unidades que no cargan, acceso denegado), errores en el uso de QR y credenciales, y cursos o actividades que no aparecen como realizados. También se incluyen incidencias sobre descarga y validación de diplomas/certificados, justificantes de asistencia, firma digital, duplicidades, cambios de datos (correo, DNI), dudas sobre el estado del progreso y finalización del curso, así como problemas técnicos generales (audio, visualización, contraseña), todo ello requiriendo revisión para poder completar correctamente la formación.",
+      "consultas": "Ha habido un total de 77 consultas e incidencias desde el día 5 de junio.  13 incidencias han sido escaladas.\r\nSe presentaron, principalmente, dificultades de acceso y matriculación a aulas virtuales, webinars y módulos formativos, así como problemas para avanzar o finalizar correctamente algunas unidades de la formación. También fueron frecuentes las consultas relacionadas con la obtención de certificados y diplomas, la falta de fechas para las sesiones del aula virtual y errores en el registro del progreso de los participantes.",
       "evidencias_faltantes": [
         {
           "sesion": "EP-CGCOE-01-A1-ES-013_EP-CGCOE-01-A1-ES-013-01_20/04/2026_15:30",
@@ -6373,17 +5791,6 @@
               "nombre": "Foto sala",
               "nota": [
                 "Foto de sala: Archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOE-01-A1-ES-017_EP-CGCOE-01-A1-ES-017-03_25/02/2026_08:30",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas: Archivo no cargado"
               ]
             }
           ]
@@ -6610,7 +6017,7 @@
             {
               "nombre": "Foto sala",
               "nota": [
-                "Foto de sala: Archivo duplicado. Identificar correctamente"
+                "Foto de sala: Archivo duplicado"
               ]
             }
           ]
@@ -6621,7 +6028,7 @@
             {
               "nombre": "Foto sala",
               "nota": [
-                "Foto de sala: Archivo duplicado. Identificar correctamente"
+                "Foto de sala: Archivo duplicado"
               ]
             }
           ]
@@ -6742,7 +6149,7 @@
           ]
         },
         {
-          "sesion": "EP-CGCOE-01-A1-ES-080_EP-CGCOE-01-A1-ES-080-01_18/05/2026_09:00",
+          "sesion": "EP-CGCOE-01-A1-ES-080_EP-CGCOE-01-A1-ES-080-01_18/05/2026_16:00",
           "evidencias": [
             {
               "nombre": "Foto sala",
@@ -6817,15 +6224,6 @@
           "evidencias": [
             {
               "nombre": "Hoja de firmas",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOE-01-A1-ES-087_EP-CGCOE-01-A1-ES-087-02_29/04/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
               "nota": []
             }
           ]
@@ -7410,6 +6808,42 @@
           ]
         },
         {
+          "sesion": "EP-CGCOE-01-A1-ES-128_EP-CGCOE-01-A1-ES-128-01_08/06/2026_09:00",
+          "evidencias": [
+            {
+              "nombre": "CVs",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-128_EP-CGCOE-01-A1-ES-128-02_08/06/2026_15:00",
+          "evidencias": [
+            {
+              "nombre": "CVs",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-128_EP-CGCOE-01-A1-ES-128-03_10/06/2026_09:00",
+          "evidencias": [
+            {
+              "nombre": "CVs",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-128_EP-CGCOE-01-A1-ES-128-04_10/06/2026_15:00",
+          "evidencias": [
+            {
+              "nombre": "CVs",
+              "nota": []
+            }
+          ]
+        },
+        {
           "sesion": "EP-CGCOE-01-A1-ES-129_EP-CGCOE-01-A1-ES-129-01_04/05/2026_15:30",
           "evidencias": [
             {
@@ -7697,6 +7131,17 @@
             {
               "nombre": "CVs",
               "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-149_EP-CGCOE-01-A1-ES-149-03_25/05/2026_09:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: Archivo no cargado"
+              ]
             }
           ]
         },
@@ -8014,6 +7459,15 @@
           ]
         },
         {
+          "sesion": "EP-CGCOE-01-A1-ES-169_EP-CGCOE-01-A1-ES-169-03_09/06/2026_09:00",
+          "evidencias": [
+            {
+              "nombre": "CVs",
+              "nota": []
+            }
+          ]
+        },
+        {
           "sesion": "EP-CGCOE-01-A1-ES-170_EP-CGCOE-01-A1-ES-170-01_26/05/2026_15:00",
           "evidencias": [
             {
@@ -8028,6 +7482,70 @@
             {
               "nombre": "CVs",
               "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-170_EP-CGCOE-01-A1-ES-170-03_09/06/2026_15:00",
+          "evidencias": [
+            {
+              "nombre": "CVs",
+              "nota": []
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-172_EP-CGCOE-01-A1-ES-172-01_27/05/2026_09:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: Archivo con fecha incorrecta"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-172_EP-CGCOE-01-A1-ES-172-02_27/05/2026_15:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: Archivo con fecha incorrecta"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-172_EP-CGCOE-01-A1-ES-172-04_29/05/2026_15:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: Archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-174_EP-CGCOE-01-A1-ES-174-03_28/05/2026_09:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: se ha subido la hoja de firmas"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOE-01-A1-ES-189_EP-CGCOE-01-A1-ES-189-01_01/06/2026_16:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: falta la hora de inicio en el archivo"
+              ]
             }
           ]
         },
@@ -8073,11 +7591,11 @@
     },
     {
       "consejo": "COSITAL",
-      "validados": 748,
+      "validados": 738,
       "objetivo": 517,
       "cupo": 1292.5,
-      "crecimiento": 0.1339,
-      "inactivos": 96,
+      "crecimiento": -1.3369,
+      "inactivos": 89,
       "cursos": 8,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -8098,53 +7616,12 @@
       "consultas": " ",
       "evidencias_faltantes": [
         {
-          "sesion": "EP-CGCOSITA-01-A1-ES-22_EP-CGCOSITA-01-A1-ES-22-001_03/03/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Hoja de firmas: No cargada"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOSITA-01-A1-ES-26_EP-CGCOSITA-01-A1-ES-26-001_04/03/2026_10:00",
+          "sesion": "EP-CGCOSITA-01-A1-ES-07_EP-CGCOSITA-01-A1-ES-07-009_07/05/2026_09:00",
           "evidencias": [
             {
               "nombre": "Hoja de firmas",
               "nota": [
                 "Hoja de Firmas:No subida"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOSITA-01-A1-ES-29_EP-CGCOSITA-01-A1-ES-29-002_22/05/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala: No cargado",
-                "Hoja de firmas: No cargada"
-              ]
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Foto de sala: No cargado",
-                "Hoja de firmas: No cargada"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCOSITA-01-A1-ES-54_EP-CGCOSITA-01-A1-ES-54-001_26/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto sala:No cargada"
               ]
             }
           ]
@@ -8208,9 +7685,9 @@
           "sesion": "EP-CGCOSITA-01-A1-ES-71_EP-CGCOSITA-01-A1-ES-71-001_18/05/2026_08:00",
           "evidencias": [
             {
-              "nombre": "CVs",
+              "nombre": "Hoja de firmas",
               "nota": [
-                "CV:Mal Formato"
+                "Hoja de firmas: No cargada"
               ]
             }
           ]
@@ -8219,16 +7696,8 @@
           "sesion": "EP-CGCOSITA-01-A1-ES-72_EP-CGCOSITA-01-A1-ES-72-001_20/05/2026_08:00",
           "evidencias": [
             {
-              "nombre": "CVs",
-              "nota": [
-                "CV:Mal Formato",
-                "Hoja de Firmas:No subida"
-              ]
-            },
-            {
               "nombre": "Hoja de firmas",
               "nota": [
-                "CV:Mal Formato",
                 "Hoja de Firmas:No subida"
               ]
             }
@@ -8238,17 +7707,20 @@
           "sesion": "EP-CGCOSITA-01-A1-ES-73_EP-CGCOSITA-01-A1-ES-73-001_25/05/2026_08:00",
           "evidencias": [
             {
-              "nombre": "CVs",
-              "nota": [
-                "CV:Mal Formato",
-                "Hoja de Firmas:No subida"
-              ]
-            },
-            {
               "nombre": "Hoja de firmas",
               "nota": [
-                "CV:Mal Formato",
                 "Hoja de Firmas:No subida"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGCOSITA-01-A1-ES-02_EP-CGCOSITA-01-A1-ES-02-016_08/06/2026_09:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto sala:No cargada"
               ]
             }
           ]
@@ -8277,133 +7749,17 @@
       "pres_min": 18,
       "pres_neces": 6,
       "bloqueos": " ",
-      "pendientes_webinar": "Esta semana han terminado las webinars, no se realizarán más ediciones.",
+      "pendientes_webinar": " ",
       "pendientes_presencial": " ",
-      "consultas": " ",
-      "evidencias_faltantes": [
-        {
-          "sesion": "EP-CGCMS-01-A5-ES-02_EP-CGCMS-01-A5-ES-02-001_06/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de Teams",
-              "nota": [
-                "Hoja de Teams: archivo cargado pero nombre de la ciudad cortado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCMS-01-A5-ES-03_EP-CGCMS-01-A5-ES-03-001_06/05/2026_15:00",
-          "evidencias": [
-            {
-              "nombre": "Hoja de Teams",
-              "nota": [
-                "Hoja de Teams: archivo cargado pero nombre de la ciudad cortado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCMS-01-A5-ES-02_EP-CGCMS-01-A5-ES-02-003_20/05/2026_09:30",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala, Hoja de firmas, Pantallazo y Hoja de Teams: archivo cargado pero hora mal indicada"
-              ]
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Foto de sala, Hoja de firmas, Pantallazo y Hoja de Teams: archivo cargado pero hora mal indicada"
-              ]
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": [
-                "Foto de sala, Hoja de firmas, Pantallazo y Hoja de Teams: archivo cargado pero hora mal indicada"
-              ]
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": [
-                "Foto de sala, Hoja de firmas, Pantallazo y Hoja de Teams: archivo cargado pero hora mal indicada"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGCMS-01-A5-ES-03_EP-CGCMS-01-A5-ES-03-003_20/05/2026_15:30",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": [
-                "Foto de sala, Hoja de firmas, Pantallazo y Hoja de Teams: archivo cargado pero hora mal indicada"
-              ]
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": [
-                "Foto de sala, Hoja de firmas, Pantallazo y Hoja de Teams: archivo cargado pero hora mal indicada"
-              ]
-            },
-            {
-              "nombre": "Pantallazo",
-              "nota": [
-                "Foto de sala, Hoja de firmas, Pantallazo y Hoja de Teams: archivo cargado pero hora mal indicada"
-              ]
-            },
-            {
-              "nombre": "Hoja de Teams",
-              "nota": [
-                "Foto de sala, Hoja de firmas, Pantallazo y Hoja de Teams: archivo cargado pero hora mal indicada"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EW-CGCMS-02-A5-ES-02_EW-CGCMS-02-A5-ES-02-001_28/05/2026_14:30",
-          "evidencias": [
-            {
-              "nombre": "CV",
-              "nota": [
-                "Pantallazo : archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Pantallazo Aula Virtual",
-              "nota": [
-                "Pantallazo : archivo no cargado"
-              ]
-            }
-          ]
-        },
-        {
-          "sesion": "EW-CGCMS-02-A5-ES-01_EW-CGCMS-02-A5-ES-01-001_26/05/2026_09:30",
-          "evidencias": [
-            {
-              "nombre": "CV",
-              "nota": [
-                "Pantallazo: archivo no cargado"
-              ]
-            },
-            {
-              "nombre": "Pantallazo Aula Virtual",
-              "nota": [
-                "Pantallazo: archivo no cargado"
-              ]
-            }
-          ]
-        }
-      ]
+      "consultas": " "
     },
     {
       "consejo": "ABOGACÍA",
-      "validados": 25441,
+      "validados": 25458,
       "objetivo": 31516,
       "cupo": 78790,
-      "crecimiento": 0.0393,
-      "inactivos": 10493,
+      "crecimiento": 0.0668,
+      "inactivos": 10440,
       "cursos": 12,
       "mat_consejo": 0,
       "mat_lo": 0,
@@ -8421,19 +7777,8 @@
       "bloqueos": " ",
       "pendientes_webinar": " ",
       "pendientes_presencial": " ",
-      "consultas": "Ha habido un total de 169 consultas e incidencias desde el día de 29 de mayo. Hay 15 casos que están escalados. \r\nIncidencias relacionadas con la formación presencial y telemática de Justicia Digital y Plataformas Telemáticas Europeas, que incluyen asistencias no registradas o pendientes de validación pese a haber acudido a las sesiones (en algunos casos por fallos con el QR o firma manuscrita), problemas para inscribirse o registrarse en cursos presenciales o en modalidad virtual, cursos realizados que no aparecen en “Mi actividad”, errores al firmar la declaración responsable, dificultades para iniciar sesión en la plataforma y consultas sobre próximas sesiones presenciales,",
+      "consultas": "Hemos recibido un total de 190 consultas e incidencias desde el día de 5 de junio. Hay 1 caso que está escalado.\r\nLas incidencias se concentraron principalmente en la gestión de la formación presencial y del aula virtual, destacando problemas de inscripción, acceso a las sesiones, validación de asistencia y contabilización de horas. También fueron frecuentes los casos de cursos o actividades completadas que no aparecían registradas como finalizadas, así como dificultades para avanzar en determinados módulos, cuestionarios o en la descarga del certificado.",
       "evidencias_faltantes": [
-        {
-          "sesion": "EP-CGAE-01-A2-ES-01_EP-CGAE-01-A2-ES-01-001_05/03/2026_15:30",
-          "evidencias": [
-            {
-              "nombre": "Pantallazo",
-              "nota": [
-                "Pantallazo de Teams: Archivo cargado pero mal nombrado"
-              ]
-            }
-          ]
-        },
         {
           "sesion": "EP-CGAE-01-A2-ES-02_EP-CGAE-01-A2-ES-02-001_06/03/2026_09:00",
           "evidencias": [
@@ -8558,6 +7903,17 @@
           ]
         },
         {
+          "sesion": "EP-CGAE-01-A2-ES-02_EP-CGAE-01-A2-ES-02-019_08/05/2026_15:00",
+          "evidencias": [
+            {
+              "nombre": "Hoja de firmas",
+              "nota": [
+                "Hoja de firmas: archivo con formato incorrecto"
+              ]
+            }
+          ]
+        },
+        {
           "sesion": "EP-CGAE-01-A2-ES-01_EP-CGAE-01-A2-ES-01-032_12/05/2026_15:30",
           "evidencias": [
             {
@@ -8588,24 +7944,6 @@
               "nota": [
                 "Hoja de firmas: archivo no cargado"
               ]
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGAE-01-A2-ES-01_EP-CGAE-01-A2-ES-01-012_10/04/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGAE-01-A2-ES-01_EP-CGAE-01-A2-ES-01-013_13/04/2026_16:00",
-          "evidencias": [
-            {
-              "nombre": "CVs",
-              "nota": []
             }
           ]
         },
@@ -8650,7 +7988,21 @@
           "evidencias": [
             {
               "nombre": "CVs",
-              "nota": []
+              "nota": [
+                "Foto de sala: archivo cargado pero falta nombre ciudad"
+              ]
+            },
+            {
+              "nombre": "Ficha Centro",
+              "nota": [
+                "Foto de sala: archivo cargado pero falta nombre ciudad"
+              ]
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: archivo cargado pero falta nombre ciudad"
+              ]
             }
           ]
         },
@@ -8682,11 +8034,21 @@
           "evidencias": [
             {
               "nombre": "CVs",
-              "nota": []
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
             },
             {
               "nombre": "Ficha Centro",
-              "nota": []
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
             }
           ]
         },
@@ -8795,7 +8157,15 @@
           "evidencias": [
             {
               "nombre": "CVs",
-              "nota": []
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
             }
           ]
         },
@@ -8822,6 +8192,17 @@
           ]
         },
         {
+          "sesion": "EP-CGAE-01-A2-ES-02_EP-CGAE-01-A2-ES-02-046_22/05/2026_09:00",
+          "evidencias": [
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
           "sesion": "EP-CGAE-01-A2-ES-01_EP-CGAE-01-A2-ES-01-056_25/05/2026_17:00",
           "evidencias": [
             {
@@ -8835,6 +8216,15 @@
               "nota": [
                 "Foto de sala y hoja de firmas: hora mal indicada"
               ]
+            }
+          ]
+        },
+        {
+          "sesion": "EP-CGAE-01-A2-ES-02_EP-CGAE-01-A2-ES-02-049_26/05/2026_15:00",
+          "evidencias": [
+            {
+              "nombre": "Ficha Centro",
+              "nota": []
             }
           ]
         },
@@ -8854,7 +8244,21 @@
           "evidencias": [
             {
               "nombre": "CVs",
-              "nota": []
+              "nota": [
+                "Foto de sala, Hoja de asistencia: archivo cargado pero hora mal indicada"
+              ]
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala, Hoja de asistencia: archivo cargado pero hora mal indicada"
+              ]
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": [
+                "Foto de sala, Hoja de asistencia: archivo cargado pero hora mal indicada"
+              ]
             }
           ]
         },
@@ -8874,71 +8278,6 @@
           "evidencias": [
             {
               "nombre": "CVs",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-024_EP-CGTS-01-A1-ES-024-04_19/04/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-033_EP-CGTS-01-A1-ES-033-02_09/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-033_EP-CGTS-01-A1-ES-033-04_10/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-036_EP-CGTS-01-A1-ES-036-01_08/05/2026_09:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de firmas",
-              "nota": []
-            }
-          ]
-        },
-        {
-          "sesion": "EP-CGTS-01-A1-ES-036_EP-CGTS-01-A1-ES-036-02_08/05/2026_15:00",
-          "evidencias": [
-            {
-              "nombre": "Foto sala",
-              "nota": []
-            },
-            {
-              "nombre": "Hoja de firmas",
               "nota": []
             }
           ]
@@ -9025,7 +8364,21 @@
           "evidencias": [
             {
               "nombre": "CVs",
-              "nota": []
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Ficha Centro",
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
+            },
+            {
+              "nombre": "Foto sala",
+              "nota": [
+                "Foto de sala: archivo no cargado"
+              ]
             }
           ]
         },
@@ -9061,6 +8414,10 @@
             {
               "nombre": "CVs",
               "nota": []
+            },
+            {
+              "nombre": "Ficha Centro",
+              "nota": []
             }
           ]
         },
@@ -9078,7 +8435,15 @@
           "evidencias": [
             {
               "nombre": "CVs",
-              "nota": []
+              "nota": [
+                "Hoja de firmas: falta firma formador"
+              ]
+            },
+            {
+              "nombre": "Hoja de firmas",
+              "nota": [
+                "Hoja de firmas: falta firma formador"
+              ]
             }
           ]
         },
@@ -9099,6 +8464,10 @@
             {
               "nombre": "CVs",
               "nota": []
+            },
+            {
+              "nombre": "Ficha Centro",
+              "nota": []
             }
           ]
         },
@@ -9107,12 +8476,6 @@
           "evidencias": [
             {
               "nombre": "CVs",
-              "nota": [
-                "Hoja de Teams: hora mal indicada en el nombre"
-              ]
-            },
-            {
-              "nombre": "Hoja de Teams",
               "nota": [
                 "Hoja de Teams: hora mal indicada en el nombre"
               ]
@@ -9132,6 +8495,17 @@
               "nombre": "Hoja Teams",
               "nota": [
                 "Pantallazo y Hoja de Teams: archivo no cargado"
+              ]
+            }
+          ]
+        },
+        {
+          "sesion": "EW-CGAE-02-A2-ES-01__10/06/2026_15:30",
+          "evidencias": [
+            {
+              "nombre": "Pantallazo Aula Virtual",
+              "nota": [
+                "Pantallazo: archivo cargado pero fecha incorrecta"
               ]
             }
           ]
@@ -9292,6 +8666,10 @@
       {
         "date": "05/06/2026",
         "Total": 691
+      },
+      {
+        "date": "12/06/2026",
+        "Total": 674
       }
     ],
     "INFORMÁTICA": [
@@ -9446,6 +8824,10 @@
       {
         "date": "05/06/2026",
         "Total": 429
+      },
+      {
+        "date": "12/06/2026",
+        "Total": 435
       }
     ],
     "TÉCNICOS DE TELECOMUNICACIÓN": [
@@ -9600,6 +8982,10 @@
       {
         "date": "05/06/2026",
         "Total": 514
+      },
+      {
+        "date": "12/06/2026",
+        "Total": 519
       }
     ],
     "MINAS": [
@@ -9754,6 +9140,10 @@
       {
         "date": "05/06/2026",
         "Total": 256
+      },
+      {
+        "date": "12/06/2026",
+        "Total": 240
       }
     ],
     "GEOMÁTICA Y TOPOGRÁFICA": [
@@ -9908,6 +9298,10 @@
       {
         "date": "05/06/2026",
         "Total": 235
+      },
+      {
+        "date": "12/06/2026",
+        "Total": 236
       }
     ],
     "EDUCACIÓN FÍSICA": [
@@ -10061,6 +9455,10 @@
       },
       {
         "date": "05/06/2026",
+        "Total": 2103
+      },
+      {
+        "date": "12/06/2026",
         "Total": 2103
       }
     ],
@@ -10216,6 +9614,10 @@
       {
         "date": "05/06/2026",
         "Total": 1417
+      },
+      {
+        "date": "12/06/2026",
+        "Total": 1424
       }
     ],
     "TRABAJO SOCIAL": [
@@ -10370,6 +9772,10 @@
       {
         "date": "05/06/2026",
         "Total": 4821
+      },
+      {
+        "date": "12/06/2026",
+        "Total": 4831
       }
     ],
     "TÉCNICOS AERONÁUTICOS": [
@@ -10524,6 +9930,10 @@
       {
         "date": "05/06/2026",
         "Total": 100
+      },
+      {
+        "date": "12/06/2026",
+        "Total": 96
       }
     ],
     "TÉCNICOS INDUSTRIALES": [
@@ -10678,6 +10088,10 @@
       {
         "date": "05/06/2026",
         "Total": 3222
+      },
+      {
+        "date": "12/06/2026",
+        "Total": 3216
       }
     ],
     "ARQUITECTURA TÉCNICA": [
@@ -10831,6 +10245,10 @@
       },
       {
         "date": "05/06/2026",
+        "Total": 4391
+      },
+      {
+        "date": "12/06/2026",
         "Total": 4391
       }
     ],
@@ -10986,6 +10404,10 @@
       {
         "date": "05/06/2026",
         "Total": 453
+      },
+      {
+        "date": "12/06/2026",
+        "Total": 453
       }
     ],
     "SOCIÓLOGOS Y POLITÓLOGOS": [
@@ -11139,6 +10561,10 @@
       },
       {
         "date": "05/06/2026",
+        "Total": 450
+      },
+      {
+        "date": "12/06/2026",
         "Total": 450
       }
     ],
@@ -11294,6 +10720,10 @@
       {
         "date": "05/06/2026",
         "Total": 15582
+      },
+      {
+        "date": "12/06/2026",
+        "Total": 15588
       }
     ],
     "FARMACÉUTICOS": [
@@ -11448,6 +10878,10 @@
       {
         "date": "05/06/2026",
         "Total": 7584
+      },
+      {
+        "date": "12/06/2026",
+        "Total": 7582
       }
     ],
     "ENFERMERÍA": [
@@ -11602,6 +11036,10 @@
       {
         "date": "05/06/2026",
         "Total": 10045
+      },
+      {
+        "date": "12/06/2026",
+        "Total": 10044
       }
     ],
     "COSITAL": [
@@ -11756,6 +11194,10 @@
       {
         "date": "05/06/2026",
         "Total": 748
+      },
+      {
+        "date": "12/06/2026",
+        "Total": 738
       }
     ],
     "MEDIADORES DE SEGUROS": [
@@ -11909,6 +11351,10 @@
       },
       {
         "date": "05/06/2026",
+        "Total": 352
+      },
+      {
+        "date": "12/06/2026",
         "Total": 352
       }
     ],
@@ -12064,6 +11510,10 @@
       {
         "date": "05/06/2026",
         "Total": 25441
+      },
+      {
+        "date": "12/06/2026",
+        "Total": 25458
       }
     ]
   },
@@ -12219,14 +11669,14 @@
     {
       "date": "05/06/2026",
       "Total": 78834
+    },
+    {
+      "date": "12/06/2026",
+      "Total": 78830
     }
   ],
   "EVOLUTIVOS_DATA": {
-    "plataforma": [
-      "Evolución en la gestión de generación de sesiones Teams\r\nSe ha implementado una mejora significativa en la arquitectura de creación de sesiones Teams, desacoplando este proceso de la Actividad para dotarlo de mayor flexibilidad y robustez.\r\n•\tSe introduce un modelo de generación asíncrona que permite gestionar de forma más eficiente la creación de webinars en entornos con alta demanda.\r\n•\tSe habilita una nueva interfaz para creadores, desde la que podrán:  Visualizar webinars en proceso de creación y hacer seguimiento del estado de cada solicitud.\r\n•\tSe incorpora un sistema de estados que facilita el control del ciclo de vida de cada webinar: Pendientes, Completados, Requieren revisión\r\n•\tLa visibilidad se adapta al rol: Los creadores visualizan únicamente sus propias solicitudes. Los usuarios con permisos avanzados disponen de una visión global del estado de todos los webinars. \r\nEste avance mejora notablemente la escalabilidad del sistema y proporciona mayor transparencia en los procesos de creación.",
-      "Mejora en la calidad y precisión del informe de sesiones planificadas\r\nSe ha revisado y optimizado el informe 13_EventosSesionesPlanificadas con el objetivo de garantizar una identificación más clara y precisa de las sesiones.\r\n•\tSe ajusta la lógica de obtención de nombres para reflejar correctamente la denominación específica de cada sesión.\r\n•\tSe evita la dependencia de nomenclaturas genéricas, reforzando la consistencia de los datos.\r\n•\tSe facilita la identificación de convocatorias, en entornos de streaming.\r\nGracias a esta mejora, los usuariospodran realizar mejores análisis y seguimiento de las sesiones.",
-      "Impulso a la participación en convocatorias bimodales\r\nCon el objetivo de fomentar la interacción de los usuarios y mejorar la gestión de convocatorias bimodales, se introduce un nuevo sistema de notificación automatizada.\r\n•\tSe detectan inscripciones para sesiones Bimodales en las que el usuario no ha completado la selección de modalidad (presencial o streaming).\r\n•\tSe generan recordatorios periódicos dirigidos al usuario para incentivar la finalización de esta acción.\r\n•\tSe mejora la calidad de los datos asociados a las convocatorias, favoreciendo una adecuada planificación.\r\nEsta funcionalidad contribuye a aumentar la participación activa y asegura una mejor definición de las preferencias de los asistentes."
-    ],
+    "plataforma": [],
     "sug": []
   }
 }
