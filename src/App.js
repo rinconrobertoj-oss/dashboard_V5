@@ -56,31 +56,31 @@ const Card = ({
   icon: Icon,
   trendValue,
 }) => (
-  <div className="bg-white rounded-xl shadow-sm p-5 border border-gray-100 flex flex-col justify-between h-full">
+  <div className="bg-white rounded-xl shadow-sm p-5 border border-[#DDE1E6] flex flex-col justify-between h-full">
     <div className="flex items-center justify-between mb-3">
-      <h3 className="text-gray-400 text-xs font-bold uppercase tracking-wider">
+      <h3 className="text-[#878D96] text-xs font-bold uppercase tracking-wider">
         {title}
       </h3>
-      <div className={`p-1.5 rounded-lg bg-blue-50 text-blue-600`}>
+      <div className={`p-1.5 rounded-lg bg-[#10235B]/10 text-[#10235B]`}>
         <Icon size={18} />
       </div>
     </div>
     <div>
       <div className="flex items-baseline space-x-2">
-        <span className="text-2xl font-bold text-gray-900">{value}</span>
+        <span className="text-2xl font-bold text-[#21272A]">{value}</span>
         {subtext && (
-          <span className="text-xs text-gray-400 font-medium">{subtext}</span>
+          <span className="text-xs text-[#878D96] font-medium">{subtext}</span>
         )}
       </div>
-      <div className="mt-2 pt-2 border-t border-gray-100 flex items-center justify-between">
-        <p className="text-xs font-bold text-blue-600 bg-blue-50 inline-block px-2 py-0.5 rounded-full uppercase tracking-wide">
+      <div className="mt-2 pt-2 border-t border-[#DDE1E6] flex items-center justify-between">
+        <p className="text-xs font-bold text-[#10235B] bg-[#10235B]/10 inline-block px-2 py-0.5 rounded-full uppercase tracking-wide">
           {footerText}
         </p>
         {trendValue !== undefined && (
-          <div className="flex items-center text-emerald-600 text-xs font-bold">
+          <div className="flex items-center text-[#34BCAC] text-xs font-bold">
             <ArrowUpRight size={13} className="mr-0.5" />
             {trendValue}%{" "}
-            <span className="text-gray-400 font-normal ml-1 whitespace-nowrap">
+            <span className="text-[#878D96] font-normal ml-1 whitespace-nowrap">
               sem.
             </span>
           </div>
@@ -179,12 +179,12 @@ const TrainingCard = ({
   presMin,
   presNeces,
 }) => (
-  <div className="bg-white rounded-xl shadow-sm p-5 border border-gray-100 h-full flex flex-col">
+  <div className="bg-white rounded-xl shadow-sm p-5 border border-[#DDE1E6] h-full flex flex-col">
     <div className="flex items-center justify-between mb-3">
-      <h3 className="text-gray-400 text-xs font-bold uppercase tracking-wider">
+      <h3 className="text-[#878D96] text-xs font-bold uppercase tracking-wider">
         Formación
       </h3>
-      <div className="p-1.5 rounded-lg bg-orange-50 text-orange-600">
+      <div className="p-1.5 rounded-lg bg-[#EA6060]/10 text-[#EA6060]">
         <GraduationCap size={18} />
       </div>
     </div>
@@ -213,8 +213,8 @@ const TrainingCard = ({
           Webinars
         </div>
         {[
-          { label: "Conv.", value: webConv, color: "text-slate-600" },
-          { label: "Fin.", value: webReal, color: "text-emerald-600" },
+          { label: "Conv.", value: webConv, color: "text-[#697077]" },
+          { label: "Fin.", value: webReal, color: "text-[#34BCAC]" },
         ].map(({ label, value, color }) => (
           <div key={label} className="flex justify-between items-center text-xs">
             <span className="text-slate-500">{label}</span>
@@ -229,11 +229,11 @@ const TrainingCard = ({
           Presencial
         </div>
         {[
-          { label: "Prom. alum.", value: presProm, color: "text-slate-500" },
-          { label: "Mín. ses.", value: presMin, color: "text-slate-500" },
-          { label: "Conv.", value: presConv, color: "text-slate-600" },
-          { label: "Fin.", value: presReal, color: "text-emerald-600" },
-          { label: "Planif.", value: presNeces, color: "text-orange-500" },
+          { label: "Prom. alum.", value: presProm, color: "text-[#878D96]" },
+          { label: "Mín. ses.", value: presMin, color: "text-[#878D96]" },
+          { label: "Conv.", value: presConv, color: "text-[#697077]" },
+          { label: "Fin.", value: presReal, color: "text-[#34BCAC]" },
+          { label: "Planif.", value: presNeces, color: "text-[#EA6060]" },
         ].map(({ label, value, color }) => (
           <div key={label} className="flex justify-between items-center text-xs">
             <span className="text-slate-500">{label}</span>
@@ -264,21 +264,21 @@ const TrainingCard = ({
 );
 
 const AdminCard = ({ contracts, daci, invoices }) => (
-  <div className="bg-white rounded-xl shadow-sm p-5 border border-gray-100 h-full">
+  <div className="bg-white rounded-xl shadow-sm p-5 border border-[#DDE1E6] h-full">
     <div className="flex items-center justify-between mb-4">
-      <h3 className="text-gray-400 text-xs font-bold uppercase tracking-wider">
+      <h3 className="text-[#878D96] text-xs font-bold uppercase tracking-wider">
         Gestión Administrativa
       </h3>
-      <div className="p-1.5 rounded-lg bg-indigo-50 text-indigo-600">
+      <div className="p-1.5 rounded-lg bg-[#10235B]/10 text-[#10235B]">
         <Briefcase size={18} />
       </div>
     </div>
 
     <div className="space-y-3">
       {[
-        { label: "Contratos Firmados UP", val: contracts, color: "bg-blue-500", text: "text-blue-600" },
-        { label: "DACI", val: daci, color: "bg-indigo-500", text: "text-indigo-600" },
-        { label: "Facturas", val: invoices, color: "bg-emerald-500", text: "text-emerald-600" },
+        { label: "Contratos Firmados UP", val: contracts, color: "bg-[#10235B]", text: "text-[#10235B]" },
+        { label: "DACI", val: daci, color: "bg-[#54278F]", text: "text-[#54278F]" },
+        { label: "Facturas", val: invoices, color: "bg-[#34BCAC]", text: "text-[#34BCAC]" },
       ].map((item, i) => (
         <div key={i} className="space-y-1.5">
           <div className="flex justify-between items-center">
@@ -331,7 +331,7 @@ const EvidenciasPendientesCard = ({ rows, selectedCouncil }) => {
   return (
   <div className="bg-white rounded-2xl shadow-sm border border-slate-100 p-8">
     <div className="flex items-center gap-3 mb-6">
-      <div className="bg-rose-600 p-2 rounded-lg">
+      <div className="bg-[#EA6060] p-2 rounded-lg">
         <ClipboardList size={20} className="text-white" />
       </div>
       <div>
@@ -346,18 +346,18 @@ const EvidenciasPendientesCard = ({ rows, selectedCouncil }) => {
       </div>
       {rows.length > 0 && (
         <div className="ml-auto flex items-center gap-2 flex-wrap justify-end">
-          <span className="inline-flex items-center justify-center bg-rose-50 text-rose-700 font-black text-xs px-3 py-1 rounded-full border border-rose-200">
+          <span className="inline-flex items-center justify-center bg-[#EA6060]/10 text-[#EA6060] font-black text-xs px-3 py-1 rounded-full border border-[#EA6060]/30">
             {rows.length} sesión{rows.length !== 1 ? "es" : ""} con pendientes
           </span>
-          <span className="inline-flex items-center justify-center bg-amber-50 text-amber-700 font-black text-xs px-3 py-1 rounded-full border border-amber-200">
+          <span className="inline-flex items-center justify-center bg-[#FFCD02]/10 text-[#697077] font-black text-xs px-3 py-1 rounded-full border border-[#FFCD02]/40">
             {totalEvidencias} evidencia{totalEvidencias !== 1 ? "s" : ""} pendiente{totalEvidencias !== 1 ? "s" : ""}
           </span>
         </div>
       )}
     </div>
 
-    <div className="flex items-start gap-3 bg-amber-50 border border-amber-200 rounded-xl px-4 py-3 mb-5 text-xs text-amber-800 leading-relaxed">
-      <span className="mt-0.5 shrink-0 text-amber-500">
+    <div className="flex items-start gap-3 bg-[#FFCD02]/10 border border-[#FFCD02]/40 rounded-xl px-4 py-3 mb-5 text-xs text-[#4D5358] leading-relaxed">
+      <span className="mt-0.5 shrink-0 text-[#FFCD02]">
         <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
       </span>
       <p>
@@ -403,7 +403,7 @@ const EvidenciasPendientesCard = ({ rows, selectedCouncil }) => {
                 )}
                 <td className="px-4 py-3">
                   <span className="inline-flex items-center gap-1.5 font-bold text-slate-800 text-[11px]">
-                    <span className="inline-block w-1.5 h-1.5 rounded-full bg-rose-500 shrink-0" />
+                    <span className="inline-block w-1.5 h-1.5 rounded-full bg-[#EA6060] shrink-0" />
                     {row.sesion}
                   </span>
                 </td>
@@ -808,7 +808,7 @@ export default function Dashboard() {
       const canvas = await html2canvas(el, {
         scale: 1.2,
         useCORS: true,
-        backgroundColor: "#f8fafc",
+        backgroundColor: "#F8F9FB",
         logging: false,
         scrollY: -window.scrollY,
         windowWidth: el.scrollWidth,
@@ -872,7 +872,7 @@ export default function Dashboard() {
       const htmlToImage = window.htmlToImage;
 
       const dataUrl = await htmlToImage.toPng(dashboardRef.current, {
-        backgroundColor: "#f8fafc",
+        backgroundColor: "#F8F9FB",
         pixelRatio: 2,
       });
 
@@ -896,10 +896,10 @@ export default function Dashboard() {
 
   // ✅ UN SOLO RETURN (y nada de código debajo)
   return (
-    <div className="min-h-screen bg-slate-50 p-6 font-sans text-slate-900 overflow-x-hidden">
+    <div className="min-h-screen bg-[#F8F9FB] p-6 font-sans text-[#21272A] overflow-x-hidden">
       <div
         ref={dashboardRef}
-        className="max-w-[1400px] mx-auto bg-slate-50 p-4 rounded-xl"
+        className="max-w-[1400px] mx-auto bg-[#F8F9FB] p-4 rounded-xl"
       >
         {/* Mensajes de carga/error SIN romper hooks */}
         {dataError && (
@@ -930,9 +930,9 @@ export default function Dashboard() {
                   Fecha informe {REPORT_DATE_LABEL}
                 </p>
                 <span className="mx-3 text-slate-300">|</span>
-                <div className="flex items-center bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">
-                  <TrendingUp size={12} className="text-emerald-600 mr-1.5" />
-                  <span className="text-[10px] font-bold text-emerald-700 uppercase">
+                <div className="flex items-center bg-[#34BCAC]/10 px-2 py-0.5 rounded border border-[#34BCAC]/20">
+                  <TrendingUp size={12} className="text-[#34BCAC] mr-1.5" />
+                  <span className="text-[10px] font-bold text-[#34BCAC] uppercase">
                     Progreso Global: +
                     {globalStats.totalCrecimientoGeneral.toFixed(1)}%
                   </span>
@@ -948,8 +948,8 @@ export default function Dashboard() {
                   exportState === "error"
                     ? "bg-red-600"
                     : exportState === "success"
-                    ? "bg-emerald-600"
-                    : "bg-indigo-600 hover:bg-indigo-700"
+                    ? "bg-[#34BCAC]"
+                    : "bg-[#10235B] hover:bg-[#0d1e4f]"
                 }`}
               >
                 <FileDown size={16} />
@@ -970,7 +970,7 @@ export default function Dashboard() {
               </button>
 
               <div className="flex items-center bg-white border border-slate-200 rounded-xl px-4 py-2 shadow-sm">
-                <Filter size={16} className="text-blue-500 mr-3" />
+                <Filter size={16} className="text-[#10235B] mr-3" />
                 <select
                   className="bg-transparent text-sm font-bold text-slate-700 outline-none uppercase cursor-pointer"
                   value={selectedCouncilFilter}
@@ -989,16 +989,16 @@ export default function Dashboard() {
         )}
 
         {currentCouncilObj && (
-          <div className="mb-6 bg-slate-800 rounded-xl shadow-lg border border-slate-700 overflow-hidden text-white">
+          <div className="mb-6 bg-[#10235B] rounded-xl shadow-lg border border-[#1a3070] overflow-hidden text-white">
             <div className="flex flex-col lg:flex-row">
-              <div className="p-6 lg:w-1/4 bg-slate-900/40 border-r border-slate-700">
-                <span className="text-[10px] font-bold text-blue-400 uppercase tracking-widest block mb-1">
+              <div className="p-6 lg:w-1/4 bg-black/20 border-r border-[#1a3070]">
+                <span className="text-[10px] font-bold text-[#EA6060] uppercase tracking-widest block mb-1">
                   Contexto
                 </span>
                 <h2 className="text-xl font-bold uppercase leading-tight">
                   {currentCouncilObj.consejo}
                 </h2>
-                <div className="mt-3 inline-block bg-blue-500/10 text-blue-400 px-2 py-1 rounded text-[10px] font-bold border border-blue-500/20">
+                <div className="mt-3 inline-block bg-[#EA6060]/20 text-[#EA6060] px-2 py-1 rounded text-[10px] font-bold border border-[#EA6060]/30">
                   Variación Semanal: +
                   {Number(currentCouncilObj.crecimiento) || 0}%
                 </div>
@@ -1034,15 +1034,15 @@ export default function Dashboard() {
                 </div>
               </div>
 
-              <div className="p-6 lg:w-1/4 bg-slate-700/20">
-                <h4 className="text-orange-400 font-bold text-[10px] uppercase tracking-widest mb-3 flex items-center">
+              <div className="p-6 lg:w-1/4 bg-black/10">
+                <h4 className="text-[#FFCD02] font-bold text-[10px] uppercase tracking-widest mb-3 flex items-center">
                   <Video size={14} className="mr-2" /> Próximos Hitos
                 </h4>
 
                 <div className="space-y-3">
                   {currentCouncilObj.pendientes_webinar && (
                     <div>
-                      <span className="text-[8px] font-black text-blue-300 uppercase block">
+                      <span className="text-[8px] font-black text-[#EA6060] uppercase block">
                         Webinar:
                       </span>
                       <p className="text-slate-300 text-[10px]">
@@ -1052,7 +1052,7 @@ export default function Dashboard() {
                   )}
                   {currentCouncilObj.pendientes_presencial && (
                     <div>
-                      <span className="text-[8px] font-black text-emerald-300 uppercase block">
+                      <span className="text-[8px] font-black text-[#34BCAC] uppercase block">
                         Presencial:
                       </span>
                       <p className="text-slate-300 text-[10px]">
@@ -1106,8 +1106,8 @@ export default function Dashboard() {
           {/* GRÁFICO */}
           <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100">
             <div className="flex items-center justify-between mb-6">
-              <h3 className="text-sm font-bold text-slate-700 flex items-center">
-                <TrendingUp className="mr-2 text-blue-500" size={16} />{" "}
+              <h3 className="text-sm font-bold text-[#343A3F] flex items-center">
+                <TrendingUp className="mr-2 text-[#10235B]" size={16} />{" "}
                 Evolución Histórica de Validaciones
               </h3>
             </div>
@@ -1163,7 +1163,7 @@ export default function Dashboard() {
                   <Bar
                     yAxisId="right"
                     dataKey="Crecimiento"
-                    fill="#e2e8f0"
+                    fill="#DDE1E6"
                     radius={[4, 4, 0, 0]}
                     name="Semanal"
                   />
@@ -1172,13 +1172,13 @@ export default function Dashboard() {
                     yAxisId="left"
                     type="monotone"
                     dataKey="Total"
-                    stroke="#3b82f6"
+                    stroke="#10235B"
                     strokeWidth={3}
-                    dot={{ r: 4, fill: "#3b82f6", stroke: "#fff" }}
+                    dot={{ r: 4, fill: "#10235B", stroke: "#fff" }}
                     label={{
                       position: "top",
                       fontSize: 9,
-                      fill: "#3b82f6",
+                      fill: "#10235B",
                       fontWeight: "bold",
                       dy: -6,
                     }}
@@ -1192,7 +1192,7 @@ export default function Dashboard() {
           {/* TARJETA SOPORTE */}
           <div className="bg-white rounded-2xl shadow-sm border border-slate-100 p-8">
             <div className="flex items-center gap-3 mb-6">
-              <div className="bg-indigo-600 p-2 rounded-lg">
+              <div className="bg-[#10235B] p-2 rounded-lg">
                 <AlertCircle size={20} className="text-white" />
               </div>
               <div>
@@ -1217,9 +1217,9 @@ export default function Dashboard() {
                     >
                       <div className="mt-1">
                         {item.tipo === "bloqueo" ? (
-                          <MessageSquare size={16} className="text-amber-600" />
+                          <MessageSquare size={16} className="text-[#FFCD02]" />
                         ) : (
-                          <AlertCircle size={16} className="text-indigo-500" />
+                          <AlertCircle size={16} className="text-[#10235B]" />
                         )}
                       </div>
 
@@ -1233,8 +1233,8 @@ export default function Dashboard() {
                         <span
                           className={`text-[10px] font-black uppercase tracking-widest block mb-1 ${
                             item.tipo === "bloqueo"
-                              ? "text-amber-700"
-                              : "text-indigo-700"
+                              ? "text-[#697077]"
+                              : "text-[#10235B]"
                           }`}
                         >
                           {item.tipo === "bloqueo"
@@ -1270,7 +1270,7 @@ export default function Dashboard() {
         {/* TARJETA EVOLUTIVOS */}
         <div className="bg-white rounded-2xl shadow-sm border border-slate-100 p-8 mb-6 mt-6">
           <div className="flex items-center gap-3 mb-8">
-            <div className="bg-blue-600 p-2 rounded-lg">
+            <div className="bg-[#10235B] p-2 rounded-lg">
               <Rocket size={20} className="text-white" />
             </div>
             <div>
@@ -1288,7 +1288,7 @@ export default function Dashboard() {
             {/* “Soporte” (internamente: plataforma) */}
             <div className="bg-slate-50 rounded-xl p-6 border border-slate-100">
               <div className="flex items-center gap-2 mb-6 border-b border-slate-200 pb-3">
-                <LayoutDashboard className="text-blue-500" size={18} />
+                <LayoutDashboard className="text-[#10235B]" size={18} />
                 <h4 className="text-sm font-black text-slate-700 uppercase tracking-widest">
                   PLATAFORMA
                 </h4>
@@ -1296,10 +1296,10 @@ export default function Dashboard() {
               <ul className="space-y-4">
                 {(evolutivos.plataforma || []).map((item, i) => (
                   <li key={`plat-${i}`} className="flex items-start gap-3">
-                    <div className="bg-white min-w-[24px] h-6 rounded-full border border-slate-200 flex items-center justify-center text-[10px] font-black text-blue-600 shadow-sm">
+                    <div className="bg-white min-w-[24px] h-6 rounded-full border border-[#DDE1E6] flex items-center justify-center text-[10px] font-black text-[#10235B] shadow-sm">
                       {i + 1}
                     </div>
-                    <span className="text-xs text-slate-600 leading-relaxed py-0.5">
+                    <span className="text-xs text-[#4D5358] leading-relaxed py-0.5">
                       {item}
                     </span>
                   </li>
@@ -1310,7 +1310,7 @@ export default function Dashboard() {
             {/* SUG */}
             <div className="bg-slate-50 rounded-xl p-6 border border-slate-100">
               <div className="flex items-center gap-2 mb-6 border-b border-slate-200 pb-3">
-                <Cpu className="text-emerald-500" size={18} />
+                <Cpu className="text-[#34BCAC]" size={18} />
                 <h4 className="text-sm font-black text-slate-700 uppercase tracking-widest">
                   SUG
                 </h4>
@@ -1318,7 +1318,7 @@ export default function Dashboard() {
               <ul className="space-y-4">
                 {(evolutivos.sug || []).map((item, i) => (
                   <li key={`sug-${i}`} className="flex items-start gap-3">
-                    <div className="bg-white min-w-[24px] h-6 rounded-full border border-slate-200 flex items-center justify-center text-[10px] font-black text-emerald-600 shadow-sm">
+                    <div className="bg-white min-w-[24px] h-6 rounded-full border border-[#DDE1E6] flex items-center justify-center text-[10px] font-black text-[#34BCAC] shadow-sm">
                       {i + 1}
                     </div>
                     <span className="text-xs text-slate-600 leading-relaxed py-0.5">
@@ -1331,7 +1331,7 @@ export default function Dashboard() {
           </div>
         </div>
 
-        <div className="mt-6 text-center text-[9px] text-slate-300 font-bold uppercase tracking-[0.2em]">
+        <div className="mt-6 text-center text-[9px] text-[#A2A9B0] font-bold uppercase tracking-[0.2em]">
           Informe Oficial de Seguimiento • {REPORT_DATE_FOOTER}
         </div>
       </div>
