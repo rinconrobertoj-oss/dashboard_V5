@@ -72,16 +72,16 @@ const Card = ({
           <span className="text-xs text-gray-400 font-medium">{subtext}</span>
         )}
       </div>
-      <div className="mt-2 pt-2 border-t border-gray-50 flex items-center justify-between">
-        <p className="text-[10px] font-bold text-blue-600 bg-blue-50 inline-block px-1.5 py-0.5 rounded uppercase">
+      <div className="mt-2 pt-2 border-t border-gray-100 flex items-center justify-between">
+        <p className="text-xs font-bold text-blue-600 bg-blue-50 inline-block px-2 py-0.5 rounded-full uppercase tracking-wide">
           {footerText}
         </p>
         {trendValue !== undefined && (
-          <div className="flex items-center text-emerald-600 text-[10px] font-bold">
-            <ArrowUpRight size={12} className="mr-0.5" />
+          <div className="flex items-center text-emerald-600 text-xs font-bold">
+            <ArrowUpRight size={13} className="mr-0.5" />
             {trendValue}%{" "}
             <span className="text-gray-400 font-normal ml-1 whitespace-nowrap">
-              sem
+              sem.
             </span>
           </div>
         )}
@@ -189,73 +189,73 @@ const TrainingCard = ({
       </div>
     </div>
 
-    <div className="grid grid-cols-3 gap-3 flex-grow">
-      <div className="space-y-1 border-r border-slate-100 pr-2">
-        <div className="flex items-center text-[9px] font-bold text-gray-400 mb-1 uppercase tracking-tighter">
-          <Package size={10} className="mr-1" /> Materiales
+    <div className="grid grid-cols-3 gap-4 flex-grow">
+      {/* MATERIALES */}
+      <div className="space-y-1.5 border-r border-slate-100 pr-3">
+        <div className="flex items-center gap-1 text-[10px] font-bold text-slate-400 mb-2 uppercase tracking-wider">
+          <Package size={11} /> Materiales
         </div>
-        <div className="text-[10px] flex justify-between uppercase">
-          <span>Prod:</span> <span className="font-bold">{totalProd}</span>
-        </div>
-        <div className="text-[10px] flex justify-between uppercase">
-          <span>LO:</span> <span className="font-bold">{totalLO}</span>
-        </div>
-        <div className="text-[10px] flex justify-between uppercase">
-          <span>Consejo:</span> <span className="font-bold">{totalCons}</span>
-        </div>
+        {[
+          { label: "Prod", value: totalProd },
+          { label: "LO", value: totalLO },
+          { label: "Consejo", value: totalCons },
+        ].map(({ label, value }) => (
+          <div key={label} className="flex justify-between items-center text-xs">
+            <span className="text-slate-500">{label}</span>
+            <span className="font-bold text-slate-800">{value}</span>
+          </div>
+        ))}
       </div>
 
-      <div className="space-y-1 border-r border-slate-100 pr-2 flex flex-col items-center">
-        <div className="flex items-center text-[9px] font-bold text-gray-400 mb-1 uppercase">
-          WEBINARS
+      {/* WEBINARS */}
+      <div className="space-y-1.5 border-r border-slate-100 pr-3">
+        <div className="text-[10px] font-bold text-slate-400 mb-2 uppercase tracking-wider">
+          Webinars
         </div>
-        <div className="w-full">
-          <div className="text-[9px] flex justify-between uppercase text-slate-500">
-            <span>Conv:</span> <span className="font-bold">{webConv}</span>
+        {[
+          { label: "Conv.", value: webConv, color: "text-slate-600" },
+          { label: "Fin.", value: webReal, color: "text-emerald-600" },
+        ].map(({ label, value, color }) => (
+          <div key={label} className="flex justify-between items-center text-xs">
+            <span className="text-slate-500">{label}</span>
+            <span className={`font-bold ${color}`}>{value}</span>
           </div>
-          <div className="text-[9px] flex justify-between uppercase text-emerald-600">
-            <span>Fin:</span> <span className="font-bold">{webReal}</span>
-          </div>
-        </div>
+        ))}
       </div>
 
-      <div className="space-y-1 flex flex-col items-center">
-        <div className="flex items-center text-[9px] font-bold text-gray-400 mb-1 uppercase">
-          PRESENCIAL
+      {/* PRESENCIAL */}
+      <div className="space-y-1.5">
+        <div className="text-[10px] font-bold text-slate-400 mb-2 uppercase tracking-wider">
+          Presencial
         </div>
-        <div className="w-full">
-          <div className="text-[9px] flex justify-between uppercase text-slate-400">
-            <span>Prom. alum:</span> <span className="font-bold">{presProm}</span>
+        {[
+          { label: "Prom. alum.", value: presProm, color: "text-slate-500" },
+          { label: "Mín. ses.", value: presMin, color: "text-slate-500" },
+          { label: "Conv.", value: presConv, color: "text-slate-600" },
+          { label: "Fin.", value: presReal, color: "text-emerald-600" },
+          { label: "Planif.", value: presNeces, color: "text-orange-500" },
+        ].map(({ label, value, color }) => (
+          <div key={label} className="flex justify-between items-center text-xs">
+            <span className="text-slate-500">{label}</span>
+            <span className={`font-bold ${color}`}>{value}</span>
           </div>
-          <div className="text-[9px] flex justify-between uppercase text-slate-400">
-            <span>Mín. ses:</span> <span className="font-bold">{presMin}</span>
-          </div>
-          <div className="text-[9px] flex justify-between uppercase text-slate-500">
-            <span>Conv:</span> <span className="font-bold">{presConv}</span>
-          </div>
-          <div className="text-[9px] flex justify-between uppercase text-emerald-600">
-            <span>Fin:</span> <span className="font-bold">{presReal}</span>
-          </div>
-          <div className="text-[9px] flex justify-between uppercase text-orange-500">
-            <span>Planif:</span> <span className="font-bold">{presNeces}</span>
-          </div>
-        </div>
+        ))}
       </div>
     </div>
 
     {/* Leyenda */}
     <div className="mt-3 pt-2 border-t border-slate-100">
-      <div className="grid grid-cols-2 gap-x-3 gap-y-0.5">
+      <div className="grid grid-cols-2 gap-x-4 gap-y-0.5">
         {[
-          { ab: "Conv",        desc: "Sesiones convocadas" },
-          { ab: "Fin",         desc: "Sesiones finalizadas" },
-          { ab: "Prom. alum",  desc: "Promedio alumnos/sesión" },
-          { ab: "Mín. ses",    desc: "Mín. sesiones necesarias" },
-          { ab: "Planif",      desc: "Sesiones por planificar" },
+          { ab: "Conv.",       desc: "Sesiones convocadas" },
+          { ab: "Fin.",        desc: "Sesiones finalizadas" },
+          { ab: "Prom. alum.", desc: "Promedio alumnos/sesión" },
+          { ab: "Mín. ses.",   desc: "Mín. sesiones necesarias" },
+          { ab: "Planif.",     desc: "Sesiones por planificar" },
         ].map(({ ab, desc }) => (
           <div key={ab} className="flex items-baseline gap-1">
-            <span className="text-[8px] font-bold text-slate-500 shrink-0">{ab}:</span>
-            <span className="text-[8px] text-slate-400 leading-tight">{desc}</span>
+            <span className="text-[9px] font-bold text-slate-500 shrink-0">{ab}</span>
+            <span className="text-[9px] text-slate-400 leading-tight">{desc}</span>
           </div>
         ))}
       </div>
@@ -265,39 +265,33 @@ const TrainingCard = ({
 
 const AdminCard = ({ contracts, daci, invoices }) => (
   <div className="bg-white rounded-xl shadow-sm p-5 border border-gray-100 h-full">
-    <div className="flex items-center justify-between mb-3">
+    <div className="flex items-center justify-between mb-4">
       <h3 className="text-gray-400 text-xs font-bold uppercase tracking-wider">
-        Gestión Adm.
+        Gestión Administrativa
       </h3>
       <div className="p-1.5 rounded-lg bg-indigo-50 text-indigo-600">
         <Briefcase size={18} />
       </div>
     </div>
 
-    <div className="space-y-2">
+    <div className="space-y-3">
       {[
-        {
-          label: "Contratos Firmados UP",
-          val: contracts,
-          color: "bg-blue-500",
-        },
-        { label: "DACI", val: daci, color: "bg-indigo-500" },
-        { label: "Facturas", val: invoices, color: "bg-green-500" },
+        { label: "Contratos Firmados UP", val: contracts, color: "bg-blue-500", text: "text-blue-600" },
+        { label: "DACI", val: daci, color: "bg-indigo-500", text: "text-indigo-600" },
+        { label: "Facturas", val: invoices, color: "bg-emerald-500", text: "text-emerald-600" },
       ].map((item, i) => (
-        <div key={i} className="space-y-1">
-          <div className="flex justify-between items-center text-[10px]">
-            <span className="text-gray-500 uppercase">{item.label}</span>
-            <span className="font-bold text-gray-900">
+        <div key={i} className="space-y-1.5">
+          <div className="flex justify-between items-center">
+            <span className="text-xs text-gray-500 font-medium">{item.label}</span>
+            <span className={`text-xs font-bold ${item.text}`}>
               {item.val.num}/{item.val.den}
             </span>
           </div>
-          <div className="w-full bg-gray-100 rounded-full h-1">
+          <div className="w-full bg-gray-100 rounded-full h-1.5">
             <div
-              className={`${item.color} h-1 rounded-full`}
+              className={`${item.color} h-1.5 rounded-full transition-all duration-500`}
               style={{
-                width: `${
-                  item.val.den > 0 ? (item.val.num / item.val.den) * 100 : 0
-                }%`,
+                width: `${item.val.den > 0 ? Math.min((item.val.num / item.val.den) * 100, 100) : 0}%`,
               }}
             />
           </div>
@@ -1078,7 +1072,7 @@ export default function Dashboard() {
           </div>
         )}
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-6">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
           <Card
             title="Total Validados"
             value={stats.tv.toLocaleString()}
@@ -1088,10 +1082,6 @@ export default function Dashboard() {
             }%`}
             icon={Users}
             trendValue={Number(stats.cs || 0).toFixed(1)}
-          />
-          <ActivityRateCard
-            totalValidados={stats.tv}
-            totalInactivos={stats.ti}
           />
           <TrainingCard
             totalProd={stats.tp}
