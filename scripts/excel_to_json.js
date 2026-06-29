@@ -284,6 +284,13 @@ function parseEvolutivos(ws) {
 // Hoja 5 — HISTÓRICO GLOBAL
 // ---------------------------------------------------------------------------
 
+function isValidHistoricalDate(dateStr) {
+  if (!dateStr) return false;
+  const parts = dateStr.split("/");
+  if (parts.length !== 3) return false;
+  return parseInt(parts[2]) >= 2020;
+}
+
 function parseGlobalHistorical(ws) {
   const records = [];
   const rows = sheetToRows(ws);
@@ -298,7 +305,7 @@ function parseGlobalHistorical(ws) {
     }
     if (row[0] === null || row[0] === undefined) continue;
     const dateStr = formatDate(row[0]);
-    if (!dateStr) continue;
+    if (!isValidHistoricalDate(dateStr)) continue;
     const total = intVal(row[1]);
     records.push({ date: dateStr, Total: total });
   }
@@ -326,7 +333,7 @@ function parseCouncilHistorical(ws) {
     }
     if (!row[0]) continue;
     const dateStr = formatDate(row[0]);
-    if (!dateStr) continue;
+    if (!isValidHistoricalDate(dateStr)) continue;
     headers.slice(1).forEach((header, idx) => {
       if (!header) return;
       const i = idx + 1;
